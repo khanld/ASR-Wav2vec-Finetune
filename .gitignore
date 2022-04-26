@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+dataset/
+wav2vec2-pretrained-demo/
+saved/
+*.gz
+*.tar
+*.out
