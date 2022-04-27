@@ -37,12 +37,8 @@ class BaseTrainer:
         self.log_dir = log_dir
         self.use_distill = False
         self.use_amp = use_amp
-        self.scaler = torch.cuda.amp.GradScaler(
-          init_scale=10.0, 
-          growth_factor=2.0, 
-          backoff_factor=0.5, 
-          growth_interval=200, 
-          enabled=self.use_amp)
+        # Disabled Gradscaler
+        self.scaler = torch.cuda.amp.GradScaler(enabled=False)
         self.completed_steps = 0
         
 
@@ -104,7 +100,7 @@ class BaseTrainer:
         map_location = {'cuda:%d' % 0: 'cuda:%d' % self.rank}
         checkpoint = torch.load(latest_model_path, map_location=map_location)
 
-        self.start_epoch = checkpoint["epoch"] + 1
+        self.start_epoch = checkpoint["epoch"]
         self.completed_steps = checkpoint["completed_steps"] 
         self.best_score = checkpoint["best_score"]
         self.optimizer.load_state_dict(checkpoint["optimizer"])
@@ -176,7 +172,8 @@ class BaseTrainer:
             self._train_epoch(epoch)
 
             if epoch % self.validation_interval == 0:
-                print("Training has finished, validation is in progress...")
+                if self.rank == 0:
+                    print("Training has finished, validation is in progress...")
                 self.model.eval()
                 score = self._valid_epoch(epoch)
                 if self._is_best_epoch(score, save_max_metric_score=self.save_max_metric_score):

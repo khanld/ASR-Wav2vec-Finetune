@@ -9,7 +9,7 @@ class PBar:
 
 
     def update(self, step, mode, scores:dict):
-        scores = [(mode + ' ' + k, v) for k, v in scores.items()]
+        scores = [(mode + k, v) for k, v in scores.items()]
         self.pbar.update(step, scores)
 
 

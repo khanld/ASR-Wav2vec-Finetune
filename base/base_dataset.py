@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import sys
 import re
 
@@ -57,7 +56,7 @@ class BaseDataset(Dataset):
         return df
 
     def split(self):
-        return train_test_split(self.df, self.val_size)
+        return train_test_split(self.df, test_size=self.val_size)
 
     def get_data(self, mode = 'train'):
         if mode == 'train':
@@ -70,7 +69,7 @@ class BaseDataset(Dataset):
             if self.preload_data:
                 self.test_df['wav'] = self.preload_dataset(self.test_df['path'], self.sr)
             test_ds = InstanceDataset(self.test_df, self.sr, self.preload_data, transform = None)
-            return self.test_ds
+            return test_ds
 
 
 if __name__ == '__main__':

@@ -1,26 +1,28 @@
 [meta]
-name = "tmp" 
+name = "ASR" 
 seed = 42 
-epochs = 50 
+epochs = 15 
 save_dir = "saved/" 
 gradient_accumulation_steps = 1
 use_amp = true 
-device_ids = "0"
+device_ids = "5"
 sr = 16000
+max_clip_grad_norm = 1.0
 
 
 [train_dataset]
 path = "base.base_dataset.BaseDataset"
     [train_dataset.args]
-    path = "dataset/LibriSpeech/tmp.csv"
+    path = "/data1/speech/khanhld/ASR-Wa2vec-Finetune/20hdata_with_trainscript.txt"
     preload_data = false
     # pass val_size value here if you need to split the data
-    # val_size = 0.1 
+    val_size = 0.1 
     
     [train_dataset.dataloader]
         batch_size =  8
         num_workers = 2
         pin_memory = true 
+        drop_last = true
     [train_dataset.sampler]
         shuffle = true 
         drop_last = true
@@ -29,7 +31,7 @@ path = "base.base_dataset.BaseDataset"
 [val_dataset]
 path = "base.base_dataset.BaseDataset"
     [val_dataset.args]
-    path = "dataset/LibriSpeech/tmp.csv"
+    path = "/data1/speech/khanhld/ASR-Wa2vec-Finetune/20hdata_with_trainscript.txt"
     preload_data = false
     # pass val_size value here if you need to split the data
     # val_size = 0.1 
@@ -48,12 +50,12 @@ lr = 1e-5
 
 
 [scheduler] 
-max_lr = 5e-5
+max_lr = 1e-4
     
 
 [trainer]
 path = "trainer.trainer.Trainer"
     [trainer.args]
-    save_checkpoint_interval = 20
+    save_checkpoint_interval = 400
     save_max_metric_score = false 
     validation_interval = 1

@@ -1,15 +1,7 @@
-import numpy as np
-import torch
-import os
 import sys
 sys.path.append("../")
 
 from utils.feature import load_wav
-from typing import Dict, List, Optional, Union
-
-def default_collate(batch):
-    features, transcripts = zip(*batch)
-    return list(features), list(transcripts)
 
 class Dataset:
     def __init__(self, data, sr, preload_data, transform = None):
