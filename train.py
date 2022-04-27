@@ -1,13 +1,9 @@
 import argparse
 import json
-import importlib
 import torch
 import torch.multiprocessing as mp
 import torch.distributed as dist
-import numpy as np
-import random
 import os
-import datetime
 import toml
 
 
@@ -16,7 +12,8 @@ from torch.utils.data import DataLoader
 from time import gmtime, strftime
 from utils.utils import *
 from utils.metric import Metric
-from transformers import Wav2Vec2Config, Wav2Vec2ForCTC, Wav2Vec2FeatureExtractor, Wav2Vec2CTCTokenizer, Wav2Vec2Processor
+from dataloader.dataset import DefaultCollate
+from transformers import Wav2Vec2ForCTC, Wav2Vec2FeatureExtractor, Wav2Vec2CTCTokenizer, Wav2Vec2Processor
 
 def setup(rank, world_size):
     os.environ['MASTER_ADDR'] = 'localhost'
@@ -28,21 +25,6 @@ def setup(rank, world_size):
 def cleanup():
     dist.destroy_process_group()
 
-
-class DefaultCollate:
-    def __init__(self, processor) -> None:
-        self.processor = processor
-    def __call__(self, inputs):
-        features, transcripts = zip(*inputs)
-        features, transcripts = list(features), list(transcripts)
-        batch = self.processor(features, sampling_rate=16000, padding="longest", return_tensors="pt")
-
-        with self.processor.as_target_processor():
-            labels_batch = self.processor(transcripts, padding="longest", return_tensors="pt")
-
-        batch["labels"] = labels_batch["input_ids"].masked_fill(labels_batch.attention_mask.ne(1), -100)
-
-        return batch
 
 def main(rank, world_size, config, resume, preload):
     os.environ['CUDA_VISIBLE_DEVICES']=config["meta"]["device_ids"]
@@ -60,11 +42,8 @@ def main(rank, world_size, config, resume, preload):
     save_dir =  os.path.join(config["meta"]["save_dir"], config["meta"]['name'] + '/checkpoints')
     log_dir = os.path.join(config["meta"]["save_dir"], config["meta"]['name'] + '/log_dir')
     
-    
-    
-
-    # Store config file
     if rank == 0:
+        # Creatr dirs
         if not os.path.exists(save_dir):
             os.makedirs(save_dir)
         if not os.path.exists(log_dir):
@@ -76,22 +55,13 @@ def main(rank, world_size, config, resume, preload):
             json.dump(config, f)
             f.close()
 
-    # Since the train and validation dataset has already seperated, we process them separately
-    train_base_ds = initialize_module(config["train_dataset"]["path"], args=config["train_dataset"]["args"])
-    # Generate the vocab_dict file
-    vocab_dict = train_base_ds.get_vocab_dict()
-    with open('vocab.json', 'w') as f:
-        json.dump(vocab_dict, f)
-
-    # Prepare model stuffs
-    tokenizer = Wav2Vec2CTCTokenizer("vocab.json", unk_token="[UNK]", pad_token="[PAD]", word_delimiter_token="|")
-    feature_extractor = Wav2Vec2FeatureExtractor.from_pretrained("nguyenvulebinh/wav2vec2-base-vietnamese-250h")
-    processor = Wav2Vec2Processor(feature_extractor=feature_extractor, tokenizer=tokenizer)
-
-    default_collate = DefaultCollate(processor)
+    default_collate = DefaultCollate(processor, config['meta']['sr'])
     
     # Create train dataloader
+    train_base_ds = initialize_module(config["train_dataset"]["path"], args=config["train_dataset"]["args"])
     train_ds = train_base_ds.get_data()
+    # If val_size is provided, get the val_ds by:
+    # val_ds  = train_base_ds.get_data(mode = 'val')
     train_sampler = torch.utils.data.distributed.DistributedSampler(
         train_ds,
         num_replicas=world_size,
@@ -105,10 +75,10 @@ def main(rank, world_size, config, resume, preload):
         collate_fn=default_collate
     )
 
+    # If you have already split the dataset, process the validation data separately as below
     # Create val dataloader
     val_base_ds = initialize_module(config["val_dataset"]["path"], args=config["val_dataset"]["args"])
-    # Create train dataloader
-    val_ds = train_base_ds.get_data(mode='val')
+    val_ds = val_base_ds.get_data()
     val_sampler = torch.utils.data.distributed.DistributedSampler(
         val_ds,
         num_replicas=world_size,
@@ -122,6 +92,15 @@ def main(rank, world_size, config, resume, preload):
         collate_fn=default_collate
     )
 
+    # Generate the vocab_dict file
+    vocab_dict = train_base_ds.get_vocab_dict()
+    with open('vocab.json', 'w') as f:
+        json.dump(vocab_dict, f)
+
+    # Create processor
+    tokenizer = Wav2Vec2CTCTokenizer("vocab.json", unk_token="[UNK]", pad_token="[PAD]", word_delimiter_token="|")
+    feature_extractor = Wav2Vec2FeatureExtractor.from_pretrained("facebook/wav2vec2-base")
+    processor = Wav2Vec2Processor(feature_extractor=feature_extractor, tokenizer=tokenizer)
 
     # Load pretrained model
     model = Wav2Vec2ForCTC.from_pretrained(
@@ -133,13 +112,12 @@ def main(rank, world_size, config, resume, preload):
     )
 
     model.freeze_feature_encoder()
-    if torch.cuda.is_available():
-        model = DDP(model.to(rank), device_ids=[rank], find_unused_parameters=True)
+    # DDP for multi-processing
+    model = DDP(model.to(rank), device_ids=[rank], find_unused_parameters=True)
         
 
-
     # Set up metric, scheduler, optmizer
-    metric = Metric(processor)
+    compute_metric = Metric(processor)
 
     optimizer = torch.optim.AdamW(
         params = model.parameters(),
@@ -151,7 +129,6 @@ def main(rank, world_size, config, resume, preload):
         max_lr=config["scheduler"]["max_lr"], 
         epochs=epochs, 
         steps_per_epoch=(len(train_dl)//gradient_accumulation_steps) + (len(train_dl)%gradient_accumulation_steps != 0))
-
 
 
     if rank == 0:
@@ -169,7 +146,7 @@ def main(rank, world_size, config, resume, preload):
         preload = preload,
         epochs = epochs,
         model = model,
-        metric = metric,
+        compute_metric = compute_metric,
         processor = processor,
         train_dl = train_dl,
         val_dl = val_dl,

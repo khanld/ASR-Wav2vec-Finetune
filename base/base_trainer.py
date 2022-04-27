@@ -2,9 +2,6 @@ import torch
 import os
 import numpy as np
 
-from torch import nn
-from torch.nn import functional  as F
-from itertools import cycle
 from logger.tensorboard import TensorboardWriter
 
 
@@ -125,12 +122,12 @@ class BaseTrainer:
         print(f"\t Saving {epoch} epoch model checkpoint...")
 
         state_dict = {
-            "epoch": epoch,
+            "epoch": epoch + 1, # Since we start from 0, add 1 to completed_steps 
             "best_score": self.best_score,
             "optimizer": self.optimizer.state_dict(),
             "scaler": self.scaler.state_dict(),
             "scheduler": self.scheduler.state_dict(),
-            "completed_steps": self.completed_steps
+            "completed_steps": self.completed_steps + 1 # Since we start from 0, add 1 to completed_steps 
         }
 
         if isinstance(self.model, torch.nn.parallel.DistributedDataParallel):
@@ -168,18 +165,8 @@ class BaseTrainer:
 
     def train(self):
         for epoch in range(self.start_epoch, self.epochs):
-            self.model.train()
             self._train_epoch(epoch)
 
-            if epoch % self.validation_interval == 0:
-                if self.rank == 0:
-                    print("Training has finished, validation is in progress...")
-                self.model.eval()
-                score = self._valid_epoch(epoch)
-                if self._is_best_epoch(score, save_max_metric_score=self.save_max_metric_score):
-                    # Since we start from 0, add 1 to epoch 
-                    self._save_checkpoint(epoch+1, is_best_epoch=True)
-                
 
     def _train_epoch(self, epoch):
         raise NotImplementedError

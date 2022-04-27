@@ -1,5 +1,4 @@
 from datasets import load_metric
-import numpy as np
 import torch
 
 class Metric:

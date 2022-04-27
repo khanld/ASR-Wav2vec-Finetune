@@ -1,6 +1,4 @@
 import pandas as pd
-import numpy as np
-import os
 
 def preprocess_vivos(mode):
     f = open(f'/content/drive/MyDrive/ASR Finetune/train.txt')

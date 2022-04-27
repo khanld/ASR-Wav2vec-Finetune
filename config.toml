@@ -4,10 +4,10 @@ seed = 42
 epochs = 15 
 save_dir = "saved/" 
 gradient_accumulation_steps = 1
-use_amp = true 
-device_ids = "5"
+use_amp = true # Whether to use Automatic Mixed Precision for speeding up - https://pytorch.org/docs/stable/amp.html
+device_ids = "5" # set the gpu devices on which you want to train your model
 sr = 16000
-max_clip_grad_norm = 1.0
+max_clip_grad_norm = 1.0 # torch.nn.utils.clip_grad_norm_
 
 
 [train_dataset]
@@ -56,6 +56,5 @@ max_lr = 1e-4
 [trainer]
 path = "trainer.trainer.Trainer"
     [trainer.args]
-    save_checkpoint_interval = 400
+    validation_interval = 400
     save_max_metric_score = false 
-    validation_interval = 1
