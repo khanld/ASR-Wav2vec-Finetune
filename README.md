@@ -1,4 +1,4 @@
-# FINETUNE WAV2VEC 2.0 ON YOUR DATASETS
+# FINETUNE WAV2VEC 2.0 FOR SPEECH RECOGNITION
 ## Table of contents
 1. [Documentation](#documentation)
 2. [Installation](#installation)

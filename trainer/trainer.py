@@ -2,8 +2,8 @@ import torch
 
 from base.base_trainer import BaseTrainer
 from tqdm import tqdm
-from logger.pbar import PBar
 from torch.cuda.amp import autocast
+from logger.pbar import PBar
 
 class Trainer(BaseTrainer):
     def __init__(self, 
@@ -14,6 +14,7 @@ class Trainer(BaseTrainer):
                 resume,
                 preload,
                 epochs,
+                steps_per_epoch,
                 model,
                 compute_metric,
                 processor,
@@ -36,23 +37,25 @@ class Trainer(BaseTrainer):
                                         resume, 
                                         preload, 
                                         epochs, 
+                                        steps_per_epoch,
                                         model, 
+                                        train_dl,
+                                        val_dl,
+                                        train_sampler,
+                                        val_sampler,
                                         optimizer, 
                                         scheduler,
                                         save_dir, 
                                         log_dir,
-                                        use_amp
+                                        use_amp,
+                                        gradient_accumulation_steps
                                         )
         self.compute_metric = compute_metric
-        self.train_dl = train_dl
-        self.train_sampler = train_sampler
-        self.val_sampler = val_sampler
-        self.val_dl = val_dl
         self.sr = config["meta"]["sr"]
-        self.gradient_accumulation_steps = gradient_accumulation_steps
         self.n_gpus = n_gpus
         self.processor = processor
         self.max_clip_grad_norm = max_clip_grad_norm
+        self.stateful_metrics = ["train_loss", "train_lr", "train_grad_norm", "train_wer", "val_loss", "val_wer"]
 
     def get_grad_norm(self, params, scale=1):
         """Compute grad norm given a gradient scale."""
@@ -74,12 +77,14 @@ class Trainer(BaseTrainer):
 
     def _train_epoch(self, epoch):
         self.train_sampler.set_epoch(epoch)
-        pbar_step = 1
         if self.rank == 0:
             print("Epoch {}: ".format(epoch+1))
-            pbar = PBar(int(len(self.train_dl) // self.gradient_accumulation_steps + (len(self.train_dl) % self.gradient_accumulation_steps != 0)), 10)
+            pbar = PBar(self.steps_per_epoch, 10, stateful_metrics = self.stateful_metrics)
 
-        for step, batch in enumerate(self.train_dl):
+        for dl_step, batch in enumerate(self.train_dl):
+            if self.resume_step >= 0:
+                self.resume_step -= 1
+                continue
             with autocast(enabled = self.use_amp):
                 # forward
                 self.model.train()
@@ -95,7 +100,7 @@ class Trainer(BaseTrainer):
             wer = torch.tensor(self.compute_metric(outputs.logits.detach(), batch['labels']))
 
             # Optimize step
-            if (step + 1) % self.gradient_accumulation_steps == 0 or step == len(self.train_dl) - 1:
+            if (dl_step + 1) % self.gradient_accumulation_steps == 0 or dl_step == len(self.train_dl) - 1:
                 # compute grad norm for monitoring
                 grad_norm = self.get_grad_norm(self.model.parameters(), scale = self.scaler.get_scale())
 
@@ -132,10 +137,10 @@ class Trainer(BaseTrainer):
                 if self.rank == 0:
                     # write train logs
                     self.writer.update(self.completed_steps, 'Train', train_logs)
-                    pbar.update(pbar_step, "train_", train_logs)
+                    pbar.update(self.pbar_step+1, "train_", train_logs)
                     
                 # Evaluation
-                if self.completed_steps % self.validation_interval == 0:
+                if (self.completed_steps+1) % self.validation_interval == 0:
                     if self.rank == 0:
                         print("\nValidation is in progress...")
                     self.model.eval()
@@ -144,15 +149,18 @@ class Trainer(BaseTrainer):
                     if self.rank == 0:
                         # write val logs
                         self.writer.update(self.completed_steps, 'Validation', val_logs)
-                        pbar.update(pbar_step, "val_", val_logs)
+                        pbar.update(self.pbar_step+1, "val_", val_logs)
 
                         # Save best
                         if self._is_best_epoch(val_logs['wer'], save_max_metric_score=self.save_max_metric_score):
-                            self._save_checkpoint(epoch, is_best_epoch=True)
-
+                            self._save_checkpoint(epoch, dl_step, is_best_epoch=True)
+                        else:
+                            self._save_checkpoint(epoch, dl_step, is_best_epoch=False)
+                self.pbar_step += 1
                 self.completed_steps += 1
-                pbar_step += 1
-                    
+
+        # Reset
+        self.pbar_step = 0
             
     def _valid_epoch(self, step):
         self.val_sampler.set_epoch(step)
@@ -175,7 +183,3 @@ class Trainer(BaseTrainer):
         val_logs = {k: v.item() if hasattr(v, 'item') else v for k, v in val_logs.items()}
         
         return val_logs
-
-
-
-   

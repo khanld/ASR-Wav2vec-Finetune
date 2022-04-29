@@ -1,6 +1,9 @@
 import pandas as pd
 import sys
 import re
+import librosa
+import numpy as np
+from pandarallel import pandarallel
 
 # For testing 
 sys.path.append('..')
@@ -10,25 +13,53 @@ from utils.feature import load_wav
 from tqdm import tqdm
 from torch.utils.data import Dataset
 from dataloader.dataset import Dataset as InstanceDataset
+from vietnam_number import n2w
+
+
 
 class BaseDataset(Dataset):
-    def __init__(self, path, sr, preload_data, val_size = None, transform = None):
-        self.df = self.load_data(path)
+    def __init__(self, rank, dist, path, sr, delimiter, min_duration = -np.inf, max_duration = np.inf, preload_data = False, val_size = None, transform = None, nb_workers = 4):
+        self.rank = rank
+        self.dist = dist
         self.val_size = val_size
         self.sr = sr
         self.transform = transform
         self.preload_data = preload_data
-        self.df['transcript'] = self.df['transcript'].apply(self.remove_special_characters)
+        self.min_duration = min_duration
+        self.max_duration = max_duration
+        self.df = self.load_data(path, delimiter)
+        pandarallel.initialize(progress_bar=True, nb_workers = nb_workers)
 
+        if min_duration != -np.inf or max_duration != np.inf:
+            if self.rank == 0 and 'duration' not in self.df.columns:
+                print("*****Generate duration column*****")
+                self.df['duration'] = self.df['path'].parallel_apply(lambda filename: librosa.get_duration(filename=filename))
+                self.df.to_csv(path, index = False, sep = delimiter)
+            self.dist.barrier()
+            self.df = self.load_data(path, delimiter)
+            if self.rank == 0:
+                print("*****Filter out invalid audio*****")
+            mask = (self.df['duration'] <= self.max_duration) & (self.df['duration'] >= self.min_duration)
+            self.df = self.df[mask]
+        self.df['transcript'] = self.df['transcript'].apply(self.remove_special_characters)
+        
         if self.val_size is not None:
             assert val_size > 0 and val_size < 1, f"val_size should be greater than 0 and smaller than 1, but found {self.val_size}"
             self.train_df, self.test_df = self.split()
         else:
             self.train_df = self.df
+    
+
+
+    def has_numbers(self, text):
+        return any(char.isdigit() for char in text)
         
     def remove_special_characters(self, transcript):
-        chars_to_ignore_regex = '[\,\?\.\!\-\;\:\"]'
-        return re.sub(chars_to_ignore_regex, '', transcript).lower()
+        chars_to_ignore_regex = '[^\ a-z0-9A-Z_àáãạảăắằẳẵặâấầẩẫậèéẹẻẽêềếểễệđìíĩỉịòóõọỏôốồổỗộơớờởỡợùúũụủưứừửữựỳỵỷỹýÀÁÃẠẢĂẮẰẲẴẶÂẤẦẨẪẬÈÉẸẺẼÊỀẾỂỄỆĐÌÍĨỈỊÒÓÕỌỎÔỐỒỔỖỘƠỚỜỞỠỢÙÚŨỤỦƯỨỪỬỮỰỲỴỶỸÝ]'
+        transcript = re.sub(chars_to_ignore_regex, '', transcript).lower()
+        transcript = transcript.split(' ')
+        transcript = ' '.join(n2w(text) if text.isnumeric() else '' if self.has_numbers(text) else text for text in transcript)
+        return transcript
 
     def get_vocab_dict(self):
         # Read https://huggingface.co/blog/fine-tune-wav2vec2-english for more information
@@ -51,8 +82,8 @@ class BaseDataset(Dataset):
             wavs += [wav]
         return wavs
 
-    def load_data(self, path):
-        df = pd.read_csv(path)
+    def load_data(self, path, delimiter):
+        df = pd.read_csv(path, delimiter = delimiter)
         return df
 
     def split(self):
@@ -61,13 +92,17 @@ class BaseDataset(Dataset):
     def get_data(self, mode = 'train'):
         if mode == 'train':
             if self.preload_data:
-                self.train_df['wav'] = self.preload_dataset(self.train_df['path'], self.sr)
+                if self.rank == 0:
+                    print(f"Preloading {len(self.train_df)} data")
+                self.train_df['wav'] = self.train_df['path'].parallel_apply(lambda filepath: load_wav(filepath, sr = self.sr))
             train_ds = InstanceDataset(self.train_df, self.sr, self.preload_data, self.transform)
             return train_ds
         else:
             assert self.val_size is not None, f"val_size is not provided, cannot fetch test dataset"
             if self.preload_data:
-                self.test_df['wav'] = self.preload_dataset(self.test_df['path'], self.sr)
+                if self.rank == 0:
+                    print(f"Preloading {len(self.test_df)} data")
+                self.test_df['wav'] = self.test_df['path'].parallel_apply(lambda filepath: load_wav(filepath, sr = self.sr))
             test_ds = InstanceDataset(self.test_df, self.sr, self.preload_data, transform = None)
             return test_ds
 

@@ -1,11 +1,11 @@
 [meta]
 name = "ASR" 
 seed = 42 
-epochs = 15 
+epochs = 40
 save_dir = "saved/" 
-gradient_accumulation_steps = 1
+gradient_accumulation_steps = 2
 use_amp = true # Whether to use Automatic Mixed Precision for speeding up - https://pytorch.org/docs/stable/amp.html
-device_ids = "5" # set the gpu devices on which you want to train your model
+device_ids = "4,5" # set the gpu devices on which you want to train your model
 sr = 16000
 max_clip_grad_norm = 1.0 # torch.nn.utils.clip_grad_norm_
 
@@ -13,13 +13,17 @@ max_clip_grad_norm = 1.0 # torch.nn.utils.clip_grad_norm_
 [train_dataset]
 path = "base.base_dataset.BaseDataset"
     [train_dataset.args]
-    path = "/data1/speech/khanhld/ASR-Wa2vec-Finetune/20hdata_with_trainscript.txt"
+    path = "dataset/metadata/train.txt"
     preload_data = false
+    delimiter = "|"
+    min_duration = 0.5
+    max_duration = 10
+    nb_workers = 8
     # pass val_size value here if you need to split the data
-    val_size = 0.1 
+    # val_size = 0.1 
     
     [train_dataset.dataloader]
-        batch_size =  8
+        batch_size =  2
         num_workers = 2
         pin_memory = true 
         drop_last = true
@@ -31,13 +35,15 @@ path = "base.base_dataset.BaseDataset"
 [val_dataset]
 path = "base.base_dataset.BaseDataset"
     [val_dataset.args]
-    path = "/data1/speech/khanhld/ASR-Wa2vec-Finetune/20hdata_with_trainscript.txt"
+    path = "dataset/metadata/test.txt"
     preload_data = false
+    delimiter = "|"
+    nb_workers = 4
     # pass val_size value here if you need to split the data
     # val_size = 0.1 
 
     [val_dataset.dataloader]
-        batch_size =  8 
+        batch_size =  4
         num_workers = 2 
 
     [val_dataset.sampler]
@@ -46,15 +52,15 @@ path = "base.base_dataset.BaseDataset"
 
  
 [optimizer]
-lr = 1e-5
+lr = 5e-5
 
 
 [scheduler] 
-max_lr = 1e-4
+max_lr = 3e-4
     
 
 [trainer]
 path = "trainer.trainer.Trainer"
     [trainer.args]
-    validation_interval = 400
+    validation_interval = 235
     save_max_metric_score = false 

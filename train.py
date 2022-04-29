@@ -5,7 +5,8 @@ import torch.multiprocessing as mp
 import torch.distributed as dist
 import os
 import toml
-
+import warnings
+warnings.filterwarnings('ignore')
 
 from torch.nn.parallel import DistributedDataParallel as DDP
 from torch.utils.data import DataLoader
@@ -17,7 +18,7 @@ from transformers import Wav2Vec2ForCTC, Wav2Vec2FeatureExtractor, Wav2Vec2CTCTo
 
 def setup(rank, world_size):
     os.environ['MASTER_ADDR'] = 'localhost'
-    os.environ['MASTER_PORT'] = '3456'
+    os.environ['MASTER_PORT'] = '1234'
 
     # initialize the process group
     dist.init_process_group("gloo", rank=rank, world_size=world_size)
@@ -29,11 +30,7 @@ def cleanup():
 def main(rank, world_size, config, resume, preload):
     os.environ['CUDA_VISIBLE_DEVICES']=config["meta"]["device_ids"]
     os.environ['TORCH_DISTRIBUTED_DEBUG'] = 'INFO'
-    set_seed(config["meta"]["seed"])
     setup(rank, world_size)
-    
-    config['val_dataset']['args']['sr'] = config['meta']['sr']
-    config['train_dataset']['args']['sr'] = config['meta']['sr']
 
     epochs = config["meta"]["epochs"]
     gradient_accumulation_steps = config["meta"]["gradient_accumulation_steps"]
@@ -55,10 +52,33 @@ def main(rank, world_size, config, resume, preload):
             json.dump(config, f)
             f.close()
 
+    # This should be needed to be reproducible https://discuss.pytorch.org/t/setting-seed-in-torch-ddp/126638
+    config["meta"]["seed"] += rank
+    set_seed(config["meta"]["seed"])
+    
+    config['val_dataset']['args']['sr'] = config['meta']['sr']
+    config['train_dataset']['args']['sr'] = config['meta']['sr']
+    config['train_dataset']['args']['rank'] = rank
+    config['val_dataset']['args']['rank'] = rank
+    config["train_dataset"]["args"]["dist"] = dist
+    config["val_dataset"]["args"]["dist"] = dist
+
+    train_base_ds = initialize_module(config["train_dataset"]["path"], args=config["train_dataset"]["args"])
+    # Generate the vocab_dict file
+    if rank == 0:
+        vocab_dict = train_base_ds.get_vocab_dict()
+        with open('vocab.json', 'w') as f:
+            json.dump(vocab_dict, f)
+    dist.barrier()
+
+    # Create processor
+    tokenizer = Wav2Vec2CTCTokenizer("vocab.json", unk_token="[UNK]", pad_token="[PAD]", word_delimiter_token="|")
+    feature_extractor = Wav2Vec2FeatureExtractor.from_pretrained("facebook/wav2vec2-base")
+    processor = Wav2Vec2Processor(feature_extractor=feature_extractor, tokenizer=tokenizer)
     default_collate = DefaultCollate(processor, config['meta']['sr'])
     
+
     # Create train dataloader
-    train_base_ds = initialize_module(config["train_dataset"]["path"], args=config["train_dataset"]["args"])
     train_ds = train_base_ds.get_data()
     # If val_size is provided, get the val_ds by:
     # val_ds  = train_base_ds.get_data(mode = 'val')
@@ -92,15 +112,6 @@ def main(rank, world_size, config, resume, preload):
         collate_fn=default_collate
     )
 
-    # Generate the vocab_dict file
-    vocab_dict = train_base_ds.get_vocab_dict()
-    with open('vocab.json', 'w') as f:
-        json.dump(vocab_dict, f)
-
-    # Create processor
-    tokenizer = Wav2Vec2CTCTokenizer("vocab.json", unk_token="[UNK]", pad_token="[PAD]", word_delimiter_token="|")
-    feature_extractor = Wav2Vec2FeatureExtractor.from_pretrained("facebook/wav2vec2-base")
-    processor = Wav2Vec2Processor(feature_extractor=feature_extractor, tokenizer=tokenizer)
 
     # Load pretrained model
     model = Wav2Vec2ForCTC.from_pretrained(
@@ -123,12 +134,12 @@ def main(rank, world_size, config, resume, preload):
         params = model.parameters(),
         lr = config["optimizer"]["lr"]
     )
-  
+    steps_per_epoch = (len(train_dl)//gradient_accumulation_steps) + (len(train_dl)%gradient_accumulation_steps != 0)
     scheduler = torch.optim.lr_scheduler.OneCycleLR(
         optimizer, 
         max_lr=config["scheduler"]["max_lr"], 
         epochs=epochs, 
-        steps_per_epoch=(len(train_dl)//gradient_accumulation_steps) + (len(train_dl)%gradient_accumulation_steps != 0))
+        steps_per_epoch = steps_per_epoch)
 
 
     if rank == 0:
@@ -145,6 +156,7 @@ def main(rank, world_size, config, resume, preload):
         resume = resume,
         preload = preload,
         epochs = epochs,
+        steps_per_epoch = steps_per_epoch,
         model = model,
         compute_metric = compute_metric,
         processor = processor,
@@ -161,7 +173,7 @@ def main(rank, world_size, config, resume, preload):
         max_clip_grad_norm = max_clip_grad_norm
     )
     trainer.train()
-    # cleanup()
+    cleanup()
 
 if __name__ == '__main__':
     args = argparse.ArgumentParser(description='ASR')
@@ -175,7 +187,7 @@ if __name__ == '__main__':
     args = args.parse_args()
     config = toml.load(args.config)
     n_gpus = len(config['meta']["device_ids"].split(','))
-
+    
     mp.spawn(
         main,
         args = (n_gpus, config, args.resume, args.preload),
