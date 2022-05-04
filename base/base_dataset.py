@@ -18,10 +18,9 @@ from vietnam_number import n2w
 
 
 class BaseDataset(Dataset):
-    def __init__(self, rank, dist, path, sr, delimiter, min_duration = -np.inf, max_duration = np.inf, preload_data = False, val_size = None, transform = None, nb_workers = 4):
+    def __init__(self, rank, dist, path, sr, delimiter, min_duration = -np.inf, max_duration = np.inf, preload_data = False, transform = None, nb_workers = 4):
         self.rank = rank
         self.dist = dist
-        self.val_size = val_size
         self.sr = sr
         self.transform = transform
         self.preload_data = preload_data
@@ -42,14 +41,11 @@ class BaseDataset(Dataset):
             mask = (self.df['duration'] <= self.max_duration) & (self.df['duration'] >= self.min_duration)
             self.df = self.df[mask]
         self.df['transcript'] = self.df['transcript'].apply(self.remove_special_characters)
-        
-        if self.val_size is not None:
-            assert val_size > 0 and val_size < 1, f"val_size should be greater than 0 and smaller than 1, but found {self.val_size}"
-            self.train_df, self.test_df = self.split()
-        else:
-            self.train_df = self.df
     
-
+        if self.preload_data:
+            if self.rank == 0:
+                print(f"Preloading {len(self.train_df)} data")
+            self.df['wav'] = self.df['path'].parallel_apply(lambda filepath: load_wav(filepath, sr = self.sr))
 
     def has_numbers(self, text):
         return any(char.isdigit() for char in text)
@@ -89,22 +85,9 @@ class BaseDataset(Dataset):
     def split(self):
         return train_test_split(self.df, test_size=self.val_size)
 
-    def get_data(self, mode = 'train'):
-        if mode == 'train':
-            if self.preload_data:
-                if self.rank == 0:
-                    print(f"Preloading {len(self.train_df)} data")
-                self.train_df['wav'] = self.train_df['path'].parallel_apply(lambda filepath: load_wav(filepath, sr = self.sr))
-            train_ds = InstanceDataset(self.train_df, self.sr, self.preload_data, self.transform)
-            return train_ds
-        else:
-            assert self.val_size is not None, f"val_size is not provided, cannot fetch test dataset"
-            if self.preload_data:
-                if self.rank == 0:
-                    print(f"Preloading {len(self.test_df)} data")
-                self.test_df['wav'] = self.test_df['path'].parallel_apply(lambda filepath: load_wav(filepath, sr = self.sr))
-            test_ds = InstanceDataset(self.test_df, self.sr, self.preload_data, transform = None)
-            return test_ds
+    def get_data(self):
+        ds = InstanceDataset(self.df, self.sr, self.preload_data, self.transform)
+        return ds
 
 
 if __name__ == '__main__':

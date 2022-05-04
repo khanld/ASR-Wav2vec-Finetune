@@ -19,8 +19,6 @@ path = "base.base_dataset.BaseDataset"
     min_duration = 0.5
     max_duration = 10
     nb_workers = 8
-    # pass val_size value here if you need to split the data
-    # val_size = 0.1 
     
     [train_dataset.dataloader]
         batch_size =  2
@@ -39,8 +37,6 @@ path = "base.base_dataset.BaseDataset"
     preload_data = false
     delimiter = "|"
     nb_workers = 4
-    # pass val_size value here if you need to split the data
-    # val_size = 0.1 
 
     [val_dataset.dataloader]
         batch_size =  4

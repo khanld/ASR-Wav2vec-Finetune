@@ -80,8 +80,6 @@ def main(rank, world_size, config, resume, preload):
 
     # Create train dataloader
     train_ds = train_base_ds.get_data()
-    # If val_size is provided, get the val_ds by:
-    # val_ds  = train_base_ds.get_data(mode = 'val')
     train_sampler = torch.utils.data.distributed.DistributedSampler(
         train_ds,
         num_replicas=world_size,
@@ -95,7 +93,6 @@ def main(rank, world_size, config, resume, preload):
         collate_fn=default_collate
     )
 
-    # If you have already split the dataset, process the validation data separately as below
     # Create val dataloader
     val_base_ds = initialize_module(config["val_dataset"]["path"], args=config["val_dataset"]["args"])
     val_ds = val_base_ds.get_data()
