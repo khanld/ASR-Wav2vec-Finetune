@@ -4,6 +4,7 @@ import re
 import librosa
 import numpy as np
 from pandarallel import pandarallel
+from typing import Dict, List
 
 # For testing 
 sys.path.append('..')
@@ -18,10 +19,11 @@ from vietnam_number import n2w
 
 
 class BaseDataset(Dataset):
-    def __init__(self, rank, dist, path, sr, delimiter, min_duration = -np.inf, max_duration = np.inf, preload_data = False, transform = None, nb_workers = 4):
+    def __init__(self, rank, dist, path, sr, delimiter, chars_to_ignore, min_duration = -np.inf, max_duration = np.inf, preload_data = False, transform = None, nb_workers = 4):
         self.rank = rank
         self.dist = dist
         self.sr = sr
+        self.chars_to_ignore = chars_to_ignore
         self.transform = transform
         self.preload_data = preload_data
         self.min_duration = min_duration
@@ -31,33 +33,32 @@ class BaseDataset(Dataset):
 
         if min_duration != -np.inf or max_duration != np.inf:
             if self.rank == 0 and 'duration' not in self.df.columns:
-                print("*****Generate duration column*****")
+                print("\n*****Generate duration column*****")
                 self.df['duration'] = self.df['path'].parallel_apply(lambda filename: librosa.get_duration(filename=filename))
                 self.df.to_csv(path, index = False, sep = delimiter)
             self.dist.barrier()
             self.df = self.load_data(path, delimiter)
             if self.rank == 0:
-                print("*****Filter out invalid audio*****")
+                print("\n*****Filter out invalid audio*****")
             mask = (self.df['duration'] <= self.max_duration) & (self.df['duration'] >= self.min_duration)
             self.df = self.df[mask]
-        self.df['transcript'] = self.df['transcript'].apply(self.remove_special_characters)
+        self.df['transcript'] = self.df['transcript'].parallel_apply(self.remove_special_characters)
     
         if self.preload_data:
             if self.rank == 0:
-                print(f"Preloading {len(self.train_df)} data")
+                print(f"\n*****Preloading {len(self.df)} data*****")
             self.df['wav'] = self.df['path'].parallel_apply(lambda filepath: load_wav(filepath, sr = self.sr))
 
-    def has_numbers(self, text):
+    def has_numbers(self, text) -> bool:
         return any(char.isdigit() for char in text)
         
-    def remove_special_characters(self, transcript):
-        chars_to_ignore_regex = '[^\ a-z0-9A-Z_àáãạảăắằẳẵặâấầẩẫậèéẹẻẽêềếểễệđìíĩỉịòóõọỏôốồổỗộơớờởỡợùúũụủưứừửữựỳỵỷỹýÀÁÃẠẢĂẮẰẲẴẶÂẤẦẨẪẬÈÉẸẺẼÊỀẾỂỄỆĐÌÍĨỈỊÒÓÕỌỎÔỐỒỔỖỘƠỚỜỞỠỢÙÚŨỤỦƯỨỪỬỮỰỲỴỶỸÝ]'
-        transcript = re.sub(chars_to_ignore_regex, '', transcript).lower()
+    def remove_special_characters(self, transcript) -> str:
+        transcript = re.sub(self.chars_to_ignore, '', transcript).lower()
         transcript = transcript.split(' ')
-        transcript = ' '.join(n2w(text) if text.isnumeric() else '' if self.has_numbers(text) else text for text in transcript)
+        transcript = ' '.join(n2w(text.strip()) if text.strip().isnumeric() else '' if self.has_numbers(text.strip()) else text.strip() for text in transcript)
         return transcript
 
-    def get_vocab_dict(self):
+    def get_vocab_dict(self) -> Dict[int, str]:
         # Read https://huggingface.co/blog/fine-tune-wav2vec2-english for more information
         all_text = " ".join(list(self.df["transcript"]))
         vocab_list = list(set(all_text))
@@ -70,7 +71,7 @@ class BaseDataset(Dataset):
         vocab_dict["[PAD]"] = len(vocab_dict)
         return vocab_dict
 
-    def preload_dataset(self, paths, sr):
+    def preload_dataset(self, paths, sr) -> List:
         wavs = []
         print("Preloading {} data".format(self.mode))
         for path in tqdm(paths, total = len(paths)):
@@ -78,14 +79,11 @@ class BaseDataset(Dataset):
             wavs += [wav]
         return wavs
 
-    def load_data(self, path, delimiter):
+    def load_data(self, path, delimiter) -> pd.DataFrame:
         df = pd.read_csv(path, delimiter = delimiter)
         return df
 
-    def split(self):
-        return train_test_split(self.df, test_size=self.val_size)
-
-    def get_data(self):
+    def get_data(self) -> Dataset:
         ds = InstanceDataset(self.df, self.sr, self.preload_data, self.transform)
         return ds
 

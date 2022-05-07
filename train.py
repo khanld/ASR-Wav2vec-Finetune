@@ -6,6 +6,7 @@ import torch.distributed as dist
 import os
 import toml
 import warnings
+import datetime
 warnings.filterwarnings('ignore')
 
 from torch.nn.parallel import DistributedDataParallel as DDP
@@ -18,10 +19,10 @@ from transformers import Wav2Vec2ForCTC, Wav2Vec2FeatureExtractor, Wav2Vec2CTCTo
 
 def setup(rank, world_size):
     os.environ['MASTER_ADDR'] = 'localhost'
-    os.environ['MASTER_PORT'] = '1234'
+    os.environ['MASTER_PORT'] = '2222'
 
     # initialize the process group
-    dist.init_process_group("gloo", rank=rank, world_size=world_size)
+    dist.init_process_group("gloo", rank=rank, world_size=world_size, timeout=datetime.timedelta(seconds=3600 * 5))
 
 def cleanup():
     dist.destroy_process_group()
@@ -47,9 +48,9 @@ def main(rank, world_size, config, resume, preload):
             os.makedirs(log_dir)
             
         # Store config file
-        config_name = strftime("%Y-%m-%d %H:%M:%S", gmtime()).replace(' ', '_') + '.json'
+        config_name = strftime("%Y-%m-%d %H:%M:%S", gmtime()).replace(' ', '_') + '.toml'
         with open(os.path.join(config["meta"]["save_dir"], config["meta"]['name'] + '/' + config_name), 'w+') as f:
-            json.dump(config, f)
+            toml.dump(config, f)
             f.close()
 
     # This should be needed to be reproducible https://discuss.pytorch.org/t/setting-seed-in-torch-ddp/126638
@@ -75,8 +76,11 @@ def main(rank, world_size, config, resume, preload):
     tokenizer = Wav2Vec2CTCTokenizer("vocab.json", unk_token="[UNK]", pad_token="[PAD]", word_delimiter_token="|")
     feature_extractor = Wav2Vec2FeatureExtractor.from_pretrained("facebook/wav2vec2-base")
     processor = Wav2Vec2Processor(feature_extractor=feature_extractor, tokenizer=tokenizer)
+    # save processor 
+    processor.save_pretrained(os.path.join(config["meta"]["save_dir"], config["meta"]['name']))
+    processor.push_to_hub('wav2vec2-base-vietnamese-160h', use_auth_token = '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')
+
     default_collate = DefaultCollate(processor, config['meta']['sr'])
-    
 
     # Create train dataloader
     train_ds = train_base_ds.get_data()
@@ -119,7 +123,7 @@ def main(rank, world_size, config, resume, preload):
         gradient_checkpointing=False
     )
 
-    model.freeze_feature_encoder()
+    # model.freeze_feature_encoder()
     # DDP for multi-processing
     model = DDP(model.to(rank), device_ids=[rank], find_unused_parameters=True)
         

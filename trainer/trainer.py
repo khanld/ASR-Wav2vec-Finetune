@@ -1,9 +1,12 @@
+from ctypes import Union
+from typing import Any
 import torch
 
 from base.base_trainer import BaseTrainer
 from tqdm import tqdm
 from torch.cuda.amp import autocast
 from logger.pbar import PBar
+from typing import Dict, Union
 
 class Trainer(BaseTrainer):
     def __init__(self, 
@@ -57,7 +60,7 @@ class Trainer(BaseTrainer):
         self.max_clip_grad_norm = max_clip_grad_norm
         self.stateful_metrics = ["train_loss", "train_lr", "train_grad_norm", "train_wer", "val_loss", "val_wer"]
 
-    def get_grad_norm(self, params, scale=1):
+    def get_grad_norm(self, params, scale=1) -> torch.tensor:
         """Compute grad norm given a gradient scale."""
         total_norm = 0.0
         for p in params:
@@ -68,14 +71,15 @@ class Trainer(BaseTrainer):
         return total_norm
 
 
-    def gather(self, value: torch.tensor):
+    def gather(self, value: torch.tensor) -> Any:
+        # gather value across devices - https://pytorch.org/docs/stable/distributed.html#torch.distributed.all_gather
         if value.ndim == 0:
             value = value.clone()[None]
         output_tensors = [value.clone() for _ in range(self.dist.get_world_size())]
         self.dist.all_gather(output_tensors, value)
         return torch.cat(output_tensors, dim=0)
 
-    def _train_epoch(self, epoch):
+    def _train_epoch(self, epoch) -> None:
         self.train_sampler.set_epoch(epoch)
         if self.rank == 0:
             print("Epoch {}: ".format(epoch+1))
@@ -162,7 +166,7 @@ class Trainer(BaseTrainer):
         # Reset
         self.pbar_step = 0
             
-    def _valid_epoch(self, step):
+    def _valid_epoch(self, step) -> Dict[str, Union[Any, float]]:
         self.val_sampler.set_epoch(step)
         # init logs
         val_logs = {

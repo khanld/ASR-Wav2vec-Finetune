@@ -2,6 +2,7 @@ from tracemalloc import start
 import torch
 import os
 import numpy as np
+from typing import Dict, List
 
 from logger.tensorboard import TensorboardWriter
 
@@ -67,11 +68,11 @@ class BaseTrainer:
             self._print_networks([self.model])
             self._count_parameters()
 
-    def _count_parameters(self):
+    def _count_parameters(self) -> None:
         print("Number of trainable params: ", sum(p.numel() for p in self.model.parameters() if p.requires_grad)/1e6)
 
     @staticmethod
-    def _print_networks(models: list):
+    def _print_networks(models: list) -> None:
         print(f"This project contains {len(models)} models, the number of the parameters is: ")
 
         params_of_all_networks = 0
@@ -85,23 +86,26 @@ class BaseTrainer:
 
         print(f"The amount of parameters in the project is {params_of_all_networks / 1e6} million.")
 
-    def _preload_model(self, model_path):
+    def _preload_model(self, model_path) -> None:
         """
         Preload model parameters (in "*.tar" format) at the start of experiment.
         Args:
             model_path (Path): The file path of the *.tar file
         """
         model_path = model_path
-        assert model_path.exists(), f"The file {model_path} is not exist. please check path."
+        assert os.path.exists(model_path), f"The file {model_path} is not exist. please check path."
 
         map_location = {'cuda:%d' % 0: 'cuda:%d' % self.rank}
-        model_checkpoint = torch.load(model_path, map_location=map_location)
-        self.model.load_state_dict(model_checkpoint["model"], strict=False)
+        checkpoint = torch.load(model_path, map_location=map_location)
+        if isinstance(self.model, torch.nn.parallel.DistributedDataParallel):
+            self.model.module.load_state_dict(checkpoint["model"], strict = True)
+        else:
+            self.model.load_state_dict(checkpoint["model"], strict = True)
 
         if self.rank == 0:
             print(f"Model preloaded successfully from {model_path}.")
 
-    def _resume_checkpoint(self):
+    def _resume_checkpoint(self) -> None:
         """
         Resume experiment from the latest checkpoint.
         """
@@ -137,7 +141,7 @@ class BaseTrainer:
             print(f"Start training at step {self.pbar_step+1} in epoch {self.start_epoch+1} (= {self.completed_steps+1} iterations) based on your configuration and training dataset")
 
 
-    def _save_checkpoint(self, epoch, dl_step, is_best_epoch=False):
+    def _save_checkpoint(self, epoch, dl_step, is_best_epoch=False) -> None:
         """
         Save checkpoint to "<save_dir>/<config name>/checkpoints" directory, which consists of:
             - epoch
@@ -148,7 +152,7 @@ class BaseTrainer:
             is_best_epoch (bool): In the current epoch, if the model get a best metric score (is_best_epoch=True),
                                 the checkpoint of model will be saved as "<save_dir>/checkpoints/best_model.tar".
         """
-        print(f"\t Saving model checkpoint...")
+        print(f"\n Saving model checkpoint...")
 
         state_dict = {
             "epoch": epoch,
@@ -181,7 +185,7 @@ class BaseTrainer:
         if is_best_epoch:
             torch.save(state_dict, os.path.join(self.save_dir, "best_model.tar"))
 
-    def _is_best_epoch(self, score, save_max_metric_score=True):
+    def _is_best_epoch(self, score, save_max_metric_score=True) -> bool:
         """
         Check if the current model got the best metric score
         """
@@ -195,18 +199,16 @@ class BaseTrainer:
             return False
         
 
-    def train(self):
+    def train(self) -> None:
         for epoch in range(self.start_epoch, self.epochs):
             self.model.train()
             self._train_epoch(epoch)
             
 
-
-
-    def _train_epoch(self, epoch):
+    def _train_epoch(self, epoch) -> None:
         raise NotImplementedError
 
-    def _valid_epoch(self, epoch):
+    def _valid_epoch(self, epoch) -> None:
         raise NotImplementedError
 
    

@@ -1,6 +1,8 @@
 import pandas as pd
 import os
 import re
+import librosa
+from tqdm import tqdm
 
 def preprocess_fpt():
     path = '../dataset/fpt/transcriptAll.txt'
@@ -177,13 +179,41 @@ def merge_file():
     for i in result_test:
         write_file.write(i)
 
-preprocess_fpt()
+def prepare_vi_450h():
+    f = open('/data1/speech/khanhld/ASR-Wa2vec-Finetune/dataset/vi_450h/train/text', 'r')
+    lines = f.read().splitlines()
+    f.close()
+    texts = [tuple(line.split(' ', 1)) for line in lines]
+    texts.sort(key = lambda item: item[0])
+    f = open('/data1/speech/khanhld/ASR-Wa2vec-Finetune/dataset/vi_450h/train/wav.scp', 'r')
+    lines = f.read().splitlines()
+    f.close()
+    paths = [tuple(line.split(' ', 1)) for line in lines]
+    paths.sort(key = lambda item: item[0])
+    
+    f = open('/data1/speech/khanhld/ASR-Wa2vec-Finetune/dataset/vi_450h/train/train.txt', 'w+')
+    f.write('path' + '|' + 'transcript' + '|' + 'duration' + '\n')
+    for item1, item2 in tqdm(zip(texts, paths), total = len(texts)):
+        fname1, text = item1
+        fname2, path = item2
+        duration = librosa.get_duration(filename=path)
+        text = text.replace('<unk>', '')
+        text = text.replace('  ', ' ')
+        text = text.strip()
+        assert fname1 == fname2, f"fname1 = {fname1} - fname2 = {fname2}"
+        if len(text) > 0:
+            f.write(path + '|' + text + '|' + str(duration) + '\n')
+    f.close()
+
+prepare_vi_450h()
+
+# preprocess_fpt()
 
 
-preprocess_vivos()
+# preprocess_vivos()
 
-preprocess_vlsp()
+# preprocess_vlsp()
 
-preprocess_common_voice()
+# preprocess_common_voice()
 
-merge_file()
+# merge_file()
