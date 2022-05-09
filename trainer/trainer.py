@@ -42,6 +42,7 @@ class Trainer(BaseTrainer):
                                         epochs, 
                                         steps_per_epoch,
                                         model, 
+                                        processor,
                                         train_dl,
                                         val_dl,
                                         train_sampler,
@@ -56,7 +57,6 @@ class Trainer(BaseTrainer):
         self.compute_metric = compute_metric
         self.sr = config["meta"]["sr"]
         self.n_gpus = n_gpus
-        self.processor = processor
         self.max_clip_grad_norm = max_clip_grad_norm
         self.stateful_metrics = ["train_loss", "train_lr", "train_grad_norm", "train_wer", "val_loss", "val_wer"]
 
@@ -173,17 +173,17 @@ class Trainer(BaseTrainer):
             "loss": 0,
             "wer": 0
         }
+
         for batch in tqdm(self.val_dl, total = len(self.val_dl), disable = not self.rank == 0):
             with torch.no_grad():
                 with autocast(enabled = self.use_amp):
                     outputs = self.model(**batch)
 
             val_logs["loss"] += outputs.loss / len(self.val_dl)
-            val_logs["wer"] += torch.tensor(self.compute_metric(outputs.logits, batch['labels']) / len(self.val_dl))
+            val_logs["wer"] += torch.tensor(self.compute_metric(outputs.logits, batch['labels']))
 
         # average over devices in ddp
         if self.n_gpus > 1:
-            val_logs = {k: self.gather(v).mean() for k, v in val_logs.items()}
+            val_logs = {k: self.gather(v).sum() for k, v in val_logs.items()}
         val_logs = {k: v.item() if hasattr(v, 'item') else v for k, v in val_logs.items()}
-        
         return val_logs

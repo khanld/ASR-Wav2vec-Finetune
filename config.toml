@@ -9,17 +9,38 @@ device_ids = "4,5" # set the gpu devices on which you want to train your model
 sr = 16000
 max_clip_grad_norm = 1.0 # torch.nn.utils.clip_grad_norm_
 
+[special_token]
+bos_token = "<bos>"
+eos_token = "<eos>"
+unk_token = "<unk>"
+pad_token = "<pad>"
+
+
+[huggingface]
+# You need to install git-lfs to be able to push
+# Check out https://huggingface.co/docs/hub/how-to-upstream#repository to understand the parameters
+push_to_hub = false
+push_every_validation_step = false # If false, repo will be push at the end of training [recommended false]
+overwrite_output_dir = false
+blocking = false # whether to wait until the model is uploaded (this will be very slow because of large file) [recommended false, true only if push_every_validation_step is false]
+
+    # you can pass your auth_token from your huggingface account to use_auth_token.
+    # Otherwise you need to run ```huggingface-cli login``` command to log in
+    [huggingface.args]
+    local_dir = "huggingface-hub" # where your repo places in local
+    use_auth_token = true # you must provide the auth_token of your huggingface account. 
+    clone_from = "" # path to your repo in huggingface
+
+
 
 [train_dataset]
 path = "base.base_dataset.BaseDataset"
     [train_dataset.args]
-    path = "/data1/speech/khanhld/ASR-Wa2vec-Finetune/dataset/vi_450h/train/train.txt"
+    path = "/data1/speech/khanhld/ASR-Wa2vec-Finetune/dataset/metadata/train.txt"
     preload_data = false
     delimiter = "|"
-    # for vietnamese only, change chars_to_ignore that meets your language
-    chars_to_ignore = '[^\ a-z0-9A-Z_àáãạảăắằẳẵặâấầẩẫậèéẹẻẽêềếểễệđìíĩỉịòóõọỏôốồổỗộơớờởỡợùúũụủưứừửữựỳỵỷỹýÀÁÃẠẢĂẮẰẲẴẶÂẤẦẨẪẬÈÉẸẺẼÊỀẾỂỄỆĐÌÍĨỈỊÒÓÕỌỎÔỐỒỔỖỘƠỚỜỞỠỢÙÚŨỤỦƯỨỪỬỮỰỲỴỶỸÝ]'
-    min_duration = 0.5
-    max_duration = 20
+    # min_duration = 0.5
+    # max_duration = 20
     nb_workers = 16
     
     [train_dataset.dataloader]
@@ -35,15 +56,13 @@ path = "base.base_dataset.BaseDataset"
 [val_dataset]
 path = "base.base_dataset.BaseDataset"
     [val_dataset.args]
-    path = "/data1/speech/khanhld/ASR-Wa2vec-Finetune/dataset/vi_450h/test/test.txt"
+    path = "/data1/speech/khanhld/ASR-Wa2vec-Finetune/dataset/metadata/common_voice_test.txt"
     preload_data = false
     delimiter = "|"
-    # for vietnamese only, change chars_to_ignore that meets your language
-    chars_to_ignore = '[^\ a-z0-9A-Z_àáãạảăắằẳẵặâấầẩẫậèéẹẻẽêềếểễệđìíĩỉịòóõọỏôốồổỗộơớờởỡợùúũụủưứừửữựỳỵỷỹýÀÁÃẠẢĂẮẰẲẴẶÂẤẦẨẪẬÈÉẸẺẼÊỀẾỂỄỆĐÌÍĨỈỊÒÓÕỌỎÔỐỒỔỖỘƠỚỜỞỠỢÙÚŨỤỦƯỨỪỬỮỰỲỴỶỸÝ]'
     nb_workers = 16
 
     [val_dataset.dataloader]
-        batch_size =  1
+        batch_size =  1 # Set validation batch_size > 1 may yield an incorrect score due to padding (but faster :D) - https://github.com/pytorch/fairseq/issues/3227 
         num_workers = 4
 
     [val_dataset.sampler]

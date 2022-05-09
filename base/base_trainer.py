@@ -3,8 +3,10 @@ import torch
 import os
 import numpy as np
 from typing import Dict, List
+import shutil
 
 from logger.tensorboard import TensorboardWriter
+from huggingface_hub import Repository
 
 
 class BaseTrainer:
@@ -18,6 +20,7 @@ class BaseTrainer:
                     epochs, 
                     steps_per_epoch,
                     model, 
+                    processor,
                     train_dl,
                     val_dl,
                     train_sampler,
@@ -38,6 +41,7 @@ class BaseTrainer:
         self.start_epoch = 0
         self.pbar_step = 0
         self.model = model
+        self.processor = processor
         self.train_dl = train_dl
         self.val_dl = val_dl
         self.train_sampler = train_sampler
@@ -58,6 +62,15 @@ class BaseTrainer:
         self.save_max_metric_score = config["trainer"]["args"]["save_max_metric_score"]
         self.best_score = -np.inf if self.save_max_metric_score else np.inf
 
+        # Huggingface_hub
+        if self.config["huggingface"]["push_to_hub"]:
+            if self.config["huggingface"]["overwrite_output_dir"]:
+                shutil.rmtree(config["huggingface"]["args"]["local_dir"])
+            self.repo = Repository(**self.config["huggingface"]["args"])
+            
+        # save processor
+        self.processor.save_pretrained(config["huggingface"]["args"]["local_dir"])
+
         if preload is not None:
             self._preload_model(preload)
         if resume:
@@ -67,6 +80,8 @@ class BaseTrainer:
             self.writer = TensorboardWriter(self.log_dir)
             self._print_networks([self.model])
             self._count_parameters()
+        
+        exit(0)
 
     def _count_parameters(self) -> None:
         print("Number of trainable params: ", sum(p.numel() for p in self.model.parameters() if p.requires_grad)/1e6)
@@ -86,11 +101,26 @@ class BaseTrainer:
 
         print(f"The amount of parameters in the project is {params_of_all_networks / 1e6} million.")
 
+    def _push_to_hub(self, commit_message : str = "End of training") -> None:
+        """
+        Read https://huggingface.co/docs/hub/how-to-upstream#repository
+        Args:
+            commit_message: Message to commit
+        """
+
+        self.repo.git_pull()
+        return_message = self.repo.push_to_hub(
+            commit_message=commit_message, blocking=self.config["huggingface"]["blocking"], auto_lfs_prune=True
+        )
+        print(f"*****{return_message}*****")
+
+            
+
     def _preload_model(self, model_path) -> None:
         """
         Preload model parameters (in "*.tar" format) at the start of experiment.
         Args:
-            model_path (Path): The file path of the *.tar file
+            model_path: The file path of the *.tar file
         """
         model_path = model_path
         assert os.path.exists(model_path), f"The file {model_path} is not exist. please check path."
@@ -141,16 +171,13 @@ class BaseTrainer:
             print(f"Start training at step {self.pbar_step+1} in epoch {self.start_epoch+1} (= {self.completed_steps+1} iterations) based on your configuration and training dataset")
 
 
-    def _save_checkpoint(self, epoch, dl_step, is_best_epoch=False) -> None:
+    def _save_checkpoint(self, epoch: int, dl_step: int, is_best_epoch: bool = False) -> None:
         """
-        Save checkpoint to "<save_dir>/<config name>/checkpoints" directory, which consists of:
-            - epoch
-            - best metric score in historical epochs
-            - optimizer parameters
-            - model parameters
+        Save checkpoint to "<save_dir>" directory, which consists of:
         Args:
+        - dl_step: step in current epoch
             is_best_epoch (bool): In the current epoch, if the model get a best metric score (is_best_epoch=True),
-                                the checkpoint of model will be saved as "<save_dir>/checkpoints/best_model.tar".
+                                the checkpoint of model will be saved as "<save_dir>/best_model.tar".
         """
         print(f"\n Saving model checkpoint...")
 
@@ -184,6 +211,15 @@ class BaseTrainer:
         # The newer best-scored checkpoint will overwrite the older one.
         if is_best_epoch:
             torch.save(state_dict, os.path.join(self.save_dir, "best_model.tar"))
+            if isinstance(self.model, torch.nn.parallel.DistributedDataParallel):
+                self.model.module.save_pretrained(self.config["huggingface"]["args"]["local_dir"])
+            else:
+                self.model.save_pretrained(self.config["huggingface"]["args"]["local_dir"])
+            
+            torch.save(self.model, os.path.join(self.config["huggingface"]["args"]["local_dir"], 'model.pt'))
+            if self.config["huggingface"]["push_to_hub"] and self.config["huggingface"]["push_every_validation_step"]:
+                self._push_to_hub("update_best_model", True)
+
 
     def _is_best_epoch(self, score, save_max_metric_score=True) -> bool:
         """
@@ -203,7 +239,10 @@ class BaseTrainer:
         for epoch in range(self.start_epoch, self.epochs):
             self.model.train()
             self._train_epoch(epoch)
-            
+
+        if self.rank == 0 and self.config["huggingface"]["push_to_hub"] and not self.config["huggingface"]["push_every_validation_step"]:
+                self._push_to_hub("update_best_model", True)
+
 
     def _train_epoch(self, epoch) -> None:
         raise NotImplementedError

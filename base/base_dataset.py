@@ -19,16 +19,18 @@ from vietnam_number import n2w
 
 
 class BaseDataset(Dataset):
-    def __init__(self, rank, dist, path, sr, delimiter, chars_to_ignore, min_duration = -np.inf, max_duration = np.inf, preload_data = False, transform = None, nb_workers = 4):
+    def __init__(self, rank, dist, path, sr, delimiter, special_token, min_duration = -np.inf, max_duration = np.inf, preload_data = False, transform = None, nb_workers = 4):
         self.rank = rank
         self.dist = dist
         self.sr = sr
-        self.chars_to_ignore = chars_to_ignore
+        # Special characters to remove in your data 
+        self.chars_to_ignore ='[^\ a-z0-9A-Z_àáãạảăắằẳẵặâấầẩẫậèéẹẻẽêềếểễệđìíĩỉịòóõọỏôốồổỗộơớờởỡợùúũụủưứừửữựỳỵỷỹýÀÁÃẠẢĂẮẰẲẴẶÂẤẦẨẪẬÈÉẸẺẼÊỀẾỂỄỆĐÌÍĨỈỊÒÓÕỌỎÔỐỒỔỖỘƠỚỜỞỠỢÙÚŨỤỦƯỨỪỬỮỰỲỴỶỸÝ]'
         self.transform = transform
         self.preload_data = preload_data
         self.min_duration = min_duration
         self.max_duration = max_duration
         self.df = self.load_data(path, delimiter)
+        self.special_token = special_token
         pandarallel.initialize(progress_bar=True, nb_workers = nb_workers)
 
         if min_duration != -np.inf or max_duration != np.inf:
@@ -48,7 +50,7 @@ class BaseDataset(Dataset):
             if self.rank == 0:
                 print(f"\n*****Preloading {len(self.df)} data*****")
             self.df['wav'] = self.df['path'].parallel_apply(lambda filepath: load_wav(filepath, sr = self.sr))
-
+        
     def has_numbers(self, text) -> bool:
         return any(char.isdigit() for char in text)
         
@@ -67,8 +69,8 @@ class BaseDataset(Dataset):
 
         vocab_dict["|"] = vocab_dict[" "]
         del vocab_dict[" "]
-        vocab_dict["[UNK]"] = len(vocab_dict)
-        vocab_dict["[PAD]"] = len(vocab_dict)
+        for v in self.special_token.values():
+            vocab_dict[v] = len(vocab_dict)
         return vocab_dict
 
     def preload_dataset(self, paths, sr) -> List:

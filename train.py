@@ -19,7 +19,7 @@ from transformers import Wav2Vec2ForCTC, Wav2Vec2FeatureExtractor, Wav2Vec2CTCTo
 
 def setup(rank, world_size):
     os.environ['MASTER_ADDR'] = 'localhost'
-    os.environ['MASTER_PORT'] = '2222'
+    os.environ['MASTER_PORT'] = '4444'
 
     # initialize the process group
     dist.init_process_group("gloo", rank=rank, world_size=world_size, timeout=datetime.timedelta(seconds=3600 * 5))
@@ -56,30 +56,30 @@ def main(rank, world_size, config, resume, preload):
     # This should be needed to be reproducible https://discuss.pytorch.org/t/setting-seed-in-torch-ddp/126638
     config["meta"]["seed"] += rank
     set_seed(config["meta"]["seed"])
-    
     config['val_dataset']['args']['sr'] = config['meta']['sr']
     config['train_dataset']['args']['sr'] = config['meta']['sr']
+
     config['train_dataset']['args']['rank'] = rank
     config['val_dataset']['args']['rank'] = rank
+
     config["train_dataset"]["args"]["dist"] = dist
     config["val_dataset"]["args"]["dist"] = dist
 
+    config["train_dataset"]["args"]["special_token"] = config["special_token"]
+    config["val_dataset"]["args"]["special_token"] = config["special_token"]
+
     train_base_ds = initialize_module(config["train_dataset"]["path"], args=config["train_dataset"]["args"])
-    # Generate the vocab_dict file
-    if rank == 0:
-        vocab_dict = train_base_ds.get_vocab_dict()
-        with open('vocab.json', 'w') as f:
-            json.dump(vocab_dict, f)
-    dist.barrier()
 
     # Create processor
-    tokenizer = Wav2Vec2CTCTokenizer("vocab.json", unk_token="[UNK]", pad_token="[PAD]", word_delimiter_token="|")
+    tokenizer = Wav2Vec2CTCTokenizer("vocab.json", 
+                                    # bos_token = config["meta"]["bos_token"],
+                                    # eos_token = config["meta"]["eos_token"],
+                                    # unk_token=config["meta"]["unk_token"], 
+                                    # pad_token=config["meta"]["pad_token"], 
+                                    **config["special_token"],
+                                    word_delimiter_token="|")
     feature_extractor = Wav2Vec2FeatureExtractor.from_pretrained("facebook/wav2vec2-base")
     processor = Wav2Vec2Processor(feature_extractor=feature_extractor, tokenizer=tokenizer)
-    # save processor 
-    processor.save_pretrained(os.path.join(config["meta"]["save_dir"], config["meta"]['name']))
-    processor.push_to_hub('wav2vec2-base-vietnamese-160h', use_auth_token = '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')
-
     default_collate = DefaultCollate(processor, config['meta']['sr'])
 
     # Create train dataloader
@@ -122,11 +122,10 @@ def main(rank, world_size, config, resume, preload):
         vocab_size=len(processor.tokenizer),
         gradient_checkpointing=False
     )
-
+   
     # model.freeze_feature_encoder()
     # DDP for multi-processing
     model = DDP(model.to(rank), device_ids=[rank], find_unused_parameters=True)
-        
 
     # Set up metric, scheduler, optmizer
     compute_metric = Metric(processor)
@@ -144,7 +143,6 @@ def main(rank, world_size, config, resume, preload):
 
 
     if rank == 0:
-        print(vocab_dict)
         print("Number of training utterances: ", len(train_ds))
         print("Number of validation utterances: ", len(val_ds))
 
@@ -174,6 +172,8 @@ def main(rank, world_size, config, resume, preload):
         max_clip_grad_norm = max_clip_grad_norm
     )
     trainer.train()
+
+
     cleanup()
 
 if __name__ == '__main__':

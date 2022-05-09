@@ -1,0 +1,1881 @@
+path|transcript
+dataset/common_voice/vi/clips/common_voice_vi_28846908.mp3|Hương thu còn thoảng đâu đây bên thềm
+dataset/common_voice/vi/clips/common_voice_vi_26942577.mp3|Gió đông lạnh heo may về khắp lối
+dataset/common_voice/vi/clips/common_voice_vi_26136615.mp3|Ngày em đi cất nhẹ gót quay về
+dataset/common_voice/vi/clips/common_voice_vi_27152897.mp3|Anh đã biết tình kia là không thể
+dataset/common_voice/vi/clips/common_voice_vi_23965605.mp3|Cây cỏ tỉnh táo
+dataset/common_voice/vi/clips/common_voice_vi_27651857.mp3|Vợ tôi cũng bị một chiếc xe như vậy
+dataset/common_voice/vi/clips/common_voice_vi_27710013.mp3|Nồng nàn hoa sữa giữa bầu trời đêm
+dataset/common_voice/vi/clips/common_voice_vi_23847785.mp3|Vừa muốn nói thì lại thừ người ra
+dataset/common_voice/vi/clips/common_voice_vi_23950004.mp3|Bà bói liền đáp lại
+dataset/common_voice/vi/clips/common_voice_vi_25911366.mp3|Tô thắm sắc cho vườn hoa sống động
+dataset/common_voice/vi/clips/common_voice_vi_27648954.mp3|Giáo án mầm non chủ đề Thơ Tình bạn
+dataset/common_voice/vi/clips/common_voice_vi_27549962.mp3|Để sớm mai sương giăng mành thổn thức
+dataset/common_voice/vi/clips/common_voice_vi_23690373.mp3|Na ngoan của mẹ
+dataset/common_voice/vi/clips/common_voice_vi_26160952.mp3|Dắt tay em bước bên thềm hạnh phúc
+dataset/common_voice/vi/clips/common_voice_vi_26424933.mp3|Trên thảm cỏ mấy hạt còn chưa nở
+dataset/common_voice/vi/clips/common_voice_vi_28354829.mp3|Bất ngờ cánh cửa trên tầng đóng sập lại
+dataset/common_voice/vi/clips/common_voice_vi_26559098.mp3|Phải về quán nằm nghỉ lúc nào khỏe thì đi
+dataset/common_voice/vi/clips/common_voice_vi_23397238.mp3|Thảo cố hết sức đạp vào người của em để ra ngoài
+dataset/common_voice/vi/clips/common_voice_vi_24144115.mp3|những gì em đòi
+dataset/common_voice/vi/clips/common_voice_vi_27148751.mp3|Dở dang hoài dang dở dở dang thôi
+dataset/common_voice/vi/clips/common_voice_vi_27128402.mp3|Em có nhớ màu hoa trong gió thổi
+dataset/common_voice/vi/clips/common_voice_vi_27128434.mp3|Cháy khát khao anh dâng tình sâu đậm
+dataset/common_voice/vi/clips/common_voice_vi_23891882.mp3|Con của tao Ngoan hiền lắm dễ thương biết nghe lời
+dataset/common_voice/vi/clips/common_voice_vi_23891886.mp3|Mày lại mơ à
+dataset/common_voice/vi/clips/common_voice_vi_26102963.mp3|Anh chàng chạy xe đáp ngay
+dataset/common_voice/vi/clips/common_voice_vi_26102967.mp3|Chiều hoàng hôn tím đỏ những chân mây
+dataset/common_voice/vi/clips/common_voice_vi_23763792.mp3|Thì cố học cho xong
+dataset/common_voice/vi/clips/common_voice_vi_23763793.mp3|Nghe bà ấy nói mà Cả nhà em đều sợ hãi
+dataset/common_voice/vi/clips/common_voice_vi_27501155.mp3|Trời tháng mười e ấp những vì sao
+dataset/common_voice/vi/clips/common_voice_vi_27501156.mp3|Chúng mình nguyện ước
+dataset/common_voice/vi/clips/common_voice_vi_24562280.mp3|tôi lừa đảo của gia đình anh cái gì
+dataset/common_voice/vi/clips/common_voice_vi_24562283.mp3|Cả nhà hạnh phúc
+dataset/common_voice/vi/clips/common_voice_vi_23695846.mp3|bố liền nói
+dataset/common_voice/vi/clips/common_voice_vi_23695847.mp3|Các bình chọn của Tuần báo Time
+dataset/common_voice/vi/clips/common_voice_vi_23960969.mp3|Thôn e ri a ở đâu
+dataset/common_voice/vi/clips/common_voice_vi_23960971.mp3|Đặt bát cháo ở lên bàn Quân liền hỏi
+dataset/common_voice/vi/clips/common_voice_vi_24743774.mp3|Tâm lý bất ổn định khi vừa mất đi cái thai ở trong bụng
+dataset/common_voice/vi/clips/common_voice_vi_24743808.mp3|Chính liền trả lời
+dataset/common_voice/vi/clips/common_voice_vi_26326144.mp3|Nhà của bà len đó
+dataset/common_voice/vi/clips/common_voice_vi_28660607.mp3|Gửi hương yêu thắp lửa mộng lòng xinh
+dataset/common_voice/vi/clips/common_voice_vi_24421803.mp3|Thảo đã mất rồi
+dataset/common_voice/vi/clips/common_voice_vi_24421806.mp3|Bà bói vẫn ăn mặc bình thường
+dataset/common_voice/vi/clips/common_voice_vi_26978664.mp3|Tôi đợi em sau những chiều tan học
+dataset/common_voice/vi/clips/common_voice_vi_26978678.mp3|Thu vội vã nhặt gom từng hạt nắng
+dataset/common_voice/vi/clips/common_voice_vi_25245129.mp3|Thảo không thể về nhà
+dataset/common_voice/vi/clips/common_voice_vi_25245131.mp3|Nhanh như cắt
+dataset/common_voice/vi/clips/common_voice_vi_22770199.mp3|Hơi thở càng ngày càng gấp gáp
+dataset/common_voice/vi/clips/common_voice_vi_22770200.mp3|Lòng mẹ bao la
+dataset/common_voice/vi/clips/common_voice_vi_26096003.mp3|Vỡ trên chuỗi nhớ sợi đong đưa buồn
+dataset/common_voice/vi/clips/common_voice_vi_26096004.mp3|Như là gói cả mùi hương đất trời
+dataset/common_voice/vi/clips/common_voice_vi_25256148.mp3|đặt trên bàn thờ
+dataset/common_voice/vi/clips/common_voice_vi_25256213.mp3|Cho nên Trinh phải đỗ xe ở ngoài đường lớn rồi bước bộ vào
+dataset/common_voice/vi/clips/common_voice_vi_27018659.mp3|Bởi vậy Mà từ đó bà thường hiện hồn về
+dataset/common_voice/vi/clips/common_voice_vi_27014336.mp3|Coi kìa cậu ấy tỉnh táo lại như thường rồi đó
+dataset/common_voice/vi/clips/common_voice_vi_27053042.mp3|Gửi vào cơn gió ngàn lời yêu em
+dataset/common_voice/vi/clips/common_voice_vi_27053048.mp3|Tháng mười là tháng mười ơi
+dataset/common_voice/vi/clips/common_voice_vi_24476314.mp3|đêm nay chúng ta tiếp tục
+dataset/common_voice/vi/clips/common_voice_vi_24476316.mp3|Nếu biết rằng sẽ chẳng gặp lại nhau
+dataset/common_voice/vi/clips/common_voice_vi_24476317.mp3|Em như một đứa vô hồn không bước nổi
+dataset/common_voice/vi/clips/common_voice_vi_25224658.mp3|bởi thảo đang bị giữ chân không đi được
+dataset/common_voice/vi/clips/common_voice_vi_25224726.mp3|Mặt khác chị cũng rất tò mò không biết được rằng
+dataset/common_voice/vi/clips/common_voice_vi_25224782.mp3|Những cái xác đang phân hủy để lại bộ xương trắng tinh
+dataset/common_voice/vi/clips/common_voice_vi_21824030.mp3|Ở cái nơi rừng thiêng nước độc này
+dataset/common_voice/vi/clips/common_voice_vi_21824045.mp3|Hoặc là có thể là nhờ kuman
+dataset/common_voice/vi/clips/common_voice_vi_21824046.mp3|Không không không sao đâu
+dataset/common_voice/vi/clips/common_voice_vi_27404869.mp3|Mới gặp anh đôi má em ửng đỏ
+dataset/common_voice/vi/clips/common_voice_vi_27404896.mp3|Tháng đầu đông cho đôi mắt đen huyền
+dataset/common_voice/vi/clips/common_voice_vi_27404903.mp3|Ông ấy đưa cho tôi cái địa chỉ tới đây rồi đi luôn
+dataset/common_voice/vi/clips/common_voice_vi_26979542.mp3|Chút sắc vàng óng ả chẳng còn đâu
+dataset/common_voice/vi/clips/common_voice_vi_26979544.mp3|Khe khẽ
+dataset/common_voice/vi/clips/common_voice_vi_26979545.mp3|Mảnh thơ tình khờ dại
+dataset/common_voice/vi/clips/common_voice_vi_22791282.mp3|Anh là chồng của Nhi anh đừng khách sáo như vậy
+dataset/common_voice/vi/clips/common_voice_vi_22791283.mp3|Không
+dataset/common_voice/vi/clips/common_voice_vi_22791288.mp3|cho tới thành lập Việt Nam Dân chủ Cộng hòa
+dataset/common_voice/vi/clips/common_voice_vi_23667729.mp3|Ý cô là sao
+dataset/common_voice/vi/clips/common_voice_vi_23667730.mp3|Lập tức cơn đau lại nhói lên dữ dội
+dataset/common_voice/vi/clips/common_voice_vi_23667731.mp3|Tầm một tuần ở đây thôi
+dataset/common_voice/vi/clips/common_voice_vi_23667732.mp3|Bằng mọi giá anh phải là của em
+dataset/common_voice/vi/clips/common_voice_vi_23970558.mp3|Chồng tôi vẫn biết tôi thương nhớ
+dataset/common_voice/vi/clips/common_voice_vi_23970559.mp3|tôi là một công dân mỹ
+dataset/common_voice/vi/clips/common_voice_vi_23970560.mp3|Hãy còn sớm hay là anh quân vào trong nhà em ngồi chơi
+dataset/common_voice/vi/clips/common_voice_vi_23970561.mp3|Bà Thảo thì khuyên mọi người nên đi xem thầy khác
+dataset/common_voice/vi/clips/common_voice_vi_22493631.mp3|chứ tình trạng hoảng loạn như vậy sẽ rất nguy hiểm
+dataset/common_voice/vi/clips/common_voice_vi_22493633.mp3|Trời ơi người ấy có buồn không
+dataset/common_voice/vi/clips/common_voice_vi_22493635.mp3|Như mẹ chúng ta
+dataset/common_voice/vi/clips/common_voice_vi_22493637.mp3|Chữ Đức chữ TÂM
+dataset/common_voice/vi/clips/common_voice_vi_23707415.mp3|Anh ta nheo đôi mắt rồi gật đầu
+dataset/common_voice/vi/clips/common_voice_vi_23707416.mp3|Bởi cứ nhắm mắt lại là em lại thấy hình ảnh của thảo
+dataset/common_voice/vi/clips/common_voice_vi_23707417.mp3|Trong Mơ Hồ
+dataset/common_voice/vi/clips/common_voice_vi_23707419.mp3|Có công việc gì kiếm tiền cho tôi làm với
+dataset/common_voice/vi/clips/common_voice_vi_23745302.mp3|Sáng hôm sau cả đoàn thức dậy
+dataset/common_voice/vi/clips/common_voice_vi_23745303.mp3|con bé còn thông minh nhanh nhẹn hơn trước đúng không
+dataset/common_voice/vi/clips/common_voice_vi_23745305.mp3|Có hay chăng là con bé đó gây ra không
+dataset/common_voice/vi/clips/common_voice_vi_23745306.mp3|Nhưng sự việc đi qua đã khiến cho Trinh không thể không tin
+dataset/common_voice/vi/clips/common_voice_vi_22381111.mp3|Sắp tới bốn mươi chín ngày của con bé kia
+dataset/common_voice/vi/clips/common_voice_vi_22381112.mp3|Nhưng do có nhiều chuyện nên bán nhà đó để mua nơi khác
+dataset/common_voice/vi/clips/common_voice_vi_22381113.mp3|Văn hay chữ tốt
+dataset/common_voice/vi/clips/common_voice_vi_22381114.mp3|Và đêm nay nến thắp sáng lên rồi
+dataset/common_voice/vi/clips/common_voice_vi_26975850.mp3|Cây tương tư bên đường chờ thay áo
+dataset/common_voice/vi/clips/common_voice_vi_26975851.mp3|Ôi ta mông lung tháng chín tháng mười
+dataset/common_voice/vi/clips/common_voice_vi_26975920.mp3|Có bà dã quỳ ở nhà không cô
+dataset/common_voice/vi/clips/common_voice_vi_26975924.mp3|Rót vào hồn sầu cung thương trầm lắng
+dataset/common_voice/vi/clips/common_voice_vi_23334646.mp3|Cho nên cũng nhẫn nại ngồi trên xe
+dataset/common_voice/vi/clips/common_voice_vi_23334648.mp3|Mưa rồi cũng tạnh
+dataset/common_voice/vi/clips/common_voice_vi_23334649.mp3|Tấc đất tấc vàng
+dataset/common_voice/vi/clips/common_voice_vi_23334650.mp3|Tôi thực sự lo lắng về con thanh
+dataset/common_voice/vi/clips/common_voice_vi_22750202.mp3|Bà tâm đau khổ nhìn con rồi lắc đầu
+dataset/common_voice/vi/clips/common_voice_vi_22750203.mp3|Tôi có cái ý như thế này
+dataset/common_voice/vi/clips/common_voice_vi_22750205.mp3|Thì dân tộc Thái tức là bản làng đây
+dataset/common_voice/vi/clips/common_voice_vi_22750206.mp3|Sông sâu còn có kẻ dò đố ai lấy thước mà đo lòng người
+dataset/common_voice/vi/clips/common_voice_vi_23377231.mp3|Đi qua cùng heo may
+dataset/common_voice/vi/clips/common_voice_vi_23377232.mp3|Tần tảo vì con
+dataset/common_voice/vi/clips/common_voice_vi_23377233.mp3|Mọi thứ im lìm đến lạnh người
+dataset/common_voice/vi/clips/common_voice_vi_23377234.mp3|Đôi mắt lim dim thở hổn hển
+dataset/common_voice/vi/clips/common_voice_vi_23377235.mp3|Là lãnh tụ được nhiều người ngưỡng mộ và tôn sùng
+dataset/common_voice/vi/clips/common_voice_vi_23790298.mp3|tại Quảng trường Ba Đình
+dataset/common_voice/vi/clips/common_voice_vi_23790299.mp3|người ta lái xe cán nát cả cô ấy ngay tại chỗ
+dataset/common_voice/vi/clips/common_voice_vi_23790300.mp3|Trinh đưa tay lên xem đồng hồ Bây giờ là mấy giờ
+dataset/common_voice/vi/clips/common_voice_vi_23790301.mp3|Gọi xe cấp cứu đi người này vẫn còn sống này
+dataset/common_voice/vi/clips/common_voice_vi_23790302.mp3|Some trai bất giác giật mình hắn ta vội vàng
+dataset/common_voice/vi/clips/common_voice_vi_23801915.mp3|Anh nấy cũng khoe rằng ảnh của mình hơn
+dataset/common_voice/vi/clips/common_voice_vi_23801916.mp3|Bà tâm vừa ho vừa nhìn con thều thào nói
+dataset/common_voice/vi/clips/common_voice_vi_23801917.mp3|Chinh không trả lời
+dataset/common_voice/vi/clips/common_voice_vi_23801923.mp3|Vậy mà khi ra tay thì bà dạ quỳ thật nhanh
+dataset/common_voice/vi/clips/common_voice_vi_23801924.mp3|Một tuần sau thì bà tâm chết
+dataset/common_voice/vi/clips/common_voice_vi_21882263.mp3|nô en vui vẻ
+dataset/common_voice/vi/clips/common_voice_vi_21882264.mp3|đi đâu sao mày biết tao đi chơi
+dataset/common_voice/vi/clips/common_voice_vi_21882265.mp3|nên mỗi lần đi đâu về muộn một chút
+dataset/common_voice/vi/clips/common_voice_vi_21882266.mp3|Nhà mới của em ở trong xóm
+dataset/common_voice/vi/clips/common_voice_vi_21882308.mp3|Trích dẫn từ báo chí
+dataset/common_voice/vi/clips/common_voice_vi_23733700.mp3|Chỉ dùng tay vào những bức ảnh của quân
+dataset/common_voice/vi/clips/common_voice_vi_23733701.mp3|Mùa thu và hoa cúc
+dataset/common_voice/vi/clips/common_voice_vi_23733702.mp3|Nó kìa nó kìa
+dataset/common_voice/vi/clips/common_voice_vi_23733703.mp3|Người chở mùa thu tôi vừa đỏ
+dataset/common_voice/vi/clips/common_voice_vi_23733704.mp3|Ngồi dưới gốc cây một cách mệt nhọc
+dataset/common_voice/vi/clips/common_voice_vi_23676734.mp3|Ở cái chốn vắng vẻ này xưa nay vốn yên bình
+dataset/common_voice/vi/clips/common_voice_vi_23676735.mp3|Mấy cái chuyện tâm linh này khó nói lắm
+dataset/common_voice/vi/clips/common_voice_vi_23676736.mp3|Lời mẹ khuyên lơn
+dataset/common_voice/vi/clips/common_voice_vi_23676737.mp3|đổ hết mồ hôi
+dataset/common_voice/vi/clips/common_voice_vi_23676738.mp3|Nhưng anh chàng đã kịp phóng qua hàng rào
+dataset/common_voice/vi/clips/common_voice_vi_21838512.mp3|Thầm lặng hy sinh
+dataset/common_voice/vi/clips/common_voice_vi_21838513.mp3|Thiện tai Thiện tai
+dataset/common_voice/vi/clips/common_voice_vi_21838514.mp3|Mày Đừng tránh tao được không
+dataset/common_voice/vi/clips/common_voice_vi_21838516.mp3|Sau tiếng sấm trời bắt đầu đổ mưa rào rào
+dataset/common_voice/vi/clips/common_voice_vi_21838518.mp3|Đưa tình về với mộng
+dataset/common_voice/vi/clips/common_voice_vi_23380405.mp3|Đến bố mẹ còn chẳng nhận ra cháu ạ
+dataset/common_voice/vi/clips/common_voice_vi_23380406.mp3|lạnh khô lên cánh mũi
+dataset/common_voice/vi/clips/common_voice_vi_23380407.mp3|em căng mắt ra nhìn nhưng mà không rõ là ai cả
+dataset/common_voice/vi/clips/common_voice_vi_23380408.mp3|Thấy ánh mặt trời
+dataset/common_voice/vi/clips/common_voice_vi_23380409.mp3|Để cùng tiến tới
+dataset/common_voice/vi/clips/common_voice_vi_23725603.mp3|Ăn nữa đi con
+dataset/common_voice/vi/clips/common_voice_vi_23725604.mp3|Không kịp ngăn lại hà ni chỉ gọi với theo
+dataset/common_voice/vi/clips/common_voice_vi_23725605.mp3|con ma dại kia
+dataset/common_voice/vi/clips/common_voice_vi_23725606.mp3|Ông nội con bé thì còn sống toàn nói như vậy
+dataset/common_voice/vi/clips/common_voice_vi_23725607.mp3|Trời ơi con gái của tôi sao con lại khổ như vậy chứ
+dataset/common_voice/vi/clips/common_voice_vi_23731275.mp3|Mà vừa nói vừa trở ra bên ngoài
+dataset/common_voice/vi/clips/common_voice_vi_23731276.mp3|Những ngày bên mẹ
+dataset/common_voice/vi/clips/common_voice_vi_23731277.mp3|em như người bị bóp chặt lấy cổ
+dataset/common_voice/vi/clips/common_voice_vi_23731278.mp3|Nhớ mẹ làm sao
+dataset/common_voice/vi/clips/common_voice_vi_23731279.mp3|em bị đuổi học
+dataset/common_voice/vi/clips/common_voice_vi_23727881.mp3|Vợ của chú sửa xe lắc đầu nói
+dataset/common_voice/vi/clips/common_voice_vi_23727882.mp3|Phong cách phối đồ hiện đại
+dataset/common_voice/vi/clips/common_voice_vi_23727883.mp3|Cũng có thể là ma lắm bởi Nếu không phải là ma
+dataset/common_voice/vi/clips/common_voice_vi_23727884.mp3|Em biết rồi cái con bé bị xe cán bẹp đầu
+dataset/common_voice/vi/clips/common_voice_vi_23727885.mp3|Phong đáp
+dataset/common_voice/vi/clips/common_voice_vi_23689546.mp3|Anh cảm thấy thế nào
+dataset/common_voice/vi/clips/common_voice_vi_23689547.mp3|Đang nói ở chỗ
+dataset/common_voice/vi/clips/common_voice_vi_23689548.mp3|Giọng còn pha lẫn tiếng địa phương
+dataset/common_voice/vi/clips/common_voice_vi_23689549.mp3|lẽ ra thì chúng tôi không nên nhắc lại
+dataset/common_voice/vi/clips/common_voice_vi_23689550.mp3|Nó cứ nhìn chằm chằm vào đó
+dataset/common_voice/vi/clips/common_voice_vi_22195134.mp3|để cho em học
+dataset/common_voice/vi/clips/common_voice_vi_22195135.mp3|Những lời cuối cùng mà quân nói khiến cho Trinh cảm thấy lo lắng
+dataset/common_voice/vi/clips/common_voice_vi_22195136.mp3|Như chú rất thích
+dataset/common_voice/vi/clips/common_voice_vi_22195137.mp3|Dạ vâng thế để em gặp anh sau vậy
+dataset/common_voice/vi/clips/common_voice_vi_22195138.mp3|Ngay lập tức trong đầu của Trinh nảy ra một ý nghĩ
+dataset/common_voice/vi/clips/common_voice_vi_21861994.mp3|Đứng trước bàn thờ trinh vui sướng nói
+dataset/common_voice/vi/clips/common_voice_vi_21861995.mp3|Vậy nó có liên quan gì đến con gái tôi chứ
+dataset/common_voice/vi/clips/common_voice_vi_21861996.mp3|Lối viễn vọng chờ rong gót tim
+dataset/common_voice/vi/clips/common_voice_vi_21861997.mp3|Không Tao xin mày Tao sợ
+dataset/common_voice/vi/clips/common_voice_vi_21861999.mp3|Sâu mắt đợi chờ
+dataset/common_voice/vi/clips/common_voice_vi_22528215.mp3|Năm tháng mỏi mòn
+dataset/common_voice/vi/clips/common_voice_vi_22528270.mp3|Nhuộm ánh nắng tà qua mái tóc
+dataset/common_voice/vi/clips/common_voice_vi_22528271.mp3|sau đó bị đấu đá đến nghẹt thở
+dataset/common_voice/vi/clips/common_voice_vi_22528272.mp3|Đèn dầu được thắp sáng trưng
+dataset/common_voice/vi/clips/common_voice_vi_22528273.mp3|Sau khi anh chết rồi
+dataset/common_voice/vi/clips/common_voice_vi_22528274.mp3|Chuyện bé xé ra to chuyện nhỏ bị thêu dệt ra nhiều chi tiết
+dataset/common_voice/vi/clips/common_voice_vi_25756033.mp3|Cô cũng chẳng hiểu tại sao như vậy
+dataset/common_voice/vi/clips/common_voice_vi_25756093.mp3|Anh có biết thôn e ri a không
+dataset/common_voice/vi/clips/common_voice_vi_25756153.mp3|Đón em với hoa hồng
+dataset/common_voice/vi/clips/common_voice_vi_25756154.mp3|Vẫn hoài bay
+dataset/common_voice/vi/clips/common_voice_vi_25756155.mp3|Rồi không đợi cho cô đáp
+dataset/common_voice/vi/clips/common_voice_vi_25756156.mp3|Anh ta chẳng đi đâu xa cả
+dataset/common_voice/vi/clips/common_voice_vi_24097243.mp3|Gọi tôi là dã quỳ
+dataset/common_voice/vi/clips/common_voice_vi_24097246.mp3|Gió bên ngoài cửa sổ hành lang khẽ thổi vào bên trong
+dataset/common_voice/vi/clips/common_voice_vi_24097247.mp3|con nói linh tinh cái gì thế
+dataset/common_voice/vi/clips/common_voice_vi_24097289.mp3|Mọi chuyện để mẹ tính sau
+dataset/common_voice/vi/clips/common_voice_vi_24097304.mp3|Thì liệu rằng cuộc đời này cô có thay đổi không
+dataset/common_voice/vi/clips/common_voice_vi_24097332.mp3|Đây là Tuấn người yêu của cháu lâu nay đi làm xa mới về
+dataset/common_voice/vi/clips/common_voice_vi_23852462.mp3|Mẹ em hốt hoảng nói
+dataset/common_voice/vi/clips/common_voice_vi_23852464.mp3|Nhưng mà tiếc là không qua nổi năm mười năm
+dataset/common_voice/vi/clips/common_voice_vi_23852465.mp3|Giọng của cô bé Thu Ngân đang trả lại Trinh tiền thừa
+dataset/common_voice/vi/clips/common_voice_vi_23852466.mp3|cố mà đỗ vào trường quốc lập cho mẹ
+dataset/common_voice/vi/clips/common_voice_vi_23852469.mp3|Trộm không thể vào
+dataset/common_voice/vi/clips/common_voice_vi_23852470.mp3|Chỉ còn nồng hơi thở những vần thơ
+dataset/common_voice/vi/clips/common_voice_vi_26977662.mp3|Xe hoa anh chờ đó
+dataset/common_voice/vi/clips/common_voice_vi_26977663.mp3|Đóng vội cửa quán hà ni thúc giục
+dataset/common_voice/vi/clips/common_voice_vi_26977665.mp3|Sương giăng đọng đầy vơi từng giọt đắng
+dataset/common_voice/vi/clips/common_voice_vi_26977666.mp3|Trên cành cây vẫn vương vài tia nắng
+dataset/common_voice/vi/clips/common_voice_vi_26977734.mp3|Anh ta gật đầu
+dataset/common_voice/vi/clips/common_voice_vi_26977766.mp3|Nên cô dịu giọng hỏi lại
+dataset/common_voice/vi/clips/common_voice_vi_26977803.mp3|Thả lòng mình vào nhịp bước bình sinh
+dataset/common_voice/vi/clips/common_voice_vi_25562628.mp3|Tháng mười một chạm thực lẫn trong mơ
+dataset/common_voice/vi/clips/common_voice_vi_25562631.mp3|Ta cầm tay ngơ ngác giữa phố chiều
+dataset/common_voice/vi/clips/common_voice_vi_25562632.mp3|Mình về đi Cảm ơn cô hà ni
+dataset/common_voice/vi/clips/common_voice_vi_25562660.mp3|Sụt sùi mưa suốt canh thâu
+dataset/common_voice/vi/clips/common_voice_vi_25562662.mp3|Anh cho tôi ra ngoài chợ tôi sẽ xuống ở đó
+dataset/common_voice/vi/clips/common_voice_vi_25562685.mp3|Ôm cổ gầy mắc cỡ đến mùa sau
+dataset/common_voice/vi/clips/common_voice_vi_25562687.mp3|Quỳ lạy như là tế sao
+dataset/common_voice/vi/clips/common_voice_vi_25562689.mp3|Đến phiên hà ni ngạc nhiên
+dataset/common_voice/vi/clips/common_voice_vi_28540565.mp3|Tháng mười về hương xưa rơi đầy áo
+dataset/common_voice/vi/clips/common_voice_vi_28540854.mp3|Em là nắng ấm giữa trời mùa thu
+dataset/common_voice/vi/clips/common_voice_vi_28540888.mp3|Tháng mười êm dịu mong chờ bình an
+dataset/common_voice/vi/clips/common_voice_vi_28551325.mp3|Se lòng ngọn gió heo may
+dataset/common_voice/vi/clips/common_voice_vi_28551759.mp3|Nửa thu còn lại tần ngần điều chi
+dataset/common_voice/vi/clips/common_voice_vi_28565014.mp3|Anh vào trong khám phá đến tanh bành
+dataset/common_voice/vi/clips/common_voice_vi_28565033.mp3|Tình yêu ơi ngọt ngào và cay đắng
+dataset/common_voice/vi/clips/common_voice_vi_28565090.mp3|Ta ngồi đong cả một trời kỷ niệm
+dataset/common_voice/vi/clips/common_voice_vi_22427359.mp3|lúc cháu giật mình tỉnh dậy thì cháu còn bị rét run
+dataset/common_voice/vi/clips/common_voice_vi_22427360.mp3|thì vẫn không hiện tượng gì tiếp tục xảy đến
+dataset/common_voice/vi/clips/common_voice_vi_22427361.mp3|Chẳng ai bảo ai tự giác đi về
+dataset/common_voice/vi/clips/common_voice_vi_22427362.mp3|quyết tâm chiến thắng
+dataset/common_voice/vi/clips/common_voice_vi_22427363.mp3|em liền gọi to
+dataset/common_voice/vi/clips/common_voice_vi_22427384.mp3|Cũng không còn cách nào khác
+dataset/common_voice/vi/clips/common_voice_vi_22427385.mp3|Khuôn mặt thanh tú không có chút gì của dân nhà xe
+dataset/common_voice/vi/clips/common_voice_vi_22427386.mp3|Và mắt của cô chăm chú một cách khó hiểu
+dataset/common_voice/vi/clips/common_voice_vi_22427387.mp3|Chân tay bủn rủn
+dataset/common_voice/vi/clips/common_voice_vi_26227183.mp3|Cô tìm ai ở đó thì nói đi
+dataset/common_voice/vi/clips/common_voice_vi_26227186.mp3|Dẫu cuộc đời dù có phải đổi thay
+dataset/common_voice/vi/clips/common_voice_vi_26227191.mp3|Anh đưa tay chạm vào miền ký ức
+dataset/common_voice/vi/clips/common_voice_vi_26227197.mp3|Trong lòng anh nghe một chút nao nao
+dataset/common_voice/vi/clips/common_voice_vi_26227209.mp3|Em còn hẹn nữa không
+dataset/common_voice/vi/clips/common_voice_vi_26227222.mp3|Một mình mẹ thôi
+dataset/common_voice/vi/clips/common_voice_vi_26227229.mp3|Còn anh đưa cô này về quán
+dataset/common_voice/vi/clips/common_voice_vi_26227233.mp3|Ai người cùng ta chơi tiếp
+dataset/common_voice/vi/clips/common_voice_vi_26227237.mp3|Như lời gió gọi tháng mười thao thức
+dataset/common_voice/vi/clips/common_voice_vi_21964744.mp3|Bố nó thì không tin chuyện ma quỷ
+dataset/common_voice/vi/clips/common_voice_vi_21964746.mp3|Những câu chuyện hay những bức ảnh được chúng tôi khoe lại
+dataset/common_voice/vi/clips/common_voice_vi_21964747.mp3|Bố em thắc mắc nói
+dataset/common_voice/vi/clips/common_voice_vi_21964749.mp3|Em yên tâm là kẻ đó sẽ không làm phiền
+dataset/common_voice/vi/clips/common_voice_vi_21964750.mp3|dần dà học xong
+dataset/common_voice/vi/clips/common_voice_vi_21965267.mp3|hà Sợ quá giật lùi lại phía sau suýt ngã ngửa ra đất
+dataset/common_voice/vi/clips/common_voice_vi_21965268.mp3|Giai đoạn cuối đời
+dataset/common_voice/vi/clips/common_voice_vi_21965271.mp3|thảo Đứng sững lại không chạy trốn em nữa
+dataset/common_voice/vi/clips/common_voice_vi_21965272.mp3|Em ngỡ như chiêm bao
+dataset/common_voice/vi/clips/common_voice_vi_22209924.mp3|nếu mà qua bốn mươi chín ngày
+dataset/common_voice/vi/clips/common_voice_vi_22209926.mp3|Ngày thơ đi mất
+dataset/common_voice/vi/clips/common_voice_vi_22209929.mp3|Nó giúp chứ có phải đâu
+dataset/common_voice/vi/clips/common_voice_vi_22209933.mp3|Em chả hiểu mẹ nói có nghĩa là gì
+dataset/common_voice/vi/clips/common_voice_vi_22214603.mp3|Để tâm trí đem hoà cùng sách vở
+dataset/common_voice/vi/clips/common_voice_vi_22214604.mp3|Ngày ấy vào mùa thu
+dataset/common_voice/vi/clips/common_voice_vi_22214605.mp3|Trong phòng lúc này lửa trên thành ngọn nến đang cháy
+dataset/common_voice/vi/clips/common_voice_vi_22214606.mp3|Giờ đi sang bản bên phía ta
+dataset/common_voice/vi/clips/common_voice_vi_22214607.mp3|Người người thì đang tấp nập đi lại
+dataset/common_voice/vi/clips/common_voice_vi_23302867.mp3|cho nên Trinh yên tâm phần nào
+dataset/common_voice/vi/clips/common_voice_vi_23302869.mp3|cũng vừa mới ngồi thôi nước còn chưa uống hết một nửa đây này
+dataset/common_voice/vi/clips/common_voice_vi_23302870.mp3|cút đi
+dataset/common_voice/vi/clips/common_voice_vi_23302873.mp3|Những lời nói của Quân khiến cho trinh như chết lặng
+dataset/common_voice/vi/clips/common_voice_vi_23302930.mp3|Em mới đáp lại
+dataset/common_voice/vi/clips/common_voice_vi_23302931.mp3|Dạ bẩm thầy giờ đã muộn rồi à
+dataset/common_voice/vi/clips/common_voice_vi_23302933.mp3|Sợ lắm cảm giác vô cùng sợ hãi
+dataset/common_voice/vi/clips/common_voice_vi_23302936.mp3|Thì hãy chấp nhận anh ta và chăm sóc cẩn thận
+dataset/common_voice/vi/clips/common_voice_vi_23303052.mp3|Yêu
+dataset/common_voice/vi/clips/common_voice_vi_23303054.mp3|Vả lại
+dataset/common_voice/vi/clips/common_voice_vi_23357922.mp3|Song trai liền hỏi tiếp
+dataset/common_voice/vi/clips/common_voice_vi_23357923.mp3|Khôn lớn thêm rồi
+dataset/common_voice/vi/clips/common_voice_vi_23357924.mp3|Trường hợp của Thảo khác với họ
+dataset/common_voice/vi/clips/common_voice_vi_23357925.mp3|Căn phòng kín
+dataset/common_voice/vi/clips/common_voice_vi_23357926.mp3|Nhớ mẹ nhớ cha
+dataset/common_voice/vi/clips/common_voice_vi_23357966.mp3|Qua cầu rút ván
+dataset/common_voice/vi/clips/common_voice_vi_23357967.mp3|Vẫn là Trinh
+dataset/common_voice/vi/clips/common_voice_vi_23357968.mp3|Từ giọng cô dịu hiền
+dataset/common_voice/vi/clips/common_voice_vi_23357969.mp3|Nghiệp báo hài nhi
+dataset/common_voice/vi/clips/common_voice_vi_23357970.mp3|Dường như chậm lại
+dataset/common_voice/vi/clips/common_voice_vi_26981287.mp3|Ngày đầu tháng môi hồng ai lơ đễnh
+dataset/common_voice/vi/clips/common_voice_vi_26981288.mp3|Trao hơi ấm khi đông vừa chạm ngõ
+dataset/common_voice/vi/clips/common_voice_vi_26981378.mp3|Chỉ còn nghe tiếng ngoài hiên lá đổ
+dataset/common_voice/vi/clips/common_voice_vi_26981416.mp3|Ở bên trong căn phòng của con gái ông phúc
+dataset/common_voice/vi/clips/common_voice_vi_26981433.mp3|Hà Ni lắc đầu
+dataset/common_voice/vi/clips/common_voice_vi_26981435.mp3|Đúng là bà ấy
+dataset/common_voice/vi/clips/common_voice_vi_26981460.mp3|Ôm lòng đêm nỗi nhớ nhung
+dataset/common_voice/vi/clips/common_voice_vi_26981615.mp3|Những ngày này con vẫn sẽ về thôi
+dataset/common_voice/vi/clips/common_voice_vi_26981750.mp3|Chiều thơm nồng hương rạ
+dataset/common_voice/vi/clips/common_voice_vi_26981778.mp3|Bỗng nhiên dừng lại
+dataset/common_voice/vi/clips/common_voice_vi_27640048.mp3|Cô gái dương mắt nhìn khách như không hiểu
+dataset/common_voice/vi/clips/common_voice_vi_27640049.mp3|Tiếng thời gian chìm hút giữa hư vô
+dataset/common_voice/vi/clips/common_voice_vi_27640100.mp3|Dòng thơ mãi vẫn còn hoài dang dở
+dataset/common_voice/vi/clips/common_voice_vi_27640301.mp3|Tháng mười một lòng chợt thấy chênh chao
+dataset/common_voice/vi/clips/common_voice_vi_27640334.mp3|Gọi một chiếc xe thồ cô hỏi
+dataset/common_voice/vi/clips/common_voice_vi_27640337.mp3|Mỗi thu sang mỗi khắc nhớ em nhiều
+dataset/common_voice/vi/clips/common_voice_vi_27640566.mp3|Anh chàng lái xe bảo
+dataset/common_voice/vi/clips/common_voice_vi_27640620.mp3|Mà lần nào cũng thấy bó hoa dã quỳ nằm bên cạnh
+dataset/common_voice/vi/clips/common_voice_vi_27640713.mp3|Tôi có việc cần kíp muốn gặp bà len xin cô giúp cho
+dataset/common_voice/vi/clips/common_voice_vi_27641343.mp3|Bởi sáng nay anh nghe lòng thổn thức
+dataset/common_voice/vi/clips/common_voice_vi_27641367.mp3|Tôi muốn hỏi bà len
+dataset/common_voice/vi/clips/common_voice_vi_23755974.mp3|Mong như anh tưởng phút như thế này
+dataset/common_voice/vi/clips/common_voice_vi_23755975.mp3|Những anh em dân tộc khác thì rất hiếu khách và cởi mở
+dataset/common_voice/vi/clips/common_voice_vi_23755977.mp3|Để cười nhạo Thảo rằng
+dataset/common_voice/vi/clips/common_voice_vi_23755985.mp3|Trâu già thích gặm cỏ non
+dataset/common_voice/vi/clips/common_voice_vi_23755986.mp3|Không ngờ cái nốt ruồi trên mặt thôi
+dataset/common_voice/vi/clips/common_voice_vi_23755987.mp3|Không được đó là tất cả những gì mình có không thể mất được
+dataset/common_voice/vi/clips/common_voice_vi_23755988.mp3|Chẳng hiểu sao lại rớt xuống đất ngổn ngang mỗi thứ một góc
+dataset/common_voice/vi/clips/common_voice_vi_23756188.mp3|Sau cùng bố Thảo nói
+dataset/common_voice/vi/clips/common_voice_vi_23756189.mp3|Tôi liền trả lời
+dataset/common_voice/vi/clips/common_voice_vi_23756190.mp3|Em run giọng nói
+dataset/common_voice/vi/clips/common_voice_vi_23756191.mp3|Mẹ vẫn kề bên
+dataset/common_voice/vi/clips/common_voice_vi_23847381.mp3|khi còn sống lún sâu vào tội ác
+dataset/common_voice/vi/clips/common_voice_vi_23847382.mp3|Cả nhà em và Thảo cũng xuống xem thầy bói ở dưới huyện
+dataset/common_voice/vi/clips/common_voice_vi_23847383.mp3|Sao anh không đứng lại
+dataset/common_voice/vi/clips/common_voice_vi_23847384.mp3|Tháng mười mộtchờ mong duyên mới
+dataset/common_voice/vi/clips/common_voice_vi_23847385.mp3|Và sáng mai nếu chiếc xe kia không trở lại
+dataset/common_voice/vi/clips/common_voice_vi_23847386.mp3|con hâm này đi với không đi cái gì
+dataset/common_voice/vi/clips/common_voice_vi_23847387.mp3|Em công chuyện thì em cứ đi
+dataset/common_voice/vi/clips/common_voice_vi_23847388.mp3|Như trên trời biếc
+dataset/common_voice/vi/clips/common_voice_vi_23847389.mp3|thì Trinh cảm thấy yên tâm
+dataset/common_voice/vi/clips/common_voice_vi_28440701.mp3|Ru tôi ngọn gió trang đài
+dataset/common_voice/vi/clips/common_voice_vi_28447572.mp3|Bóng nhạn phương xa lẻ bầy tìm kiếm
+dataset/common_voice/vi/clips/common_voice_vi_28493150.mp3|Nợ em thêm một câu thơ
+dataset/common_voice/vi/clips/common_voice_vi_26202307.mp3|Đã nhiều lần ông thầy đó tìm về đây
+dataset/common_voice/vi/clips/common_voice_vi_26202310.mp3|Rồi tháng mười qua vội
+dataset/common_voice/vi/clips/common_voice_vi_26202315.mp3|Tháng Mười đêm vắng lê thê
+dataset/common_voice/vi/clips/common_voice_vi_26202321.mp3|Thu dùng dằng nên hoa mãi ngẩn ngơ
+dataset/common_voice/vi/clips/common_voice_vi_26202322.mp3|Phong đang trong tình trạng choáng váng
+dataset/common_voice/vi/clips/common_voice_vi_26202323.mp3|Cuộc đời ta Thân trai mãi tha phương
+dataset/common_voice/vi/clips/common_voice_vi_26202325.mp3|Sửa lỗi không gõ được tiếng Việt trong Word excel firefox chrome
+dataset/common_voice/vi/clips/common_voice_vi_26202326.mp3|Gửi theo gió đến ai nơi xa ấy
+dataset/common_voice/vi/clips/common_voice_vi_26202335.mp3|Dù con có yêu với nhiều mạnh mẽ
+dataset/common_voice/vi/clips/common_voice_vi_26202343.mp3|Anh nói chưa hết câu
+dataset/common_voice/vi/clips/common_voice_vi_26202344.mp3|Cơn gió bấc gửi trao màu hạnh phúc
+dataset/common_voice/vi/clips/common_voice_vi_26202345.mp3|Vần thơ ươm trong tâm trí mơ hồ
+dataset/common_voice/vi/clips/common_voice_vi_26202346.mp3|Rồi nhớ trở về quán của cô Hà Ni này
+dataset/common_voice/vi/clips/common_voice_vi_23753753.mp3|À nhớ ra rồi nhớ rồi
+dataset/common_voice/vi/clips/common_voice_vi_23753754.mp3|Tôi xin phép rồi ngồi thưa chuyện với ông
+dataset/common_voice/vi/clips/common_voice_vi_23753755.mp3|Rồi bất ngờ anh ta phóng vụt ra giường
+dataset/common_voice/vi/clips/common_voice_vi_23753756.mp3|Cũng không có hiệu nghiệm hay sao
+dataset/common_voice/vi/clips/common_voice_vi_23753772.mp3|Vậy thì tại sao không giúp mình chiếm được tình cảm của quân
+dataset/common_voice/vi/clips/common_voice_vi_23753773.mp3|Thì lắc đầu nói rằng không còn cách
+dataset/common_voice/vi/clips/common_voice_vi_23753774.mp3|Câu hỏi khiến cho Tuấn ngẩng mặt lên nhìn
+dataset/common_voice/vi/clips/common_voice_vi_23753775.mp3|Hà ni Lúc này mới hốt hoảng
+dataset/common_voice/vi/clips/common_voice_vi_23753776.mp3|Có ý là muốn thăm bé
+dataset/common_voice/vi/clips/common_voice_vi_23753782.mp3|Nhưng mà mày đi đâu
+dataset/common_voice/vi/clips/common_voice_vi_23753783.mp3|Trinh nghe xong cô tắt máy điện thoại
+dataset/common_voice/vi/clips/common_voice_vi_23753784.mp3|Như chiếc áo trên tường như trang sách
+dataset/common_voice/vi/clips/common_voice_vi_23753785.mp3|Chỉ còn ánh trăng mờ yếu dõi qua những kẽ lá
+dataset/common_voice/vi/clips/common_voice_vi_23753786.mp3|Vậy tôi sẽ Nhờ thầy giúp cho
+dataset/common_voice/vi/clips/common_voice_vi_25257430.mp3|Đêm nay trăng sáng
+dataset/common_voice/vi/clips/common_voice_vi_25257438.mp3|chỉ với một suy nghĩ mà Trinh đã gián tiếp giết người
+dataset/common_voice/vi/clips/common_voice_vi_25257443.mp3|Hai hàng mi khép dần lại được quân vào giấc ngủ miên man
+dataset/common_voice/vi/clips/common_voice_vi_25257451.mp3|Gió cứ thổi triền miên
+dataset/common_voice/vi/clips/common_voice_vi_25257467.mp3|Sau khi vệ sinh cá nhân xong xuôi
+dataset/common_voice/vi/clips/common_voice_vi_25257469.mp3|mẹ em liền nói
+dataset/common_voice/vi/clips/common_voice_vi_25257479.mp3|trông ngon thật đấy
+dataset/common_voice/vi/clips/common_voice_vi_25257499.mp3|để không mơ mộng lung tung nữa
+dataset/common_voice/vi/clips/common_voice_vi_25257540.mp3|Điện thoại Trinh gửi báo có tin nhắn
+dataset/common_voice/vi/clips/common_voice_vi_25257554.mp3|Nhưng mà hôm nay hộp sữa có cắm ống mút kia
+dataset/common_voice/vi/clips/common_voice_vi_25257599.mp3|mẹ lại cầm tay của em lẩm bẩm
+dataset/common_voice/vi/clips/common_voice_vi_25257605.mp3|Nếu không sớm giải quyết được chuyện này
+dataset/common_voice/vi/clips/common_voice_vi_25257612.mp3|mẹ em rối rít nói
+dataset/common_voice/vi/clips/common_voice_vi_25257636.mp3|Mẹ em khóc lóc ôm lấy em
+dataset/common_voice/vi/clips/common_voice_vi_25257774.mp3|hơn mười hai giờ đêm rồi
+dataset/common_voice/vi/clips/common_voice_vi_22816998.mp3|Dạ Khúc Mưa
+dataset/common_voice/vi/clips/common_voice_vi_22817000.mp3|nhi khẽ đặt bức ảnh của quân
+dataset/common_voice/vi/clips/common_voice_vi_22817001.mp3|những cánh đồng thẳng cánh
+dataset/common_voice/vi/clips/common_voice_vi_22817002.mp3|Già làng lại nói tiếp
+dataset/common_voice/vi/clips/common_voice_vi_22817078.mp3|con nhớ cầm viên đá ấy
+dataset/common_voice/vi/clips/common_voice_vi_22817079.mp3|Cô thu ngân lo lắng gọi
+dataset/common_voice/vi/clips/common_voice_vi_22817080.mp3|Hắn đang đi lên đây
+dataset/common_voice/vi/clips/common_voice_vi_22817081.mp3|Từng bỏ nhà đi suốt mấy năm trời
+dataset/common_voice/vi/clips/common_voice_vi_22817082.mp3|Anh song trai anh song trai
+dataset/common_voice/vi/clips/common_voice_vi_22855857.mp3|tay bà ấy xách cái bị to lắm
+dataset/common_voice/vi/clips/common_voice_vi_22855858.mp3|Người ấy chính là anh chàng phong
+dataset/common_voice/vi/clips/common_voice_vi_22855859.mp3|Trong lọ thủy tinh ấy
+dataset/common_voice/vi/clips/common_voice_vi_22855860.mp3|Hương thơm mát rượi
+dataset/common_voice/vi/clips/common_voice_vi_22855861.mp3|Cứ dại dại cái kiểu gì ấy
+dataset/common_voice/vi/clips/common_voice_vi_22855877.mp3|Con cứ yên tâm đi làm đi
+dataset/common_voice/vi/clips/common_voice_vi_22855878.mp3|Còn nữa
+dataset/common_voice/vi/clips/common_voice_vi_22855879.mp3|Tay của em cứ ôm chặt lấy Thảo
+dataset/common_voice/vi/clips/common_voice_vi_22855880.mp3|Các người tính làm gì
+dataset/common_voice/vi/clips/common_voice_vi_22855882.mp3|Thì chiếc xe tải cho anh tới đây
+dataset/common_voice/vi/clips/common_voice_vi_27614808.mp3|Người tình là dòng sông nhỏ ra khơi
+dataset/common_voice/vi/clips/common_voice_vi_27614908.mp3|Chung nhà nên duyên
+dataset/common_voice/vi/clips/common_voice_vi_27615175.mp3|Tháng mười về heo may cứ ung dung
+dataset/common_voice/vi/clips/common_voice_vi_27616478.mp3|Không có
+dataset/common_voice/vi/clips/common_voice_vi_27616737.mp3|Con đường ai sà trên cỏ
+dataset/common_voice/vi/clips/common_voice_vi_27616759.mp3|Anh sẽ mang hạt hoa vàng đi rải
+dataset/common_voice/vi/clips/common_voice_vi_27616761.mp3|Tôi không biết tôi chỉ gặp ông ấy ghé quán một lần
+dataset/common_voice/vi/clips/common_voice_vi_27616930.mp3|Chiều lồng lộng mây mù giăng ngõ lối
+dataset/common_voice/vi/clips/common_voice_vi_27617336.mp3|Nơi còn đó một niềm tin từ mẹ
+dataset/common_voice/vi/clips/common_voice_vi_27617505.mp3|Tháng mười về hả anh
+dataset/common_voice/vi/clips/common_voice_vi_27618127.mp3|Cô nói sao bà dã Quỳ bà len đã chết
+dataset/common_voice/vi/clips/common_voice_vi_27618176.mp3|Mưa rì rào thánh thót bên thềm vắng
+dataset/common_voice/vi/clips/common_voice_vi_27618804.mp3|Anh đón chờ tháng mười một vừa trao
+dataset/common_voice/vi/clips/common_voice_vi_27619179.mp3|Và định nói gì đó nhưng không kịp
+dataset/common_voice/vi/clips/common_voice_vi_27619182.mp3|Cô cứ đưa cậu ấy về đi
+dataset/common_voice/vi/clips/common_voice_vi_27701087.mp3|Hà ni chợt nhớ ra cô hỏi lại
+dataset/common_voice/vi/clips/common_voice_vi_27701147.mp3|Tôi xui buồn khóc xuống tựa mùa Ngâu
+dataset/common_voice/vi/clips/common_voice_vi_27701205.mp3|Phong vẫn cương quyết
+dataset/common_voice/vi/clips/common_voice_vi_27701248.mp3|Thông minh thế cũng mang tim xẻ nửa
+dataset/common_voice/vi/clips/common_voice_vi_25950168.mp3|Nhận quà nhưng lòng lại nghĩ nhiều
+dataset/common_voice/vi/clips/common_voice_vi_25950170.mp3|Sao khẽ khẽ tiếng lá rơi còn đó
+dataset/common_voice/vi/clips/common_voice_vi_25950183.mp3|Anh chàng lái xe do vậy không thể nói tiếp điều đang muốn nói
+dataset/common_voice/vi/clips/common_voice_vi_25950185.mp3|Tháng mười về em còn nhớ hay quên
+dataset/common_voice/vi/clips/common_voice_vi_25950192.mp3|Cô ơi
+dataset/common_voice/vi/clips/common_voice_vi_25950212.mp3|Tháng mười tưởng xa lắm
+dataset/common_voice/vi/clips/common_voice_vi_25950213.mp3|Như có một vật gì đó chặn ngang cổ họng
+dataset/common_voice/vi/clips/common_voice_vi_25950216.mp3|Bị một chiếc xe tải đụng chết
+dataset/common_voice/vi/clips/common_voice_vi_25950229.mp3|Nên chen vào rồi nói
+dataset/common_voice/vi/clips/common_voice_vi_25950230.mp3|Mưa đến muộn hay trời còn cất giấu
+dataset/common_voice/vi/clips/common_voice_vi_25950240.mp3|Tháng mười về bên góc phố liêu xiêu
+dataset/common_voice/vi/clips/common_voice_vi_25950242.mp3|Ôi tình yêu và kẻ đời viễn xứ
+dataset/common_voice/vi/clips/common_voice_vi_25950255.mp3|Tỏ ra rành rẽ sự việc anh ta nói thêm
+dataset/common_voice/vi/clips/common_voice_vi_25950260.mp3|Mờ theo bóng vách xanh xao tuổi chờ
+dataset/common_voice/vi/clips/common_voice_vi_25950280.mp3|Người lữ khách lan man đầy bối rối
+dataset/common_voice/vi/clips/common_voice_vi_25950281.mp3|Hình như là lúc đầu muốn trừ khử cái oan hồn của bà len
+dataset/common_voice/vi/clips/common_voice_vi_25950284.mp3|Thấy bên đời tháng mười một đến mau
+dataset/common_voice/vi/clips/common_voice_vi_25950295.mp3|Nhưng mà sau này nghe nói là ông ta ủng hộ bà ta
+dataset/common_voice/vi/clips/common_voice_vi_25950298.mp3|Để ta rảo bước khoan thai trên đường
+dataset/common_voice/vi/clips/common_voice_vi_25950313.mp3|Xe hoa sao chật cả đường
+dataset/common_voice/vi/clips/common_voice_vi_25950315.mp3|Vậy anh có biết một bà tên là dã quỳ không
+dataset/common_voice/vi/clips/common_voice_vi_25950330.mp3|Không có gì đáng kể cả mẹ yêu
+dataset/common_voice/vi/clips/common_voice_vi_25950332.mp3|Ru lòng ta say mê niềm hạnh phúc
+dataset/common_voice/vi/clips/common_voice_vi_25950335.mp3|Thảm lá vàng xao xác gót cuồng si
+dataset/common_voice/vi/clips/common_voice_vi_22008969.mp3|Con bé nhà anh chị
+dataset/common_voice/vi/clips/common_voice_vi_22008970.mp3|và chỉ ăn với chơi và tiêu thôi
+dataset/common_voice/vi/clips/common_voice_vi_22008971.mp3|Thì Trinh nói là muốn về nhà
+dataset/common_voice/vi/clips/common_voice_vi_22008972.mp3|Mẹ em liền kéo tay em rồi nói
+dataset/common_voice/vi/clips/common_voice_vi_22008973.mp3|Thì chắc chắn con gái nhà cô sẽ gặp vận lớn
+dataset/common_voice/vi/clips/common_voice_vi_22028260.mp3|Trước cuộc nói chuyện của mình với Nhi
+dataset/common_voice/vi/clips/common_voice_vi_22028266.mp3|Nghe vè nói ngược
+dataset/common_voice/vi/clips/common_voice_vi_22028275.mp3|Mùa giao mùa lặng thinh
+dataset/common_voice/vi/clips/common_voice_vi_22028283.mp3|Sao mày nói dù chuyện gì cũng xảy ra
+dataset/common_voice/vi/clips/common_voice_vi_22028288.mp3|Tuyển tập thơ về các loại động vật cho bé mầm non
+dataset/common_voice/vi/clips/common_voice_vi_22028458.mp3|Bánh kẹo mới
+dataset/common_voice/vi/clips/common_voice_vi_22028463.mp3|Bát hương của bố vừa bốc cháy
+dataset/common_voice/vi/clips/common_voice_vi_22028467.mp3|Vừa khấn xong thì điện thoại của Trinh đổ chuông
+dataset/common_voice/vi/clips/common_voice_vi_22028472.mp3|Hạ liền nói tiếp
+dataset/common_voice/vi/clips/common_voice_vi_22028481.mp3|Ông nội nó suốt ngày phàn nàn rằng
+dataset/common_voice/vi/clips/common_voice_vi_22028578.mp3|Lòng sao vương vấn
+dataset/common_voice/vi/clips/common_voice_vi_22028584.mp3|Cô ta
+dataset/common_voice/vi/clips/common_voice_vi_22028597.mp3|lời cảm ơn
+dataset/common_voice/vi/clips/common_voice_vi_22028599.mp3|Anh ta là một người khác
+dataset/common_voice/vi/clips/common_voice_vi_22028601.mp3|Thật thà ăn cháo láo nháo ăn cơm
+dataset/common_voice/vi/clips/common_voice_vi_22028608.mp3|Cảm ơn con
+dataset/common_voice/vi/clips/common_voice_vi_22028610.mp3|Giờ phải nhìn mới thấy thôi
+dataset/common_voice/vi/clips/common_voice_vi_22028613.mp3|kẻ bất tài
+dataset/common_voice/vi/clips/common_voice_vi_22028619.mp3|hơi nuối tiếc bởi hôm nay
+dataset/common_voice/vi/clips/common_voice_vi_22028624.mp3|Cô nào
+dataset/common_voice/vi/clips/common_voice_vi_23338456.mp3|Người ta gọi cặp đôi chúng tôi là loài hoa rừng đẹp nhất
+dataset/common_voice/vi/clips/common_voice_vi_23338457.mp3|Bối cảnh tạo bày ai là kẻ thế vai
+dataset/common_voice/vi/clips/common_voice_vi_23338458.mp3|Chuyện này thực chất thì không khó
+dataset/common_voice/vi/clips/common_voice_vi_23338459.mp3|Sao Toàn những cái chuyện không đâu vậy anh
+dataset/common_voice/vi/clips/common_voice_vi_23338460.mp3|Trinh nằm trong xe thở mạnh và dồn dập
+dataset/common_voice/vi/clips/common_voice_vi_23338466.mp3|Mọi người hãy ở nhà tìm kiếm thằng bé hộ ta
+dataset/common_voice/vi/clips/common_voice_vi_23338467.mp3|Biển trời tình mẹ
+dataset/common_voice/vi/clips/common_voice_vi_23338468.mp3|Thế là tất cả đều nghe theo
+dataset/common_voice/vi/clips/common_voice_vi_23338469.mp3|lại thấy thương tình nên mới mở lời giúp đỡ
+dataset/common_voice/vi/clips/common_voice_vi_23338470.mp3|Lúc nào Phương khỏe bọn Cháu sẽ đến thăm sau ạ
+dataset/common_voice/vi/clips/common_voice_vi_23338472.mp3|Thì chúng ta sẽ giúp cháu tại nguyện
+dataset/common_voice/vi/clips/common_voice_vi_23338474.mp3|Phải rồi cô ấy ở ngoài kia
+dataset/common_voice/vi/clips/common_voice_vi_23338475.mp3|mắc tè nó nhanh chóng chạy ra bên ngoài để giải quyết
+dataset/common_voice/vi/clips/common_voice_vi_23338477.mp3|Sưởi ấm lòng con
+dataset/common_voice/vi/clips/common_voice_vi_23338478.mp3|Mày xem có những gì mình muốn
+dataset/common_voice/vi/clips/common_voice_vi_23338563.mp3|mà con bé nó lại khỏe mạnh đi lại bình thường
+dataset/common_voice/vi/clips/common_voice_vi_23338565.mp3|Kết thúc không phải là hết
+dataset/common_voice/vi/clips/common_voice_vi_23338567.mp3|Cứ bám riết đeo đẳng em tội nghiệp
+dataset/common_voice/vi/clips/common_voice_vi_23338568.mp3|Ông vừa nói xong vội một bước ra ngoài
+dataset/common_voice/vi/clips/common_voice_vi_23338570.mp3|sát thủ
+dataset/common_voice/vi/clips/common_voice_vi_23338586.mp3|đến cả cơ thể cũng không còn nguyên vẹn nữa
+dataset/common_voice/vi/clips/common_voice_vi_23338587.mp3|Em vẫn biết Thảo đã mất rồi nên mới ngập ngừng
+dataset/common_voice/vi/clips/common_voice_vi_23338588.mp3|Trinh chợt giật nảy mình khi tiếng Quân gọi
+dataset/common_voice/vi/clips/common_voice_vi_23338589.mp3|Quân ngượng ngùng rồi đáp lại
+dataset/common_voice/vi/clips/common_voice_vi_23338590.mp3|Trước khi đi bà ấy còn nói
+dataset/common_voice/vi/clips/common_voice_vi_23669889.mp3|Thì biết làm thế nào hả con
+dataset/common_voice/vi/clips/common_voice_vi_23669890.mp3|Dẫu đã được giải
+dataset/common_voice/vi/clips/common_voice_vi_23669891.mp3|Rằng là trước đây Nhi đã từng phá thai
+dataset/common_voice/vi/clips/common_voice_vi_23669893.mp3|ai vậy
+dataset/common_voice/vi/clips/common_voice_vi_23669906.mp3|Ngày tháng nào xa ngái
+dataset/common_voice/vi/clips/common_voice_vi_23669907.mp3|Em cố gắng nhắm mắt lại để ngủ tiếp
+dataset/common_voice/vi/clips/common_voice_vi_23669908.mp3|Nhưng mà thông thường phải sau bốn mươi chín ngày
+dataset/common_voice/vi/clips/common_voice_vi_23669909.mp3|Có cái chuyện gì sao con không cho mẹ biết
+dataset/common_voice/vi/clips/common_voice_vi_23669910.mp3|Còn bệnh thì lại đổ cho ma quỷ
+dataset/common_voice/vi/clips/common_voice_vi_23669916.mp3|Chồng chồng của mẹ
+dataset/common_voice/vi/clips/common_voice_vi_23669917.mp3|Thấy ai cũng ví cánh hoa xưa
+dataset/common_voice/vi/clips/common_voice_vi_23669918.mp3|Mưa về phố nhỏ
+dataset/common_voice/vi/clips/common_voice_vi_23669919.mp3|Đôi mắt ngây dại khuôn miệng nhoẻn miệng cười đầy đê mê
+dataset/common_voice/vi/clips/common_voice_vi_23669920.mp3|Hà quay lại nhìn như không thấy gì cả
+dataset/common_voice/vi/clips/common_voice_vi_23734631.mp3|Mà thôi nhắc cái chuyện đấy làm gì cho nó buồn ra
+dataset/common_voice/vi/clips/common_voice_vi_23734632.mp3|Tôi muốn mùi thơm của nước hoa
+dataset/common_voice/vi/clips/common_voice_vi_23734634.mp3|Mẹ chẳng có gì
+dataset/common_voice/vi/clips/common_voice_vi_23734635.mp3|Nghe thấy tiếng gọi mà không thế nào phát ra để trả lời
+dataset/common_voice/vi/clips/common_voice_vi_23734636.mp3|Thì đột nhiên nghe thấy tiếng động lạ ở dưới nhà
+dataset/common_voice/vi/clips/common_voice_vi_23734637.mp3|Chỉ lăn ra giường rồi ngủ
+dataset/common_voice/vi/clips/common_voice_vi_23734638.mp3|mẹ liền bảo
+dataset/common_voice/vi/clips/common_voice_vi_23734640.mp3|tao nói thật thì mày lại chẳng tin
+dataset/common_voice/vi/clips/common_voice_vi_23734656.mp3|Hai mẹ con chỉ cách nhau bởi ngưỡng cửa
+dataset/common_voice/vi/clips/common_voice_vi_23734657.mp3|Phong tỉnh táo hẳn lại rồi nói
+dataset/common_voice/vi/clips/common_voice_vi_23734658.mp3|Rồi tư duy lại lần hồi tuôn chảy
+dataset/common_voice/vi/clips/common_voice_vi_23734659.mp3|Tốn tiền lại toàn bọn nghịch ngợm
+dataset/common_voice/vi/clips/common_voice_vi_23734660.mp3|Mẹ cũng uống thuốc rồi
+dataset/common_voice/vi/clips/common_voice_vi_23392017.mp3|Còn ở hồn tôi tuổi mong manh
+dataset/common_voice/vi/clips/common_voice_vi_23392018.mp3|song trai liền hỏi
+dataset/common_voice/vi/clips/common_voice_vi_23392019.mp3|Được đánh thức cơn mê phòng ngơ ngác
+dataset/common_voice/vi/clips/common_voice_vi_23392020.mp3|Điều đáng chú ý nhất chính là theo như Hà được biết
+dataset/common_voice/vi/clips/common_voice_vi_23392021.mp3|Mắt mẹ đã mờ
+dataset/common_voice/vi/clips/common_voice_vi_23392027.mp3|Cho tôi được lau khô dòng lệ chảy
+dataset/common_voice/vi/clips/common_voice_vi_23392028.mp3|Nó chỉ còn là dấu vết không hồn
+dataset/common_voice/vi/clips/common_voice_vi_23392029.mp3|Năm mười ba tuổi
+dataset/common_voice/vi/clips/common_voice_vi_23392030.mp3|chị đừng có đổ tiếng oan cho nó
+dataset/common_voice/vi/clips/common_voice_vi_23392031.mp3|Thậm chí lại đôi chân bị liệt của nó hoạt động lại bình thường
+dataset/common_voice/vi/clips/common_voice_vi_23392032.mp3|Trinh phải có mặt ở nhà để chăm sóc cho Kumanthong
+dataset/common_voice/vi/clips/common_voice_vi_23392033.mp3|Thậm chí dùng cả cơ thể để mời gọi
+dataset/common_voice/vi/clips/common_voice_vi_23392034.mp3|Vì Trinh không còn nghe được gì nữa
+dataset/common_voice/vi/clips/common_voice_vi_23392035.mp3|Hôm đó thì tớ đang bên Quảng Châu
+dataset/common_voice/vi/clips/common_voice_vi_23392036.mp3|Người đàn bà giật mình
+dataset/common_voice/vi/clips/common_voice_vi_23392037.mp3|Tôi biết em là cô gái mộng mơ
+dataset/common_voice/vi/clips/common_voice_vi_23392038.mp3|Tiếng nói lại vang lên rất khẽ chỉ đủ cho mình nghe
+dataset/common_voice/vi/clips/common_voice_vi_23392039.mp3|như xé toạc cả mảng âm thanh ồn ào bàn tán xung quanh
+dataset/common_voice/vi/clips/common_voice_vi_23392040.mp3|thầy bảo là có cái chuyện gì đâu
+dataset/common_voice/vi/clips/common_voice_vi_23392041.mp3|Tiểu sử và sự nghiệp
+dataset/common_voice/vi/clips/common_voice_vi_23392936.mp3|Có khi nào nó theo thật
+dataset/common_voice/vi/clips/common_voice_vi_23392937.mp3|Các cô cậu đều là người ở dưới xuôi lên
+dataset/common_voice/vi/clips/common_voice_vi_23392938.mp3|Mẹ ầu mẹ ơi
+dataset/common_voice/vi/clips/common_voice_vi_23392939.mp3|mẹ đi xem từ bà tê đến soi tiền chỉ tay viết chữ
+dataset/common_voice/vi/clips/common_voice_vi_23392940.mp3|Nó là cây rớp đó
+dataset/common_voice/vi/clips/common_voice_vi_23392986.mp3|Ghen
+dataset/common_voice/vi/clips/common_voice_vi_23392987.mp3|Gió thổi từng cơn làm tán lá khẽ đung đưa
+dataset/common_voice/vi/clips/common_voice_vi_23392988.mp3|Nhưng lại đi rất xa
+dataset/common_voice/vi/clips/common_voice_vi_23392989.mp3|Tuyển tập thơ chủ đề thực vật cho bé mầm non
+dataset/common_voice/vi/clips/common_voice_vi_23392990.mp3|Some trai cố nói thêm
+dataset/common_voice/vi/clips/common_voice_vi_24457608.mp3|Sau khi chụp hình thì vẫn chưa hết chuyện
+dataset/common_voice/vi/clips/common_voice_vi_24457609.mp3|Khi cô đơn cạn tình ai cũng thế
+dataset/common_voice/vi/clips/common_voice_vi_24457611.mp3|Mong con bình an
+dataset/common_voice/vi/clips/common_voice_vi_24457641.mp3|Anh chàng bắt đầu hốt hoảng
+dataset/common_voice/vi/clips/common_voice_vi_24457667.mp3|Đám đông bu vào đôgn nghẹt cố chen lên trên
+dataset/common_voice/vi/clips/common_voice_vi_24457668.mp3|chắc là ánh đèn đó con
+dataset/common_voice/vi/clips/common_voice_vi_24457671.mp3|Nếu được thì anh mong cả anh và em
+dataset/common_voice/vi/clips/common_voice_vi_24458013.mp3|Thậm chí để trong bữa ăn Quân còn ít nói hơn bình thường
+dataset/common_voice/vi/clips/common_voice_vi_24458029.mp3|À không mọi chuyện vẫn ổn
+dataset/common_voice/vi/clips/common_voice_vi_24458030.mp3|Cây xoài này là Lộc của bố em trồng để lại đấy
+dataset/common_voice/vi/clips/common_voice_vi_24458075.mp3|Hà ni nghiêm giọng
+dataset/common_voice/vi/clips/common_voice_vi_24458080.mp3|Chính là cô sao
+dataset/common_voice/vi/clips/common_voice_vi_24458240.mp3|Đám đông được giải tán
+dataset/common_voice/vi/clips/common_voice_vi_24458247.mp3|chuyện này tôi không phải là chưa gặp
+dataset/common_voice/vi/clips/common_voice_vi_24458261.mp3|bà ấy lắc đầu nói
+dataset/common_voice/vi/clips/common_voice_vi_24458262.mp3|Thế bây giờ tôi cần phải làm gì
+dataset/common_voice/vi/clips/common_voice_vi_24458265.mp3|Mới nghĩ mà đã cảm thấy hưng phấn rồi
+dataset/common_voice/vi/clips/common_voice_vi_24458297.mp3|Gớm nữa cô nói sợ quá
+dataset/common_voice/vi/clips/common_voice_vi_24458298.mp3|Hay là nhà đi không thắp hương cho các cụ
+dataset/common_voice/vi/clips/common_voice_vi_24458299.mp3|Bạn bè lâu năm mới gặp chưa gì đã về
+dataset/common_voice/vi/clips/common_voice_vi_24458315.mp3|chinh nghĩ ở trong đầu
+dataset/common_voice/vi/clips/common_voice_vi_24458318.mp3|Người ta phụ hoặc thờ ơ chẳng biết
+dataset/common_voice/vi/clips/common_voice_vi_24458320.mp3|nhưng bây giờ âm dương cách biệt
+dataset/common_voice/vi/clips/common_voice_vi_24458353.mp3|Tôi tôi không chịu nổi tôi chết mất
+dataset/common_voice/vi/clips/common_voice_vi_24458358.mp3|Em đã chẳng đổ cho anh bao tội lỗi
+dataset/common_voice/vi/clips/common_voice_vi_24458365.mp3|Anh gì ơi anh
+dataset/common_voice/vi/clips/common_voice_vi_24458981.mp3|Phương
+dataset/common_voice/vi/clips/common_voice_vi_24462271.mp3|Con bình tĩnh nghe người ta nói hết đi đã
+dataset/common_voice/vi/clips/common_voice_vi_25542119.mp3|Trăng thề chiếc bóng bên đường
+dataset/common_voice/vi/clips/common_voice_vi_25542120.mp3|Áo bay rải nắng một chiều
+dataset/common_voice/vi/clips/common_voice_vi_21833213.mp3|Buồn thế chứ
+dataset/common_voice/vi/clips/common_voice_vi_21833214.mp3|Dứt lời Trinh vội bỏ ra ngoài quên lấy cả tiền
+dataset/common_voice/vi/clips/common_voice_vi_21833241.mp3|kịch nghệ
+dataset/common_voice/vi/clips/common_voice_vi_21833242.mp3|Ở bên trong Trinh tự hỏi
+dataset/common_voice/vi/clips/common_voice_vi_21833243.mp3|Nhưng đáng tiếc là thảo không hề xuất
+dataset/common_voice/vi/clips/common_voice_vi_21833244.mp3|Nó bắt hồn anh chàng ấy định biến anh ta thành một cặp đôi
+dataset/common_voice/vi/clips/common_voice_vi_21833245.mp3|Mấy người cứ tin thầy cúng rồi mất mạng lại trách nhau
+dataset/common_voice/vi/clips/common_voice_vi_21833251.mp3|Trước khi đi ra khỏi cửa Trinh có nghe bác sĩ nói
+dataset/common_voice/vi/clips/common_voice_vi_21833252.mp3|Nếu nhà có phúc
+dataset/common_voice/vi/clips/common_voice_vi_21833253.mp3|Nhớ Bác nói láo cây xoài em không ra quả thật
+dataset/common_voice/vi/clips/common_voice_vi_21833254.mp3|Thả hổ về rừng
+dataset/common_voice/vi/clips/common_voice_vi_21833255.mp3|Được rồi anh nghỉ ngơi rồi sẽ nhớ
+dataset/common_voice/vi/clips/common_voice_vi_21833259.mp3|Bố em liền cười bảo với chú
+dataset/common_voice/vi/clips/common_voice_vi_21833262.mp3|Thế còn chuyện cầu xin tình cảm với anh chàng khi thị sao
+dataset/common_voice/vi/clips/common_voice_vi_21833263.mp3|Thì cũng chưa bao giờ phát nhanh được như vậy
+dataset/common_voice/vi/clips/common_voice_vi_21833264.mp3|Bên trong đặt một lọ thủy tinh
+dataset/common_voice/vi/clips/common_voice_vi_21833276.mp3|Chắc là hợp nên nó bắt theo hầu nó đấy
+dataset/common_voice/vi/clips/common_voice_vi_21833277.mp3|Còn Cái Thảo nó ở đâu mẹ không nhìn thấy gì cả
+dataset/common_voice/vi/clips/common_voice_vi_21833278.mp3|Cô cười thật tươi
+dataset/common_voice/vi/clips/common_voice_vi_21833279.mp3|Vang vang tiếng hát
+dataset/common_voice/vi/clips/common_voice_vi_21833280.mp3|Tay làm hàm nhai tay quai miệng trễ
+dataset/common_voice/vi/clips/common_voice_vi_21833286.mp3|Hay là thôi đường ai nấy bước
+dataset/common_voice/vi/clips/common_voice_vi_21833288.mp3|Đứa thì chết đứa thì điên dại nó còn làm được
+dataset/common_voice/vi/clips/common_voice_vi_21833289.mp3|Vì lâu lắm mới có người lên đấy
+dataset/common_voice/vi/clips/common_voice_vi_21833290.mp3|Để Bác sĩ về tận nhà cũng chỉ là uống thuốc
+dataset/common_voice/vi/clips/common_voice_vi_21833307.mp3|Đúng rồi Gần đây tôi thấy có gì đó lạ lắm
+dataset/common_voice/vi/clips/common_voice_vi_21833310.mp3|Sau đó họ đốn chặt những cái cây to lớn
+dataset/common_voice/vi/clips/common_voice_vi_21833313.mp3|Không nhìn vào mắt sầu
+dataset/common_voice/vi/clips/common_voice_vi_21833314.mp3|Cuộc đời con người ai cũng phải chết
+dataset/common_voice/vi/clips/common_voice_vi_21833315.mp3|Cô ngượng ngùng nhìn phong
+dataset/common_voice/vi/clips/common_voice_vi_21833323.mp3|Chỉ một ước mơ thôi
+dataset/common_voice/vi/clips/common_voice_vi_21833326.mp3|đừng nghe đời của ông ta nói ông ta là kẻ xấu đấy
+dataset/common_voice/vi/clips/common_voice_vi_21833328.mp3|Quay lại sau cậu bạn nhìn chinh rồi nói
+dataset/common_voice/vi/clips/common_voice_vi_21833329.mp3|Và cảnh đời là sa mạc vô liêu
+dataset/common_voice/vi/clips/common_voice_vi_21833331.mp3|Hoặc là sẽ quanh quẩn bên xác
+dataset/common_voice/vi/clips/common_voice_vi_21833346.mp3|Bởi đối với cô
+dataset/common_voice/vi/clips/common_voice_vi_21833347.mp3|Vần vũ mây che đèn cao áp chập chờn
+dataset/common_voice/vi/clips/common_voice_vi_21833348.mp3|Quân đã bị kumanthong của mình tác động
+dataset/common_voice/vi/clips/common_voice_vi_21833349.mp3|Muôn vàng tấc đất
+dataset/common_voice/vi/clips/common_voice_vi_23078429.mp3|chúa ba ngôi
+dataset/common_voice/vi/clips/common_voice_vi_23078430.mp3|bởi phòng của cô nằm ngay lối lên xuống cầu thang
+dataset/common_voice/vi/clips/common_voice_vi_23078431.mp3|Mái tranh vàng võ
+dataset/common_voice/vi/clips/common_voice_vi_23078432.mp3|Cũng hết thời gian cho kuman ăn
+dataset/common_voice/vi/clips/common_voice_vi_23078433.mp3|Tao về Đợt này thì cũng Khoảng vài tháng
+dataset/common_voice/vi/clips/common_voice_vi_23078477.mp3|Công việc làm ăn của Trinh ngày một thuận lợi
+dataset/common_voice/vi/clips/common_voice_vi_23078479.mp3|Người có chở hẹn về sông cũ
+dataset/common_voice/vi/clips/common_voice_vi_23078482.mp3|Và điều này trình thấy chính xác
+dataset/common_voice/vi/clips/common_voice_vi_23078483.mp3|Anh đang lo cho cả em đấy sao
+dataset/common_voice/vi/clips/common_voice_vi_23078485.mp3|Có gì thì cứ alo cho tao
+dataset/common_voice/vi/clips/common_voice_vi_23078521.mp3|Mẹ không có an tâm
+dataset/common_voice/vi/clips/common_voice_vi_23078524.mp3|Quân bước vội vào bên trong nhưng không thể bước được
+dataset/common_voice/vi/clips/common_voice_vi_23078525.mp3|Vuốt không thể xuống được
+dataset/common_voice/vi/clips/common_voice_vi_23078527.mp3|Cô ấy
+dataset/common_voice/vi/clips/common_voice_vi_23078574.mp3|Tôi chờ người đến với yêu thương
+dataset/common_voice/vi/clips/common_voice_vi_23078575.mp3|Giờ tranh thủ ngủ đi
+dataset/common_voice/vi/clips/common_voice_vi_23078577.mp3|Anh chàng lắc đầu
+dataset/common_voice/vi/clips/common_voice_vi_23078578.mp3|Chúng ta nhờ bà nội con thảo tác động được không
+dataset/common_voice/vi/clips/common_voice_vi_23078581.mp3|phải mát mấy ngày Trinh mới đọc thuần thục được một câu chú này
+dataset/common_voice/vi/clips/common_voice_vi_23078610.mp3|Đợi đến giờ bà bói làm lễ
+dataset/common_voice/vi/clips/common_voice_vi_23078611.mp3|Cánh cửa được đóng kín lại
+dataset/common_voice/vi/clips/common_voice_vi_23078612.mp3|Bởi tình yêu tha thiết
+dataset/common_voice/vi/clips/common_voice_vi_23078615.mp3|Đó là một hành động vô thức
+dataset/common_voice/vi/clips/common_voice_vi_23078658.mp3|Anh chị chào mào
+dataset/common_voice/vi/clips/common_voice_vi_23078662.mp3|rồi người có Mắt Âm Dương
+dataset/common_voice/vi/clips/common_voice_vi_23078665.mp3|Động viên tinh thần cho em
+dataset/common_voice/vi/clips/common_voice_vi_23078668.mp3|Chẳng bước chân nào được dẫm lên
+dataset/common_voice/vi/clips/common_voice_vi_23078713.mp3|Nhưng đó chưa phải là tất cả
+dataset/common_voice/vi/clips/common_voice_vi_23078718.mp3|Hà ni thở dài
+dataset/common_voice/vi/clips/common_voice_vi_23078720.mp3|Chính giữa đằng sau bát nhang
+dataset/common_voice/vi/clips/common_voice_vi_23078721.mp3|Vậy mà bạn chết chưa giỗ đầu mà la liếm với chồng của bạn
+dataset/common_voice/vi/clips/common_voice_vi_23078761.mp3|Đi thăm Lúc này là không có tiện đâu
+dataset/common_voice/vi/clips/common_voice_vi_23078763.mp3|Là trong nhà lại xuất hiện tiếng động lạ không
+dataset/common_voice/vi/clips/common_voice_vi_23078764.mp3|Tuấn nhớ là mình bị người yêu nhảy đè lên người
+dataset/common_voice/vi/clips/common_voice_vi_23078767.mp3|lúc đi qua ngã ba
+dataset/common_voice/vi/clips/common_voice_vi_23078768.mp3|viêt nam cố lên
+dataset/common_voice/vi/clips/common_voice_vi_23078774.mp3|Mà Nhi lại là bạn thân thiết của em
+dataset/common_voice/vi/clips/common_voice_vi_23078775.mp3|đừng có chết đấy
+dataset/common_voice/vi/clips/common_voice_vi_23078776.mp3|thanh ơi
+dataset/common_voice/vi/clips/common_voice_vi_23078778.mp3|Xin lỗi đã làm cho cô sợ
+dataset/common_voice/vi/clips/common_voice_vi_23078828.mp3|Ông ông nói thế
+dataset/common_voice/vi/clips/common_voice_vi_23078831.mp3|chức mừng giáng sinh
+dataset/common_voice/vi/clips/common_voice_vi_23078832.mp3|Tác phẩm
+dataset/common_voice/vi/clips/common_voice_vi_23078834.mp3|Cái Thảo nó đi rồi
+dataset/common_voice/vi/clips/common_voice_vi_23406195.mp3|Tỉnh lại trong trạng thái mệt mỏi
+dataset/common_voice/vi/clips/common_voice_vi_23406196.mp3|Đưa tình về cuối sông
+dataset/common_voice/vi/clips/common_voice_vi_23406197.mp3|Phụ nữ mà uống nhiều cà phê là không có tốt cho da
+dataset/common_voice/vi/clips/common_voice_vi_23406198.mp3|nhìn là cái Thảo
+dataset/common_voice/vi/clips/common_voice_vi_23406199.mp3|mày cứ về thế này tao không có ngủ được
+dataset/common_voice/vi/clips/common_voice_vi_23406205.mp3|Tôi nhớ tới Lan cô ấy bị tai nạn
+dataset/common_voice/vi/clips/common_voice_vi_23406206.mp3|Tóm lại em thà tin còn hơn là không tin
+dataset/common_voice/vi/clips/common_voice_vi_23406207.mp3|Tiếng chuông đồng hồ quả lắc Vang lên
+dataset/common_voice/vi/clips/common_voice_vi_23406208.mp3|Anh chàng nhìn vào và tỏ vẻ sợ hãi
+dataset/common_voice/vi/clips/common_voice_vi_23406209.mp3|Ai vậy
+dataset/common_voice/vi/clips/common_voice_vi_23406210.mp3|Gom hết giùm tôi mấy ánh trăng
+dataset/common_voice/vi/clips/common_voice_vi_23406211.mp3|đám ma bọn tôi đến mà không thấy Trinh đâu cả
+dataset/common_voice/vi/clips/common_voice_vi_23406212.mp3|Bởi suy cho cùng tất cả mọi thứ do Nhi lựa chọn
+dataset/common_voice/vi/clips/common_voice_vi_23406213.mp3|Trái cây thơm trên miền đất khô cằn
+dataset/common_voice/vi/clips/common_voice_vi_23406214.mp3|Từ sông hồ biên giới biển xa khơi
+dataset/common_voice/vi/clips/common_voice_vi_23406215.mp3|Đôi chân của cô trùng xuống và khép lại
+dataset/common_voice/vi/clips/common_voice_vi_23406216.mp3|Nghĩa là ghen quá đấy mà thôi
+dataset/common_voice/vi/clips/common_voice_vi_23406217.mp3|Anh và em sẽ không gặp lại nhau được đâu
+dataset/common_voice/vi/clips/common_voice_vi_23406218.mp3|Để bọn họ lừa đảo trục lợi mà thôi
+dataset/common_voice/vi/clips/common_voice_vi_23406219.mp3|Vậy mà quân vẫn lạnh lùng vô cảm
+dataset/common_voice/vi/clips/common_voice_vi_23423354.mp3|Tham giàu phụ ngải
+dataset/common_voice/vi/clips/common_voice_vi_23423355.mp3|tôi tên Duy
+dataset/common_voice/vi/clips/common_voice_vi_23423356.mp3|Sân trường nhộn nhịp
+dataset/common_voice/vi/clips/common_voice_vi_23423357.mp3|Tránh voi chẳng xấu mặt nào
+dataset/common_voice/vi/clips/common_voice_vi_23423358.mp3|rốt cuộc con thanh có thấy ác mộng gì nữa đâu
+dataset/common_voice/vi/clips/common_voice_vi_23423359.mp3|bẵng đi đến ngày em xem kết quả thi
+dataset/common_voice/vi/clips/common_voice_vi_23423360.mp3|Nhất là con Hạ
+dataset/common_voice/vi/clips/common_voice_vi_23423361.mp3|Anh vui liền nhưng bỗng lại buồn ngay
+dataset/common_voice/vi/clips/common_voice_vi_23423362.mp3|nghe sao ồn ào
+dataset/common_voice/vi/clips/common_voice_vi_23423363.mp3|sáng dạ
+dataset/common_voice/vi/clips/common_voice_vi_23423364.mp3|Những bài thơ hay về các loài cây cho bé mầm non
+dataset/common_voice/vi/clips/common_voice_vi_23423365.mp3|vẫn đang cảm thấy khó hiểu
+dataset/common_voice/vi/clips/common_voice_vi_23423366.mp3|Hay là mày đòi dẫn tao xuống đó theo với mày
+dataset/common_voice/vi/clips/common_voice_vi_23423367.mp3|Mái trường Thành Công
+dataset/common_voice/vi/clips/common_voice_vi_23423368.mp3|Trinh há hốc mồm
+dataset/common_voice/vi/clips/common_voice_vi_23423369.mp3|Tôi cũng biết là chuyện này rất khó tin
+dataset/common_voice/vi/clips/common_voice_vi_23423370.mp3|Em mới nghe tiếng của bà đấy mà
+dataset/common_voice/vi/clips/common_voice_vi_23423371.mp3|Cứ thế này cho bố mẹ Em chăm
+dataset/common_voice/vi/clips/common_voice_vi_23423372.mp3|Tình theo nét bút
+dataset/common_voice/vi/clips/common_voice_vi_23423373.mp3|Trước này chưa có một người đàn ông nào từ chối trinh cả
+dataset/common_voice/vi/clips/common_voice_vi_23423374.mp3|Ước mong ân ái đậm say
+dataset/common_voice/vi/clips/common_voice_vi_23423376.mp3|A Hội nằm co ro ở một góc chân tay run rẩy
+dataset/common_voice/vi/clips/common_voice_vi_23423377.mp3|Từng ngày suy nghĩ
+dataset/common_voice/vi/clips/common_voice_vi_23423378.mp3|Sự gắn bó giữa hai người xa lạ
+dataset/common_voice/vi/clips/common_voice_vi_23423380.mp3|sự cứng đầu
+dataset/common_voice/vi/clips/common_voice_vi_23423388.mp3|Tôi tôi đang ở đâu
+dataset/common_voice/vi/clips/common_voice_vi_23423389.mp3|là một tấm gương
+dataset/common_voice/vi/clips/common_voice_vi_23423390.mp3|Giọng của Hạ liền đáp
+dataset/common_voice/vi/clips/common_voice_vi_23423391.mp3|Căn phòng cũng trở nên đột nhiên lạnh ngắt
+dataset/common_voice/vi/clips/common_voice_vi_23423392.mp3|sự mất mát
+dataset/common_voice/vi/clips/common_voice_vi_23847775.mp3|với lại năng lực của tôi có hạn
+dataset/common_voice/vi/clips/common_voice_vi_23847776.mp3|mà khi đã bị bắt đi rồi thì không thể trở về
+dataset/common_voice/vi/clips/common_voice_vi_23847777.mp3|và nhất quyết không thưa
+dataset/common_voice/vi/clips/common_voice_vi_23847778.mp3|Mẹ của Phương dơn dớn Nước Mắt
+dataset/common_voice/vi/clips/common_voice_vi_23847794.mp3|Song trai khẽ vẫy tay mặt hớn hở
+dataset/common_voice/vi/clips/common_voice_vi_23847795.mp3|chúng ta vẫn còn trẻ
+dataset/common_voice/vi/clips/common_voice_vi_23847796.mp3|Dù chỉ là một bước vào bên trong
+dataset/common_voice/vi/clips/common_voice_vi_23847797.mp3|Đã có lúc Quân còn không thiết sống
+dataset/common_voice/vi/clips/common_voice_vi_23847798.mp3|tiếng của thảo vang lên
+dataset/common_voice/vi/clips/common_voice_vi_23847854.mp3|Em cũng không có biết đâu
+dataset/common_voice/vi/clips/common_voice_vi_23847856.mp3|còn bày cách cho mày
+dataset/common_voice/vi/clips/common_voice_vi_23847859.mp3|Sao lại sợ như thế
+dataset/common_voice/vi/clips/common_voice_vi_23847860.mp3|Anh giờ đây đâu còn riêng em nữa
+dataset/common_voice/vi/clips/common_voice_vi_23847862.mp3|Lấy cũng mệt lả cả ra
+dataset/common_voice/vi/clips/common_voice_vi_23848839.mp3|Đường đời chia hai ngả
+dataset/common_voice/vi/clips/common_voice_vi_23848845.mp3|sẽ tốt cho mình
+dataset/common_voice/vi/clips/common_voice_vi_23848846.mp3|Chuyện này không liên quan đến bé hay lớn
+dataset/common_voice/vi/clips/common_voice_vi_23848847.mp3|Đứng yên ở đó
+dataset/common_voice/vi/clips/common_voice_vi_23848848.mp3|bánh xe leo lên người của thảo
+dataset/common_voice/vi/clips/common_voice_vi_23848849.mp3|Thấm tung trang sách
+dataset/common_voice/vi/clips/common_voice_vi_23848850.mp3|Hà ni ngỡ rằng anh ta đóng kịch
+dataset/common_voice/vi/clips/common_voice_vi_23848851.mp3|ít ra thì con mình vẫn còn sống mà tỉnh lại
+dataset/common_voice/vi/clips/common_voice_vi_23848852.mp3|Mẹ của Thảo nói
+dataset/common_voice/vi/clips/common_voice_vi_23848853.mp3|Tiếng tút dài còn khắc khoải người xa
+dataset/common_voice/vi/clips/common_voice_vi_23848854.mp3|Và nghĩa là cô là tất cả
+dataset/common_voice/vi/clips/common_voice_vi_23848855.mp3|Hay đúng hơn là không muốn vùng vẫy nữa
+dataset/common_voice/vi/clips/common_voice_vi_23848857.mp3|Thì Nhi là một cô gái hoàn hảo
+dataset/common_voice/vi/clips/common_voice_vi_23848858.mp3|chỉ cần con khiến cho người đàn ông trong bức ảnh này yêu mẹ
+dataset/common_voice/vi/clips/common_voice_vi_23848859.mp3|Thì không thấy gì cả
+dataset/common_voice/vi/clips/common_voice_vi_23848860.mp3|Tao chỉ muốn bảo vệ mày chứ không dọa mày
+dataset/common_voice/vi/clips/common_voice_vi_23848861.mp3|cản ơn đã giúp tôi
+dataset/common_voice/vi/clips/common_voice_vi_23848862.mp3|bà ấy hỏi em mới sực nhớ ra
+dataset/common_voice/vi/clips/common_voice_vi_23848865.mp3|Dựng thêm những hàng rào
+dataset/common_voice/vi/clips/common_voice_vi_23848866.mp3|Có một bận em ngồi xa anh quá
+dataset/common_voice/vi/clips/common_voice_vi_23848868.mp3|Đã cướp đi mạng sống của bạn thân nhất của em
+dataset/common_voice/vi/clips/common_voice_vi_23848869.mp3|Ầy
+dataset/common_voice/vi/clips/common_voice_vi_23848870.mp3|Hạn chế người nhà đến thăm
+dataset/common_voice/vi/clips/common_voice_vi_23848871.mp3|Thì có tiếng gọi bảo con tỉnh dậy
+dataset/common_voice/vi/clips/common_voice_vi_23848872.mp3|Ngủ không sao nhưng mà lúc tỉnh lại
+dataset/common_voice/vi/clips/common_voice_vi_23848873.mp3|Vài người nữa cũng đổ xô chạy đến
+dataset/common_voice/vi/clips/common_voice_vi_23848874.mp3|Tâm linh ma quỷ từ xưa đến nay
+dataset/common_voice/vi/clips/common_voice_vi_23848875.mp3|Em thương mẹ em
+dataset/common_voice/vi/clips/common_voice_vi_23848876.mp3|mày quay mặt lại đây nói chuyện tử tế với tao xem nào
+dataset/common_voice/vi/clips/common_voice_vi_23848877.mp3|hay là nói được câu nào cả
+dataset/common_voice/vi/clips/common_voice_vi_23848879.mp3|Xem thêm
+dataset/common_voice/vi/clips/common_voice_vi_23848880.mp3|Mong anh chị hãy giúp chúng tôi
+dataset/common_voice/vi/clips/common_voice_vi_23848881.mp3|Trinh khẽ cười rồi nói
+dataset/common_voice/vi/clips/common_voice_vi_23848882.mp3|Em lại thưa lại
+dataset/common_voice/vi/clips/common_voice_vi_23848883.mp3|mẹ như cô tiên
+dataset/common_voice/vi/clips/common_voice_vi_23848884.mp3|Chỉ mở mắt ra nằm yên trong đó
+dataset/common_voice/vi/clips/common_voice_vi_23848885.mp3|Qua thời gian nó sẽ hấp thụ Linh khí xung quanh
+dataset/common_voice/vi/clips/common_voice_vi_23848886.mp3|chứ tao có cố ý cho mày nhìn thấy đâu
+dataset/common_voice/vi/clips/common_voice_vi_23848888.mp3|Tháng mười một đẹp lại duyên
+dataset/common_voice/vi/clips/common_voice_vi_23848889.mp3|Lặng nghe gió hát lời tình yêu thương
+dataset/common_voice/vi/clips/common_voice_vi_23848890.mp3|Mẹ vẫn lo âu
+dataset/common_voice/vi/clips/common_voice_vi_23848892.mp3|Thì là cô ấy
+dataset/common_voice/vi/clips/common_voice_vi_23848893.mp3|Còn chăng là kỷ niệm
+dataset/common_voice/vi/clips/common_voice_vi_23848894.mp3|Hai người gặp nhau sau đám tang của mẹ quân
+dataset/common_voice/vi/clips/common_voice_vi_23848895.mp3|Mùa Thu về ngang phố
+dataset/common_voice/vi/clips/common_voice_vi_23848896.mp3|Quan trọng hơn
+dataset/common_voice/vi/clips/common_voice_vi_23848897.mp3|Đừng có sợ tao không có làm hại mày đâu
+dataset/common_voice/vi/clips/common_voice_vi_23848898.mp3|Tất cả đều nhìn xung quanh phòng nhưng không thấy gì cả
+dataset/common_voice/vi/clips/common_voice_vi_23848903.mp3|Người ấy sang sông đứng ngóng đò
+dataset/common_voice/vi/clips/common_voice_vi_25225743.mp3|Đời vô tình nghiệt ngã
+dataset/common_voice/vi/clips/common_voice_vi_25225879.mp3|Rất nhiều hình ảnh đủ mọi góc độ
+dataset/common_voice/vi/clips/common_voice_vi_25225896.mp3|mẹ em nghe em hỏi mà gào lên
+dataset/common_voice/vi/clips/common_voice_vi_25225931.mp3|Chị nghĩ rằng thà cho tên trộm lấy hết đồ đạc cũng được
+dataset/common_voice/vi/clips/common_voice_vi_25226009.mp3|Sáng ngày mai tuổi mới thật bình an
+dataset/common_voice/vi/clips/common_voice_vi_25226010.mp3|Con đã thêm cao
+dataset/common_voice/vi/clips/common_voice_vi_25226011.mp3|Ngoài ban công được đặt những chậu cây cảnh
+dataset/common_voice/vi/clips/common_voice_vi_25226017.mp3|Gió ngoài hiên cũng tắt tự khi nào
+dataset/common_voice/vi/clips/common_voice_vi_25226039.mp3|Hà liền đáp lại
+dataset/common_voice/vi/clips/common_voice_vi_25226060.mp3|Mới làm lễ kiệu vong lên được
+dataset/common_voice/vi/clips/common_voice_vi_25226077.mp3|Rồi anh ta quay sang nói với Tuấn
+dataset/common_voice/vi/clips/common_voice_vi_25226158.mp3|Thơ tình ngày không anh
+dataset/common_voice/vi/clips/common_voice_vi_25226204.mp3|Thi thoảng lại bị gió thổi đập mạnh vào cánh cửa sổ
+dataset/common_voice/vi/clips/common_voice_vi_25226263.mp3|Em mấy ngày qua chỉ sợ là anh buồn rồi nghĩ quẩn thôi
+dataset/common_voice/vi/clips/common_voice_vi_25226316.mp3|Nền động viên em rất nhiều
+dataset/common_voice/vi/clips/common_voice_vi_25226325.mp3|Thế này phải tìm thầy Cao tay hơn
+dataset/common_voice/vi/clips/common_voice_vi_25226336.mp3|nghe nói là bị ô tô cán đứt cả người
+dataset/common_voice/vi/clips/common_voice_vi_25226344.mp3|Trình hơi sững lại khi quân vừa nhắc đến nhi
+dataset/common_voice/vi/clips/common_voice_vi_25226361.mp3|Nghe hà ni nói như vậy
+dataset/common_voice/vi/clips/common_voice_vi_25226368.mp3|nếu qua bốn mươi chín ngày thì muộn
+dataset/common_voice/vi/clips/common_voice_vi_25226374.mp3|Những cánh cửa gỗ đều bị rèm che phủ
+dataset/common_voice/vi/clips/common_voice_vi_25226380.mp3|Chẳng Phải có sức mạnh hơn rồi sao
+dataset/common_voice/vi/clips/common_voice_vi_25226381.mp3|Ai đã chăm con
+dataset/common_voice/vi/clips/common_voice_vi_25226384.mp3|Em muốn anh
+dataset/common_voice/vi/clips/common_voice_vi_25226386.mp3|Thế nhưng cánh cửa không thể xảy ra bất cứ điều gì
+dataset/common_voice/vi/clips/common_voice_vi_25226399.mp3|chị ấy đang có bầu
+dataset/common_voice/vi/clips/common_voice_vi_25226410.mp3|Toàn thân của chị nóng ran
+dataset/common_voice/vi/clips/common_voice_vi_25226414.mp3|Vạn vật khô ráo
+dataset/common_voice/vi/clips/common_voice_vi_25226417.mp3|Linh hồn ta còn u ẩn hơn đêm
+dataset/common_voice/vi/clips/common_voice_vi_25226438.mp3|quỷ đã đánh đổi con bé ấy những thứ mà cháu muốn
+dataset/common_voice/vi/clips/common_voice_vi_25226440.mp3|Bố em lúc ấy chen ngang
+dataset/common_voice/vi/clips/common_voice_vi_25226442.mp3|Tình hình cho đến ngày hôm nay
+dataset/common_voice/vi/clips/common_voice_vi_25226445.mp3|Vuốt bờ tóc mây
+dataset/common_voice/vi/clips/common_voice_vi_25226446.mp3|Nếu không muốn là một thứ quỷ già như tôi
+dataset/common_voice/vi/clips/common_voice_vi_25226451.mp3|Lái xe đến phòng tập
+dataset/common_voice/vi/clips/common_voice_vi_25226460.mp3|Anh chàng cười trên đôi môi héo hắt
+dataset/common_voice/vi/clips/common_voice_vi_25226463.mp3|Chưa hề ghi nhớ
+dataset/common_voice/vi/clips/common_voice_vi_25226476.mp3|là Kumanthong ở bên lọ thủy tinh ngày hôm nay
+dataset/common_voice/vi/clips/common_voice_vi_25226478.mp3|em phải học hành
+dataset/common_voice/vi/clips/common_voice_vi_25226480.mp3|Tôi còn mong nó về nhà gặp mà còn chẳng được
+dataset/common_voice/vi/clips/common_voice_vi_25226488.mp3|Chỉ vô tình mà thôi
+dataset/common_voice/vi/clips/common_voice_vi_25226495.mp3|Mỗi khi ra về
+dataset/common_voice/vi/clips/common_voice_vi_25226509.mp3|bà bói liền đáp
+dataset/common_voice/vi/clips/common_voice_vi_25226516.mp3|Từ sợ hãi chính bỗng dưng cười khúc khích
+dataset/common_voice/vi/clips/common_voice_vi_25226520.mp3|Sinh li tử biệt
+dataset/common_voice/vi/clips/common_voice_vi_25226522.mp3|Một chút tên tôi đối với nàng
+dataset/common_voice/vi/clips/common_voice_vi_25226540.mp3|hai chuyện khác nhau
+dataset/common_voice/vi/clips/common_voice_vi_25226543.mp3|đang đêm mà cứ thưa như vậy là sao
+dataset/common_voice/vi/clips/common_voice_vi_25226544.mp3|còn người thì chắc là đưa đi rồi
+dataset/common_voice/vi/clips/common_voice_vi_25226577.mp3|Trăng quầng thì hạn trăng tán thì mưa
+dataset/common_voice/vi/clips/common_voice_vi_25226578.mp3|Xa mặt cách lòng
+dataset/common_voice/vi/clips/common_voice_vi_25226652.mp3|Bỗng dưng chinh thấy người của mình lạnh toát
+dataset/common_voice/vi/clips/common_voice_vi_25226656.mp3|Đi đi con
+dataset/common_voice/vi/clips/common_voice_vi_25226899.mp3|Chăm sóc được chủ của mình
+dataset/common_voice/vi/clips/common_voice_vi_25226903.mp3|mãi sau bố mẹ em đến đưa em về nhà
+dataset/common_voice/vi/clips/common_voice_vi_25226904.mp3|nhọn hoắt cào cào vào không trung
+dataset/common_voice/vi/clips/common_voice_vi_25226906.mp3|Chúng tôi đang cố gắng thu xếp
+dataset/common_voice/vi/clips/common_voice_vi_25226917.mp3|Sẽ dừng lại khi chỉ còn một chiếc
+dataset/common_voice/vi/clips/common_voice_vi_25226919.mp3|Còn bé bị xe công nông cán chết ở ngã ba đấy
+dataset/common_voice/vi/clips/common_voice_vi_25226933.mp3|Trinh đột nhiên nổi da gà
+dataset/common_voice/vi/clips/common_voice_vi_25226989.mp3|Tất cả những người đi làm hoặc ở nhà
+dataset/common_voice/vi/clips/common_voice_vi_25226990.mp3|Anh vừa mới kí xong một bản hợp đồng
+dataset/common_voice/vi/clips/common_voice_vi_25226991.mp3|Trinh quay sang hai bên không thấy gì cả
+dataset/common_voice/vi/clips/common_voice_vi_25227103.mp3|Chị ơi Chị bị cảm à
+dataset/common_voice/vi/clips/common_voice_vi_25227119.mp3|Không dám nói thật hà liền đáp
+dataset/common_voice/vi/clips/common_voice_vi_25709570.mp3|Tìm em trong đôi mắt của mùa thu
+dataset/common_voice/vi/clips/common_voice_vi_25709798.mp3|Cho mùa thu rơi thoáng nhẹ qua thềm
+dataset/common_voice/vi/clips/common_voice_vi_25710032.mp3|Thoảng mùi hương cốm nơi đâu
+dataset/common_voice/vi/clips/common_voice_vi_25710035.mp3|Gió ru giấc ngủ êm đềm say sưa
+dataset/common_voice/vi/clips/common_voice_vi_25710037.mp3|Hà ni giật bắn người
+dataset/common_voice/vi/clips/common_voice_vi_25710402.mp3|Phải chi đừng có lá rơi
+dataset/common_voice/vi/clips/common_voice_vi_25710403.mp3|Nghe yêu thương vang xốn xang lồng ngực
+dataset/common_voice/vi/clips/common_voice_vi_25721610.mp3|Nhưng vẫn trồng loài hoa ấy si mê
+dataset/common_voice/vi/clips/common_voice_vi_25721611.mp3|Bông cúc chi thạch thảo tím giao hòa
+dataset/common_voice/vi/clips/common_voice_vi_25721629.mp3|Ngồi ở bên đường đốt nhang cúng
+dataset/common_voice/vi/clips/common_voice_vi_25721631.mp3|Anh lái xe nghĩ hà ni Lo cho người yêu
+dataset/common_voice/vi/clips/common_voice_vi_25721645.mp3|Hà Ni cảm thấy hơi bực
+dataset/common_voice/vi/clips/common_voice_vi_25721646.mp3|Kịch bản văn nghệ chào mừng ngày Nhà giáo Việt Nam
+dataset/common_voice/vi/clips/common_voice_vi_25721682.mp3|Nụ hôn nồng tê tái lúc đắm say
+dataset/common_voice/vi/clips/common_voice_vi_25721710.mp3|Trên dốc nhớ chợt trời lên cơn bão
+dataset/common_voice/vi/clips/common_voice_vi_25721711.mp3|Dặn anh ta chờ ở đó hà ni dìu phong leo cầu thang
+dataset/common_voice/vi/clips/common_voice_vi_25721718.mp3|Gió cồn cào se sắt đến rã rời
+dataset/common_voice/vi/clips/common_voice_vi_25721784.mp3|Xong rồi về đi
+dataset/common_voice/vi/clips/common_voice_vi_25721785.mp3|Giai điệu tình xót xa chiều thu trắng
+dataset/common_voice/vi/clips/common_voice_vi_25721862.mp3|Tôi đoán là
+dataset/common_voice/vi/clips/common_voice_vi_25721863.mp3|Trời Đông lạnh mây mưa buồn ủ rũ
+dataset/common_voice/vi/clips/common_voice_vi_25721864.mp3|Cho hạnh phúc thêm ngập tràn sôi động
+dataset/common_voice/vi/clips/common_voice_vi_25721865.mp3|Liu riu róc rách giọt sầu mênh mông
+dataset/common_voice/vi/clips/common_voice_vi_25721897.mp3|Hà ni phản đối
+dataset/common_voice/vi/clips/common_voice_vi_25721921.mp3|Thôi em ơi chẳng thể nào mặc cả
+dataset/common_voice/vi/clips/common_voice_vi_25721922.mp3|Én lạc bầy mỏi mệt nỗi cô đơn
+dataset/common_voice/vi/clips/common_voice_vi_25721923.mp3|Thổn thức một người xa vắng
+dataset/common_voice/vi/clips/common_voice_vi_25721925.mp3|Mùa thu chết trong nỗi sầu tê tái
+dataset/common_voice/vi/clips/common_voice_vi_25721944.mp3|Cúc vàng vẫn thắm bên thềm
+dataset/common_voice/vi/clips/common_voice_vi_25721945.mp3|Thu vấn vương lá còn rơi rụng
+dataset/common_voice/vi/clips/common_voice_vi_25721966.mp3|Trời tháng mườimây vờn bay bảng lãng
+dataset/common_voice/vi/clips/common_voice_vi_25721967.mp3|Tháng mười vương mùi hoa sữa
+dataset/common_voice/vi/clips/common_voice_vi_25722009.mp3|Đủ cho lúa chín vàng
+dataset/common_voice/vi/clips/common_voice_vi_25722010.mp3|Người thiểu số không biết nói nhiều
+dataset/common_voice/vi/clips/common_voice_vi_25722012.mp3|Bao tháng mười anh vẫn còn nhớ mãi
+dataset/common_voice/vi/clips/common_voice_vi_25722041.mp3|Tháng mười một về trong sớm chênh vênh
+dataset/common_voice/vi/clips/common_voice_vi_25722042.mp3|Anh ta chưa kịp đáp thì do phải tránh Một xe đi ngược chiều
+dataset/common_voice/vi/clips/common_voice_vi_25722064.mp3|Bởi giây phút làm ngơ
+dataset/common_voice/vi/clips/common_voice_vi_25722066.mp3|Vậy mà khi nghe câu nói đó anh đã liền hỏi
+dataset/common_voice/vi/clips/common_voice_vi_25722088.mp3|Nỗi buồn về trên những bước chân êm
+dataset/common_voice/vi/clips/common_voice_vi_25722091.mp3|Muốn ngỏ lời mà sao tôi thật ngốc
+dataset/common_voice/vi/clips/common_voice_vi_25722092.mp3|Anh đã tới cuối đường hoa tháng chín
+dataset/common_voice/vi/clips/common_voice_vi_25722117.mp3|Bài phát biểu khai mạc lễ kỉ niệm Nhà giáo Việt Nam
+dataset/common_voice/vi/clips/common_voice_vi_25722120.mp3|Tháng mười cong chiếc lá khô
+dataset/common_voice/vi/clips/common_voice_vi_25722121.mp3|Mang theo cả những bài thơ dang dở
+dataset/common_voice/vi/clips/common_voice_vi_25722165.mp3|Trang viết chỉ toàn giấy trắng
+dataset/common_voice/vi/clips/common_voice_vi_25722167.mp3|Thu qua rồi chiếc lá chẳng còn xanh
+dataset/common_voice/vi/clips/common_voice_vi_25723272.mp3|Tháng mười ơi yêu thương nặng ân tình
+dataset/common_voice/vi/clips/common_voice_vi_25723274.mp3|Tháng mười một mà lòng sao trống vắng
+dataset/common_voice/vi/clips/common_voice_vi_25723275.mp3|Em e thẹn như nụ hoa hàm tiếu
+dataset/common_voice/vi/clips/common_voice_vi_25723276.mp3|Giọt thương giọt đợi đôi bờ thổn thức
+dataset/common_voice/vi/clips/common_voice_vi_25723314.mp3|Mùa thu vàng úa vẫn tươi sắc màu
+dataset/common_voice/vi/clips/common_voice_vi_25723318.mp3|Cô gái lắc đầu đáp
+dataset/common_voice/vi/clips/common_voice_vi_25723352.mp3|Thu sắp tàn lá vẫn rơi mê mải
+dataset/common_voice/vi/clips/common_voice_vi_25723353.mp3|Đìu hiu cơn gió đón mùa đông sang
+dataset/common_voice/vi/clips/common_voice_vi_25723355.mp3|Nhưng đến thật bất ngờ
+dataset/common_voice/vi/clips/common_voice_vi_25723417.mp3|Cô ngồi kèm phía sau và giục
+dataset/common_voice/vi/clips/common_voice_vi_25723486.mp3|Môi vẫn thắm gọi thuyền quyên về bến
+dataset/common_voice/vi/clips/common_voice_vi_25723495.mp3|Nên ngưng ngang câu chuyện
+dataset/common_voice/vi/clips/common_voice_vi_25723528.mp3|Thoảng thơ từng búi tóc dài
+dataset/common_voice/vi/clips/common_voice_vi_25723536.mp3|Những chiếc lá trút xuống đời thật tội
+dataset/common_voice/vi/clips/common_voice_vi_25724407.mp3|Cung đàn buồn còn lỡ phím yêu đương
+dataset/common_voice/vi/clips/common_voice_vi_25724408.mp3|Khi niềm nhớ tháng mười còn thao thức
+dataset/common_voice/vi/clips/common_voice_vi_25724415.mp3|Tháng mười về con nắng lại vỡ đôi
+dataset/common_voice/vi/clips/common_voice_vi_25724416.mp3|Tháng mười một Đông sang rồi em đó
+dataset/common_voice/vi/clips/common_voice_vi_22402288.mp3|Nhất là lại nhớ đến người phụ nữ dân tộc kia
+dataset/common_voice/vi/clips/common_voice_vi_22402289.mp3|Mặc cho nhân viên gọi với theo
+dataset/common_voice/vi/clips/common_voice_vi_22402290.mp3|đừng bỏ con nha mẹ
+dataset/common_voice/vi/clips/common_voice_vi_22402291.mp3|tiện đây tao nói cho mày nghe cái này nhé
+dataset/common_voice/vi/clips/common_voice_vi_22402292.mp3|cũng chẳng biết là hợp thầy hợp thuốc nào
+dataset/common_voice/vi/clips/common_voice_vi_22402296.mp3|Thuyền to sóng cả
+dataset/common_voice/vi/clips/common_voice_vi_22402297.mp3|Một vầng trăng khuyết
+dataset/common_voice/vi/clips/common_voice_vi_22402298.mp3|Em còn xa mãi
+dataset/common_voice/vi/clips/common_voice_vi_22402299.mp3|Chứ không phải là gần đây Cứ nửa đêm
+dataset/common_voice/vi/clips/common_voice_vi_22402300.mp3|Tuy nhiên hễ thả ra thì nó lại khóc lên nức nở
+dataset/common_voice/vi/clips/common_voice_vi_22402321.mp3|quá khứ anh anh không nhắc cùng em
+dataset/common_voice/vi/clips/common_voice_vi_22402322.mp3|Như không khí như màu xanh lá cỏ
+dataset/common_voice/vi/clips/common_voice_vi_22402323.mp3|Vất vả nắng sương
+dataset/common_voice/vi/clips/common_voice_vi_22402325.mp3|nên chúng em bị giữ lại phạt
+dataset/common_voice/vi/clips/common_voice_vi_22402371.mp3|Gần đây rất hay suy nghĩ mọi thứ quá nên
+dataset/common_voice/vi/clips/common_voice_vi_22402372.mp3|Mà trải nghiệm qua rồi thì mới thấy đó là sự thật
+dataset/common_voice/vi/clips/common_voice_vi_22402373.mp3|Còn Phương may mắn chỉ bị gãy vài cái xương
+dataset/common_voice/vi/clips/common_voice_vi_22402375.mp3|Ai là người chết đưa Nhi đến gặp thầy bói Miền
+dataset/common_voice/vi/clips/common_voice_vi_22402377.mp3|Thơ tình cuối mùa thu
+dataset/common_voice/vi/clips/common_voice_vi_22402411.mp3|Nó còn bảo là hôm nay nó muốn con đưa đi chơi cùng
+dataset/common_voice/vi/clips/common_voice_vi_22402412.mp3|Hay là còn có nguyện vọng gì
+dataset/common_voice/vi/clips/common_voice_vi_22402413.mp3|gian khổ
+dataset/common_voice/vi/clips/common_voice_vi_22402414.mp3|Con kêu con gọi
+dataset/common_voice/vi/clips/common_voice_vi_22402415.mp3|Nghỉ một lát hà liền ổ lên
+dataset/common_voice/vi/clips/common_voice_vi_22402440.mp3|Cứ đi đi
+dataset/common_voice/vi/clips/common_voice_vi_22402442.mp3|Khoan đã
+dataset/common_voice/vi/clips/common_voice_vi_22402443.mp3|Theo như lời của Sâm Trai phiên dịch lại
+dataset/common_voice/vi/clips/common_voice_vi_22402444.mp3|được đặt ở khắp mọi miền Việt Nam
+dataset/common_voice/vi/clips/common_voice_vi_22402445.mp3|Anh thích thì lát nữa tôi sẽ tặng anh
+dataset/common_voice/vi/clips/common_voice_vi_22402461.mp3|Nếu thật thế thì tội nghiệp con bé lắm
+dataset/common_voice/vi/clips/common_voice_vi_22402462.mp3|Vậy con có cần mang hòn đá này bên người nữa không hả mẹ
+dataset/common_voice/vi/clips/common_voice_vi_22402463.mp3|ai cũng kêu đây là vụ án kinh hoàng nhất mà họ được thấy
+dataset/common_voice/vi/clips/common_voice_vi_22402464.mp3|Đến việc khiến cho cái Hà với cái Phương bị tai nạn
+dataset/common_voice/vi/clips/common_voice_vi_22402465.mp3|rồi nhẹ nhàng đóng cửa lại
+dataset/common_voice/vi/clips/common_voice_vi_22402501.mp3|Cùng chia sẻ sức người đời chà đạp
+dataset/common_voice/vi/clips/common_voice_vi_22402502.mp3|bàn chân nào ở lại
+dataset/common_voice/vi/clips/common_voice_vi_22402503.mp3|Có cái chuyện ban nãy là tao nói thật đấy
+dataset/common_voice/vi/clips/common_voice_vi_22402504.mp3|Đừng nghĩ quẩn anh nhé
+dataset/common_voice/vi/clips/common_voice_vi_22402506.mp3|Dạ Nhớ bà dã Quỳ ông là
+dataset/common_voice/vi/clips/common_voice_vi_22402601.mp3|tiếc là cái chân của em không nhấc lên được
+dataset/common_voice/vi/clips/common_voice_vi_22402602.mp3|Với một cái chất giọng địa phương nai nái
+dataset/common_voice/vi/clips/common_voice_vi_22402603.mp3|nhưng do sợ nên Trinh không dám nhận đó là bạn của mình
+dataset/common_voice/vi/clips/common_voice_vi_22402609.mp3|Trên tay của Trinh đủ các loại bánh kẹo đồ chơi mới
+dataset/common_voice/vi/clips/common_voice_vi_22402610.mp3|Mưa lớn biết bao
+dataset/common_voice/vi/clips/common_voice_vi_22402616.mp3|Sao sao à ừ tớ thấy trong người không được khỏe
+dataset/common_voice/vi/clips/common_voice_vi_22402617.mp3|giờ mày nói cái vụ đi ăn
+dataset/common_voice/vi/clips/common_voice_vi_22402619.mp3|Em chạy lên phía Thảo
+dataset/common_voice/vi/clips/common_voice_vi_22402620.mp3|Có đêm trong mơ
+dataset/common_voice/vi/clips/common_voice_vi_22402622.mp3|Chỉ có điều là không thể nhìn thấy
+dataset/common_voice/vi/clips/common_voice_vi_22402654.mp3|Hay là phóng con Thảo là không còn ở đây nữa
+dataset/common_voice/vi/clips/common_voice_vi_22402656.mp3|Hai chiếc dép kia gặp nhau tự bao giờ
+dataset/common_voice/vi/clips/common_voice_vi_22402657.mp3|Thế được rồi đi sang đây tao cho mày xem
+dataset/common_voice/vi/clips/common_voice_vi_22402659.mp3|mẹ dẫn đi đâu thì theo đó
+dataset/common_voice/vi/clips/common_voice_vi_22402660.mp3|mà mua về ngay cạnh nhà ông nội đã mất của thảo
+dataset/common_voice/vi/clips/common_voice_vi_22402717.mp3|chinh lúc này mới Giật mình nhìn sang bên cạnh
+dataset/common_voice/vi/clips/common_voice_vi_22402718.mp3|Ông tiển ông tiên
+dataset/common_voice/vi/clips/common_voice_vi_22402721.mp3|giờ thành con ma dại đến nhà cũng k thể về
+dataset/common_voice/vi/clips/common_voice_vi_22402722.mp3|Bà bói liền đáp
+dataset/common_voice/vi/clips/common_voice_vi_22402724.mp3|Nuôi càng lâu thì giữa Kumanthong và chủ nhân
+dataset/common_voice/vi/clips/common_voice_vi_22416750.mp3|Hôm nào em lỡ quá chén về tẩn nó
+dataset/common_voice/vi/clips/common_voice_vi_22416751.mp3|Nên hà ni đã phải kêu đau đớn
+dataset/common_voice/vi/clips/common_voice_vi_22416752.mp3|Hà ni bây giờ mới lên tiếng
+dataset/common_voice/vi/clips/common_voice_vi_22416753.mp3|Vẫn nhìn được rõ chiếc xe tải tử thần màu xanh ấy
+dataset/common_voice/vi/clips/common_voice_vi_22416754.mp3|Gắn bó nhau vì một lối đi chung
+dataset/common_voice/vi/clips/common_voice_vi_22416755.mp3|Lòng đen lòi cả con mắt
+dataset/common_voice/vi/clips/common_voice_vi_22416756.mp3|Ôi tình mẫu tử
+dataset/common_voice/vi/clips/common_voice_vi_22416757.mp3|A Hội và A Pheng là hai đứa bạn thân
+dataset/common_voice/vi/clips/common_voice_vi_22416758.mp3|Yêu là chết ở trong lòng một ít
+dataset/common_voice/vi/clips/common_voice_vi_22416759.mp3|Không đề
+dataset/common_voice/vi/clips/common_voice_vi_22417055.mp3|Họp lớp sau nhiều năm Mỗi Người Một Nơi
+dataset/common_voice/vi/clips/common_voice_vi_22417056.mp3|Bởi vì họ cũng bị chẻ mắt
+dataset/common_voice/vi/clips/common_voice_vi_22417057.mp3|Bà đưa tay lên như có ý muốn bỏ con rời khỏi
+dataset/common_voice/vi/clips/common_voice_vi_22417058.mp3|ai tới số chết thì mới chết được thôi Có đúng không bà bói
+dataset/common_voice/vi/clips/common_voice_vi_22714900.mp3|bà chậm rãi nói
+dataset/common_voice/vi/clips/common_voice_vi_22714903.mp3|Là nó cứu con nhà cô một mạng
+dataset/common_voice/vi/clips/common_voice_vi_22714904.mp3|tôi yêu việt nam
+dataset/common_voice/vi/clips/common_voice_vi_22714906.mp3|Cứ đến nửa đêm sau khi cho kumanthong ăn
+dataset/common_voice/vi/clips/common_voice_vi_22714907.mp3|Tao chỉ muốn chơi với mày thôi
+dataset/common_voice/vi/clips/common_voice_vi_22714933.mp3|Qua ngày bốn mươi chín tôi sợ là không giúp được nữa rồi
+dataset/common_voice/vi/clips/common_voice_vi_22714939.mp3|Hay là tay sai cho quỷ thì thực sự rất là khủng khiếp
+dataset/common_voice/vi/clips/common_voice_vi_22714940.mp3|Chợt mưa cái ào
+dataset/common_voice/vi/clips/common_voice_vi_22714941.mp3|Bên trong đèn hồng đèn đỏ đèn xanh lờ mờ luôn được bật sáng
+dataset/common_voice/vi/clips/common_voice_vi_22714942.mp3|con chào mẹ
+dataset/common_voice/vi/clips/common_voice_vi_25222863.mp3|Apheng lấy quạt tay choàng nó nó liền hỏi
+dataset/common_voice/vi/clips/common_voice_vi_25222881.mp3|Mà mày đã biết nghỉ ở đâu chưa
+dataset/common_voice/vi/clips/common_voice_vi_25223338.mp3|Thế rồi cứ từ từ tắt hết
+dataset/common_voice/vi/clips/common_voice_vi_25223341.mp3|Không có hay là anh là ma
+dataset/common_voice/vi/clips/common_voice_vi_25223652.mp3|Em nghe có tiếng gọi rất rõ
+dataset/common_voice/vi/clips/common_voice_vi_25223669.mp3|Quân mở mắt ra mới biết mình vừa nằm mơ
+dataset/common_voice/vi/clips/common_voice_vi_25223755.mp3|Khiên cho trinh cảm thấy hơi rờn rợn
+dataset/common_voice/vi/clips/common_voice_vi_25223778.mp3|Rồi mẹ quay sang nói với em
+dataset/common_voice/vi/clips/common_voice_vi_25223831.mp3|Tất cả những điều này đều được người bạn của Nhi chứng kiến
+dataset/common_voice/vi/clips/common_voice_vi_25223864.mp3|Trinh vội vàng đáp
+dataset/common_voice/vi/clips/common_voice_vi_25223880.mp3|Để cho em cứ vấn vương
+dataset/common_voice/vi/clips/common_voice_vi_25223891.mp3|bà dân tộc đi đâu cả tháng trời hôm nay lại xuất hiện
+dataset/common_voice/vi/clips/common_voice_vi_25223911.mp3|Theo bước mùa xuân
+dataset/common_voice/vi/clips/common_voice_vi_25223923.mp3|thì bà ấy đều biết trước khoảng hai ba hôm
+dataset/common_voice/vi/clips/common_voice_vi_25223934.mp3|cái thảo đâu mẹ sao nó lại không gặp con
+dataset/common_voice/vi/clips/common_voice_vi_25223936.mp3|Là họa thì không tránh được
+dataset/common_voice/vi/clips/common_voice_vi_25224016.mp3|Ôi trời xa vầng trán của người yêu
+dataset/common_voice/vi/clips/common_voice_vi_25224030.mp3|Cho tôi tắm mát
+dataset/common_voice/vi/clips/common_voice_vi_25224054.mp3|tàn tạ
+dataset/common_voice/vi/clips/common_voice_vi_25224089.mp3|Và trả lại một phần trán và bên má có vẻ phẳng phiu
+dataset/common_voice/vi/clips/common_voice_vi_25224122.mp3|Hay là đợi tuần bốn mươi chín của con thảo
+dataset/common_voice/vi/clips/common_voice_vi_25224148.mp3|Điều đầu tiên mà Trinh nghĩ đến đó chính là trộm
+dataset/common_voice/vi/clips/common_voice_vi_25224151.mp3|Như một thói quen thường lệ
+dataset/common_voice/vi/clips/common_voice_vi_25224189.mp3|Bỗng nhiên người của em lạnh toát
+dataset/common_voice/vi/clips/common_voice_vi_25224197.mp3|Chẳng biết từ khi nào mà chinh chỉ muốn quân là của riêng mình
+dataset/common_voice/vi/clips/common_voice_vi_25224226.mp3|Phải quay lại đây ngay
+dataset/common_voice/vi/clips/common_voice_vi_25224232.mp3|Nó đưa tay lên trán rồi nói
+dataset/common_voice/vi/clips/common_voice_vi_25224264.mp3|Cũng đều làm đúng
+dataset/common_voice/vi/clips/common_voice_vi_25224273.mp3|Xin chào toàn thể quý thính giả của Nghe đọc truyện chấm net
+dataset/common_voice/vi/clips/common_voice_vi_25224277.mp3|nó Húc văng cả người cả xe
+dataset/common_voice/vi/clips/common_voice_vi_25224280.mp3|lạ thật
+dataset/common_voice/vi/clips/common_voice_vi_25224332.mp3|mà không sao có thể hét lên được
+dataset/common_voice/vi/clips/common_voice_vi_25224344.mp3|Ai nuôi kuman cũng đều như vậy
+dataset/common_voice/vi/clips/common_voice_vi_25224352.mp3|Nếu như còn khiến cho người đàn ông này yêu mẹ
+dataset/common_voice/vi/clips/common_voice_vi_25224353.mp3|Nó chỉ vào chỗ đằng gốc cây nhưng không thấy ai cả
+dataset/common_voice/vi/clips/common_voice_vi_25224364.mp3|đức hạnh
+dataset/common_voice/vi/clips/common_voice_vi_25224376.mp3|chị bình tĩnh lại đi
+dataset/common_voice/vi/clips/common_voice_vi_25224386.mp3|Bầu trời trong xanh sau trận mưa tầm tã vào tối qua
+dataset/common_voice/vi/clips/common_voice_vi_25224399.mp3|Nhưng mà đáng lo ngại là con quỷ đen kia kìa
+dataset/common_voice/vi/clips/common_voice_vi_25224423.mp3|Đi ngay đi
+dataset/common_voice/vi/clips/common_voice_vi_25224427.mp3|Tao không có chạy được mày giúp tao đi
+dataset/common_voice/vi/clips/common_voice_vi_25224529.mp3|Nếu tao mà chết mày có chơi với tao nữa không
+dataset/common_voice/vi/clips/common_voice_vi_25224542.mp3|vậy bà cho tôi biết chuyện gì đã xảy ra được không
+dataset/common_voice/vi/clips/common_voice_vi_25224543.mp3|Mọi người cũng bán tín bán Nghi
+dataset/common_voice/vi/clips/common_voice_vi_25224548.mp3|Đám ma cũng đã xong xuôi
+dataset/common_voice/vi/clips/common_voice_vi_25224552.mp3|Chín tháng mười ngày
+dataset/common_voice/vi/clips/common_voice_vi_25224647.mp3|Nhà chị đến tìm tôi có đúng không
+dataset/common_voice/vi/clips/common_voice_vi_25224653.mp3|Hoa dã quỳ
+dataset/common_voice/vi/clips/common_voice_vi_25224683.mp3|tôi càng nghe càng không hiểu gì cả
+dataset/common_voice/vi/clips/common_voice_vi_25224703.mp3|Không có xảy ra chuyện gì cả
+dataset/common_voice/vi/clips/common_voice_vi_25224721.mp3|Chú sửa xe liền nói
+dataset/common_voice/vi/clips/common_voice_vi_25224752.mp3|Không lên tiếng hỏi
+dataset/common_voice/vi/clips/common_voice_vi_25224804.mp3|Tình sâu nghĩa nặng
+dataset/common_voice/vi/clips/common_voice_vi_25224849.mp3|mất nhà mất cửa
+dataset/common_voice/vi/clips/common_voice_vi_25224884.mp3|Sự đáp lại
+dataset/common_voice/vi/clips/common_voice_vi_25224890.mp3|Gánh hết cuộc đời thời gian chữa lành không
+dataset/common_voice/vi/clips/common_voice_vi_25224908.mp3|Sao bằng tình mẹ
+dataset/common_voice/vi/clips/common_voice_vi_25224909.mp3|kể ra ở Việt Nam mà được như thế thì cũng là quá siêu
+dataset/common_voice/vi/clips/common_voice_vi_25224945.mp3|Khổthân cái Hạ thật đấy
+dataset/common_voice/vi/clips/common_voice_vi_25224980.mp3|Bố mẹ có hỏi nhưng anh ta không đáp lại
+dataset/common_voice/vi/clips/common_voice_vi_25225397.mp3|Chết ngày trước mặt con thanh nhà tôi
+dataset/common_voice/vi/clips/common_voice_vi_25246005.mp3|Nhìn vào đôi tay mới rồi còn cảm xúc rất đau
+dataset/common_voice/vi/clips/common_voice_vi_25246006.mp3|Cái đợt đám ma của cái Nhi bọn tao cũng đi
+dataset/common_voice/vi/clips/common_voice_vi_25246007.mp3|Tiếng mõ tụng kinh vẫn còn vang lên tới điện chính
+dataset/common_voice/vi/clips/common_voice_vi_25246015.mp3|là nói theo con Thảo trước đó
+dataset/common_voice/vi/clips/common_voice_vi_25246018.mp3|Điều hôm nay ta nói ngày mai
+dataset/common_voice/vi/clips/common_voice_vi_25246041.mp3|thì không lẽ anh chị vẫn làm ngơ được sao
+dataset/common_voice/vi/clips/common_voice_vi_25246042.mp3|Mà đứng áp sát người ngay cánh cửa
+dataset/common_voice/vi/clips/common_voice_vi_25246043.mp3|Với hiện trường và lời khai của Trinh
+dataset/common_voice/vi/clips/common_voice_vi_25246044.mp3|Quan tâm đến mẹ
+dataset/common_voice/vi/clips/common_voice_vi_25246045.mp3|Có trên tầng hai cũng có hai phòng ở và một nhà vệ sinh
+dataset/common_voice/vi/clips/common_voice_vi_25246053.mp3|mà Quyết định số phận một con người được
+dataset/common_voice/vi/clips/common_voice_vi_25246054.mp3|Có bị cảm lạnh cả tay của cậu lạnh lắm này
+dataset/common_voice/vi/clips/common_voice_vi_25246056.mp3|Nên bây giờ cô có thể nhìn rõ được mặt của anh chàng hơn
+dataset/common_voice/vi/clips/common_voice_vi_25246166.mp3|sẽ không qua được tuổi mười ba
+dataset/common_voice/vi/clips/common_voice_vi_25246168.mp3|Trong số tất cả các bạn học đại học
+dataset/common_voice/vi/clips/common_voice_vi_25246171.mp3|cuộc đời của Trinh như được bước sang một trang mới
+dataset/common_voice/vi/clips/common_voice_vi_25246176.mp3|Vắng chủ nhà gà vọc niêu tôm
+dataset/common_voice/vi/clips/common_voice_vi_25246193.mp3|bất giác Trinh lại nghe thấy giọng nói của trẻ con
+dataset/common_voice/vi/clips/common_voice_vi_25246201.mp3|có lần nó nói láo
+dataset/common_voice/vi/clips/common_voice_vi_25246210.mp3|Nhớ quá đi thôi
+dataset/common_voice/vi/clips/common_voice_vi_25246212.mp3|Quỷ già thì đã có làm sao
+dataset/common_voice/vi/clips/common_voice_vi_25246313.mp3|Trinh lo rằng quân sẽ không gặp lại mình nữa
+dataset/common_voice/vi/clips/common_voice_vi_25246379.mp3|Nhấc máy lên lặng thầm nghe giọng nói
+dataset/common_voice/vi/clips/common_voice_vi_25246387.mp3|Bạn của Trinh cháo bố mẹ Phương
+dataset/common_voice/vi/clips/common_voice_vi_25246388.mp3|Na phải không
+dataset/common_voice/vi/clips/common_voice_vi_25246394.mp3|Nhưng anh lại không chú ý anh phải là của em
+dataset/common_voice/vi/clips/common_voice_vi_25246403.mp3|Biển cả một tình
+dataset/common_voice/vi/clips/common_voice_vi_25246405.mp3|Bởi lô hàng mới nhập về được cách đây ba ngày đã bán sạch
+dataset/common_voice/vi/clips/common_voice_vi_25246412.mp3|Với những cái lá cây vẫn còn đập vào nhau kêu lên rào rạt
+dataset/common_voice/vi/clips/common_voice_vi_25247465.mp3|Mẹ ơi chờ nhé
+dataset/common_voice/vi/clips/common_voice_vi_25247466.mp3|Bốn chữ lượn lờ
+dataset/common_voice/vi/clips/common_voice_vi_25247469.mp3|Hồi tối nào mày chẳng qua giúp tao học bài
+dataset/common_voice/vi/clips/common_voice_vi_25247471.mp3|Có chuyện gì cần đến em anh cứ hỏi đi
+dataset/common_voice/vi/clips/common_voice_vi_25247472.mp3|Nói xong
+dataset/common_voice/vi/clips/common_voice_vi_25247485.mp3|Cô ấy đâu rồi
+dataset/common_voice/vi/clips/common_voice_vi_25247488.mp3|Hơn nữa con thanh lại tận mắt chứng kiến cảnh nó chết
+dataset/common_voice/vi/clips/common_voice_vi_25247503.mp3|bày đủ mọi cách dùng đủ mọi chiêu trò
+dataset/common_voice/vi/clips/common_voice_vi_25247504.mp3|tao nghĩ ma cũng chẳng có gì đáng sợ
+dataset/common_voice/vi/clips/common_voice_vi_25247514.mp3|Sắp có chuyện không hay rồi đấy
+dataset/common_voice/vi/clips/common_voice_vi_25247539.mp3|Gặp trường hợp em như thế em có bình tĩnh được không
+dataset/common_voice/vi/clips/common_voice_vi_25247560.mp3|Đó là hội múa và những tối quy định ở đây
+dataset/common_voice/vi/clips/common_voice_vi_25247585.mp3|vậy lúc gặp thần chết còn dám mở mắt ra không
+dataset/common_voice/vi/clips/common_voice_vi_25247609.mp3|thì bà nội của thảo ngạc nhiên lắm
+dataset/common_voice/vi/clips/common_voice_vi_25247618.mp3|Là không thể về chứ không phải là không muốn về
+dataset/common_voice/vi/clips/common_voice_vi_25247621.mp3|Nhưng em không buông
+dataset/common_voice/vi/clips/common_voice_vi_25247622.mp3|Trinh thở gấp
+dataset/common_voice/vi/clips/common_voice_vi_25247633.mp3|Đứa con xa nhà
+dataset/common_voice/vi/clips/common_voice_vi_25247636.mp3|Chinh khẽ hỏi
+dataset/common_voice/vi/clips/common_voice_vi_25247650.mp3|Có hàng cây mát
+dataset/common_voice/vi/clips/common_voice_vi_25247667.mp3|Ai định nghĩa thế gian này muôn mặt
+dataset/common_voice/vi/clips/common_voice_vi_25247693.mp3|người nhà của thảo lên làm thủ tục nhận xác
+dataset/common_voice/vi/clips/common_voice_vi_25247701.mp3|Đông đã đến từng giờ sương phủ
+dataset/common_voice/vi/clips/common_voice_vi_25247702.mp3|Vang lên những tiếng kêu lộp bộp
+dataset/common_voice/vi/clips/common_voice_vi_25247713.mp3|Nhưng sau đó một thời gian
+dataset/common_voice/vi/clips/common_voice_vi_25247725.mp3|tạm biệt
+dataset/common_voice/vi/clips/common_voice_vi_25247731.mp3|Khi bước trở vào đã thấy một người nằm im dưới sàn nhà
+dataset/common_voice/vi/clips/common_voice_vi_25247741.mp3|bóng đen đó cất tiếng hỏi em
+dataset/common_voice/vi/clips/common_voice_vi_25255186.mp3|Cũng như mình trong những lúc vắng nhau
+dataset/common_voice/vi/clips/common_voice_vi_25255187.mp3|Tuấn lo lắng nhìn người yêu
+dataset/common_voice/vi/clips/common_voice_vi_25255188.mp3|Cô mong muốn bạn của mình chết và nó lập tức được thực hiện
+dataset/common_voice/vi/clips/common_voice_vi_25255192.mp3|Nét Trinh sợ Phương dạy sẽ kể lại
+dataset/common_voice/vi/clips/common_voice_vi_25255194.mp3|Chỉ cần cô chăm sóc cho nó thật tốt
+dataset/common_voice/vi/clips/common_voice_vi_25255199.mp3|Nhà anh ta cũng khá rộng
+dataset/common_voice/vi/clips/common_voice_vi_25255203.mp3|Chinh sao đến tìm tôi sớm vậy
+dataset/common_voice/vi/clips/common_voice_vi_25255215.mp3|Và mang tà niệm về sự thống trị và quyền lực
+dataset/common_voice/vi/clips/common_voice_vi_25255217.mp3|Nói cho dễ hiểu thì giống như là cô trồng một cái cây
+dataset/common_voice/vi/clips/common_voice_vi_25255218.mp3|Người đi dựng những mái lều đơn sơ để kiếm chỗ nghỉ ngơi
+dataset/common_voice/vi/clips/common_voice_vi_25255225.mp3|Thông thường linh hồn sau khi chết sẽ được siêu thoát
+dataset/common_voice/vi/clips/common_voice_vi_25255231.mp3|Kuman càng nuôi lâu
+dataset/common_voice/vi/clips/common_voice_vi_25255234.mp3|Tôi Kể tóm tắt cho nghe
+dataset/common_voice/vi/clips/common_voice_vi_25255239.mp3|toát mồ hôi hột căng thẳng
+dataset/common_voice/vi/clips/common_voice_vi_25255240.mp3|Anh Ta nói xong liền trả tiền cà phê và bước ra bên ngoài
+dataset/common_voice/vi/clips/common_voice_vi_25255245.mp3|Nhặt cánh hoa rơi chẳng thấy buồn
+dataset/common_voice/vi/clips/common_voice_vi_25255253.mp3|mày tránh tao ra đi tao sợ lắm thảo ơi
+dataset/common_voice/vi/clips/common_voice_vi_25255258.mp3|Đã vậy lại còn lôi kéo cả hàng xóm vào nữa
+dataset/common_voice/vi/clips/common_voice_vi_25255259.mp3|Kumanthong của cô có thể cầu cả tình duyên được nữa
+dataset/common_voice/vi/clips/common_voice_vi_25255264.mp3|chinh ấp úng nói
+dataset/common_voice/vi/clips/common_voice_vi_25255269.mp3|em nói bác cứ không tin chứ con vợ em kìa
+dataset/common_voice/vi/clips/common_voice_vi_25255272.mp3|với cầu việc thi cử của em cho thuận lợi
+dataset/common_voice/vi/clips/common_voice_vi_25255283.mp3|Thích ơi là thích
+dataset/common_voice/vi/clips/common_voice_vi_25255291.mp3|tuy nhiên chinh lại tận tình chu đáo cho mọi việc đám ma
+dataset/common_voice/vi/clips/common_voice_vi_25255293.mp3|Ở một mình có nhà thế này thì sướng quá rồi còn gì
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R106.wav|TRỞ NÊN THỤ ĐỘNG
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R122.wav|CŨNG KHIẾN CHO HỌ DÈ DẶT
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R130.wav|CHỊ GẶN HỎI ANH THỀ SỐNG THỀ CHẾT LÀ KHÔNG CÓ
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R132.wav|ĐIỆN THOẠI RENG NHƯNG TA CŨNG PHẢI NHẤC MÁY ĐÚNG KHÔNG
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R135.wav|CŨNG THUỘC LOẠI DÀY ĐẶC NHẤT TRONG HỆ MẶT TRỜI
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R137.wav|CÁC VỤ THAM NHŨNG VÀ BÊ BỐI KINH TẾ
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R149.wav|CHÚNG CỨ CỐ LÙI LẠI MẶC DÙ VƯỚNG VÍU GÔNG XIỀNG
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R154.wav|BỌN BUÔN DỰ ÁN CHẠY CHỌT BÀY RA CÁC DỰ ÁN ĐỂ KIẾM CHÁC
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R015.wav|TẤT CẢ MỌI THỨ ĐỀU KỲ LẠ MỘT CÁCH PHI THƯỜNG
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R164.wav|CÁC CHƯƠNG TRÌNH CA NHẠC PHẦN LỚN ĐỀU KHÔNG ĐỘT PHÁ
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R170.wav|RỒI CHẠY SANG GÕ CỬA PHÒNG BA LE HAI DẤM DÚI
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R173.wav|ĐỂ TRẢ TRỞ LẠI ĐẠI DƯƠNG
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R181.wav|NÀNG CÓ ĐÔI MẮT TO SÂU VÀ VẦNG TRÁN RỘNG MÊNH MÔNG
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R192.wav|TÔI TỰ HỎI PHẢI CHĂNG ĐÓ LÀ DO DAN CÒN QUÁ TRẺ
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R195.wav|ỦY BAN CHÂU ÂU KÊU GỌI NHỮNG QUỐC GIA PHÁT TRIỂN CÒN LẠI
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R200.wav|VÀ KHI CHÚNG TA SAO NHÃNG CÔNG VIỆC CỦA MÌNH
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R027.wav|CÓ THỂ LÀNH LẶN MÀ KHÔNG ĐỂ LẠI VẾT SẸO
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R031.wav|MUỐN ĐẸP PHẢI GHÈ LÀM SAO CHO CÁC BÓ CƠ CHÂN NỔI BẬT LÊN
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R032.wav|Y TẾ BÌNH HƯNG HÒA BỊ HƯ HỎNG
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R045.wav|CÔ CỨ NHÈ NGAY CÁI NỌNG CÁ TRÊ
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R005.wav|NẾU TƯỞNG TƯỢNG BẢY TÁM NĂM NỮA
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R067.wav|ÔNG CHỦ TỊCH TUYÊN BỐ NHƯ THẾ NÀO
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R068.wav|KHIẾN HAI CHA CON CẬU
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R069.wav|LÀM ĐẸP KHÔNG ĐÚNG CÁCH
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R071.wav|MỖI KHI XE RÁC ĐI NGANG QUA ĐÁNH KẺNG MỚI ĐEM RA ĐỔ
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R076.wav|THAY VÌ BỐN GIỜ NHƯ TRƯỚC ĐÂY
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R079.wav|HẦU HẾT NANG NÀY CÓ NGUỒN GỐC TỪ GÂN CƠ CHÂN NGỖNG
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R087.wav|TIẾNG MÃ TẤU SẮC LẠNH CHẠM NHAU VÀ CẢ TIẾNG RÊN RỈ
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R089.wav|CÓ HẲN MỘT LOẠT BÀI VIẾT CHUYÊN ĐỀ VỀ QUẢN TRỊ THƯƠNG HIỆU
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R091.wav|HỢP VỚI HƯƠNG VỊ ĐẦU XUÂN
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R099.wav|ỔNG NÓI Ở SÀI GÒN ỔNG ĐÃ LÀM ÔNG HỘI ĐỒNG NHƯ THẾ NÀO
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_R009.wav|BÀ QUẢNG VẪN ĐANG BẬN RỘN
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_T012.wav|MÀY DÁM CHƠI VỢ TAO TAO PHẢI GIẾT MÀY
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_T013.wav|TỐNG CỔ HẮN ĐI KHÔNG ĐƯỢC ĐỂ HẮN VÀO ĐÂY NỮA
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_T015.wav|HẮN CHƠI VỢ ANH THÌ SAO ANH KHÔNG CHƠI VỢ HẮN
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_T022.wav|THÁNG TRƯỚC CHỒNG VỀ MẤY NGÀY MÌNH NẰM NGỦ THẤY ẤM KINH KHỦNG
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_T031.wav|CHO EM GÓP MỘT VIÊN GẠCH
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_T043.wav|ĐI KIỂM TRA LẠI BÁC SĨ KHUYÊN NÊN MỔ NỘI SOI
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_T004.wav|HÔM NAY EM CÓ TỚI NĂM KHÁCH
+dataset/vivos/test/waves/VIVOSDEV02/VIVOSDEV02_T050.wav|ANH BỊ ĐẨY TỪ HÀ NỘI VÀO SÀI GÒN
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R109.wav|PHÙ HỢP CHO MỌI CÂN NẶNG
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R010.wav|ÂM THẦM CHẮT CHIU NUÔI TÔI KHÔN LỚN
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R113.wav|VÌ BẠN CÓ THỂ LẢY CÒ TỪNG PHÁT MỘT
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R117.wav|VAI TRÒ CỦA CHẾ ĐỘ DINH DƯỠNG
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R119.wav|KHÔNG HIỂU SAO
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R120.wav|KHIẾN PHỤ HUYNH HIỂU NHẦM
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R125.wav|MỖI KHI CƠN GIÓ ĐẾN
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R136.wav|NÀY BÓN CHO CON THƯƠNG ĐỠ YẾU ĐAU CÒI CỌC
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R142.wav|TRONG TƯ THẾ PHI NGỰA CHỒM LÊN
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R144.wav|MÀ CŨNG ĐẦY THANH KHIẾT
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R148.wav|MỘT VỤ CHẬP ĐIỆN ĐÃ KHIẾN NGỌN LỬA BÙNG LÊN
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R149.wav|BÀ CON CHÒM XÓM
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R156.wav|ĐÂY LÀ MỨC LÃI SUẤT THẤP NHẤT QUA CÁC PHIÊN ĐẤU THẦU
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R160.wav|DỌC HAI BÊN SÔNG NGÀN SÂU
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R163.wav|NHƯNG OÁI ĂM THAY
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R180.wav|SAU CẢI CÁCH
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R182.wav|MỘT KẾ HOẠCH TƯƠNG TỰ ĐƯỢC ÁP DỤNG Ở ANH
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R191.wav|CỠI NGỰA ĐI THI
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R193.wav|ÔI DÀO
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R195.wav|KHÔNG MỘT CHIẾC XE LẠ NÀO CÓ THỂ MON MEN VÀO ĐƯỢC
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R198.wav|RỒI ĐI KHẮP NƠI TÌM THẦY CHỮA BỆNH CHO ANH
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R020.wav|BÊN TRONG TRÁI VẢ KHI BỔ RA SẼ RỖNG CHỨ KHÔNG ĐẶC NHƯ TRÁI SUNG
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R029.wav|NÊN HAI MỐ CẦU BỊ SỤP ĐẤT KHIẾN LỐI ĐI BỘ QUÁ NGUY HIỂM
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R041.wav|LUÔN ỔN ĐỊNH VÀ CÁC XE TRẤU KHÁ NẶNG
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R044.wav|VÀ KHI HỌ VẠCH TÓC RA
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R046.wav|CỦA CHÍNH SÁCH ĐỐI VỚI QUY MÔ CỦA THỊ TRƯỜNG
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R056.wav|SƯƠNG MÙ ĐÃ ĐỌNG THÀNH NHỮNG HẠT GIÁ BĂNG
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R057.wav|CHỨ KHÔNG PHẢI TÀI NĂNG THIÊN BẨM NÀO
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R061.wav|LÀ TIẾNG TRỐNG LÂN TÙNG XÈNG VUI TAI
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R007.wav|MỘT CHUYẾN DU LỊCH DÃ NGOẠI TẠI BÒ CẠP VÀNG
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R082.wav|GHÉP CÀNH MAI GIẢO VÀO THÂN CỔ THỤ CHO HOA CÁNH LỚN
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_R092.wav|ĐỂ CHỌN MÁY IN CHO PHÙ HỢP
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_T017.wav|BÁC VẪN CHƯA TRẢ TIỀN CHO TÔI ĐÂY NHÉ
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_T018.wav|TÔI ĐANG BẬN HỌP
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_T023.wav|CƯỚP ĐẦY ĐƯỜNG CÔNG AN CHỈ LO HẠCH SÁCH
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_T035.wav|MẸ ƠI CÓ MUA ĐỒ CHO CON KHÔNG
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_T041.wav|CON CHÓ LỦI THỦI ĐI THEO CHỦ NÓ
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_T047.wav|TRONG PHIM CÓ NHIỀU CẢNH CHÉM GIẾT
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_T048.wav|DIỄN VIÊN CHÍNH ĐỨNG NHƯ KHÚC GỖ
+dataset/vivos/test/waves/VIVOSDEV03/VIVOSDEV03_T009.wav|BÁC ĐANG SUY NGHĨ GÌ THẾ
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R108.wav|KHI TRẪM KHỎI BỆNH THÌ SẼ CHÉM ĐẦU
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R117.wav|VIỆC MỘT QUYỂN TIỂU THUYẾT NHƯ THẾ
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R012.wav|NHỮNG CƠN GIÓ MẠNH VÀ MƯA ĐÓNG BĂNG GÂY TRƠN TRỢT
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R130.wav|NÃO BỘ CHÚNG TA PHÁT TRIỂN NHỮNG RUNG ĐỘNG YÊU THƯƠNG
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R139.wav|TRỪ KHI BẠN BIẾT TÔN TRỌNG BẢN THÂN MÌNH
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R141.wav|NHỮNG CON ĐƯỜNG NGẮN NGỦN NHƯ NHỮNG NHÁT CẮT
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R146.wav|HIỆN RA TẬN PHÍA XA
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R150.wav|XIN ĐƯỢC CHÂN KHUÂN VÁC
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R151.wav|NHƯNG KHI TIẾN GẦN VÀO VỊNH THÌ MẶT BIỂN BỊ RẠN VỠ
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R164.wav|MỘT BÀ NGOẠI GIẶT ĐỒ THUÊ
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R170.wav|ĐÔI BÀN TAY EM KHÔNG ĐƯỢC MỀM MẠI VÀ NÕN NÀ
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R172.wav|TÂY GIANG VẪN CÒN KHẮC KHOẢI KHÔNG THỂ VÀO XÃ A NÔNG
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R174.wav|NHỮNG DỰ ĐỊNH CẦN PHẢI ĐƯỢC BIẾN THÀNH HIỆN THỰC
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R176.wav|ĐỂ TÀU KHÔNG PHẢI CƯỠI CẦU TÀU
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R180.wav|BÀN CHỔI SƠN BẰNG BÔNG MỀM RẤT PHỔ BIẾN
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R187.wav|THẬT SỰ MÀ LÀ BỞI LÒNG HẬN THÙ
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R188.wav|VIỆC QUY TỘI ĐỂ BÙNG NỔ LOẠI SÁCH NÀY LÀ DO
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R027.wav|DI TÍCH CÓ BẢY PHỖNG ÔNG VÀ HAI PHỖNG BÀ ĐƯỢC LÀM BẰNG GỖ MÍT
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R028.wav|CÁC CHÚ CŨNG THOẢI MÁI PHÓNG UẾ GIỮA CHỐN ĐÔNG NGƯỜI MÀ KHÔNG SỢ
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R002.wav|TIẾNG CỌC CẠCH KHỰNG LẠI CỦA NHỮNG KHỚP SẮT
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R034.wav|NGƯỜI TA NÓI
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R003.wav|CŨNG LÊN TIẾNG ỦNG HỘ CÁC KIẾN NGHỊ NÀY
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R043.wav|ANH PHÚ CHƯA BÚ ĐƯỢC SỮA MẸ LẦN NÀO
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R044.wav|NGỌN LỬA BẠO ĐỘNG Ở TRUNG ĐÔNG VÀ PHÁ VỠ LỘ TRÌNH HÒA BÌNH
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R055.wav|VÀ RẤT SÁNG TẠO
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R057.wav|NHƯNG GIẤC NGỦ CHẬP CHỜN
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R058.wav|GIÁM ĐỐC SỞ GIÁO DỤC ĐÀO TẠO NINH THUẬN CHO BIẾT
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R069.wav|ĐÈN BỊ HƯ RỒI BA
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R071.wav|TRƯỞNG CÔNG AN XÃ CHẠY SANG CAN NGĂN CŨNG BỊ TUYẾN ĐÁNH TIẾP
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R078.wav|NGHE CHÚNG TÔI HỎI ĐIỀU NÀY CHỊ NGÁT RÂN RẤN NƯỚC MẮT
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R086.wav|CÔNG VĂN ĐỀ NGHỊ TỈNH CON TUM XÂY DỰNG CỬA KHẨU
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R089.wav|NHƯNG TÌNH YÊU VẪN NỒNG NÀN VÀ SAY ĐẮM NHƯ BUỔI BAN ĐẦU
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R092.wav|DO CHÍNH PHỦ MỸ TIẾN HÀNH Ở VIỆT NAM
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R098.wav|TỈNH QUẢNG TRỊ ĐÃ PHÊ DUYỆT
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_R099.wav|NHƯNG TÔI THÍCH XEM BỘ PHIM TRUYỆN PHÁT NGAY SAU CHƯƠNG TRÌNH NÀY
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_T002.wav|CŨNG CHƯA BIẾT NỮA
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_T030.wav|XUÂN NÀY EM KHÔNG VỀ
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_T038.wav|CHẮC SẮP TỚI THU XẾP ĐI DU LỊCH THÔI
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_T043.wav|NÓ TRỐN MẤT TIÊU RỒI CÒN ĐÂU
+dataset/vivos/test/waves/VIVOSDEV01/VIVOSDEV01_T048.wav|THẰNG ĐÓ CÓ CÁI MIỆNG NHƯ ĐÀN BÀ
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R100.wav|BÀ NÓI
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R010.wav|CON NHỎ MỞ CÁI TÚI GÚT ĐEO TRÊN CỔ
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R114.wav|CŨNG CHẲNG CÒN XÚNG XÍNH QUẦN ÁO MỚI
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R118.wav|TRẺ EM ĐÂU CÓ CHƯỚNG NGẠI VẬT
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R126.wav|TÔI KHÔNG NỠ LÀM CÔ BÉ THẤT VỌNG
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R127.wav|RẤT NHIỀU GỬI GẮM VÀ KỲ VỌNG VÀO ÔNG
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R129.wav|ĐANG THẢO LUẬN VỀ ĐỀ XUẤT
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R132.wav|CHỦ TỊCH NƯỚC ĐÃ ĐẾN KIỂM TRA TIẾN ĐỘ THI CÔNG
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R013.wav|NGHĨA LÀ KÉM CỎI NAM TÍNH HAY SAO
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R149.wav|MỘT CÔ GÁI VÁY NGẮN CŨN CỠN CHẠY LÊN HỎI
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R152.wav|SẼ KHÔNG KHIẾN BẠN TRÔNG GẦY NHƯ NHỮNG TRANG PHỤC MỘT MÀU
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R162.wav|CÔ CHỈ MỚI VÀO LƯỚI NHẶT BÓNG HAI LẦN
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R182.wav|HOẶC CHỈ BIỂU HIỆN BẰNG CÁC RỐI LOẠN CO BÓP
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R186.wav|NHẰM TẠO RA SỰ HẤP DẪN
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R187.wav|THỨ ÂM THANH KHÔNG CHỈ CẢM NHẬN BẰNG THÍNH GIÁC
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R189.wav|TỪ NỖI CÔ ĐƠN CỦA MỘT CÔ BÉ BỊ CHA MẸ BỎ QUÊN
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R023.wav|CHÍNH BÀ CŨNG LÀ NGƯỜI NUNG NẤU NIỀM ĐAM MÊ DIỄN XUẤT CỦA CÔ CON GÁI
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R002.wav|ĐÓ CŨNG LÀ ĐỘNG LỰC THÚC ĐẨY TÔI
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R047.wav|NHÓM SINH VIÊN TẠI TRƯỜNG CÙNG HỌP MẶT ĂN TẾT CHUNG
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R049.wav|VÌ TỐI ĐÓ
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R004.wav|ĐÔI KHI BẠN CŨNG CÓ THỂ LÀM NHỮNG ĐIỀU ĐÓ
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R051.wav|RẠCH BÀU MỚP
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R056.wav|GÍ HÒN THAN VÀO RƠM
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R063.wav|CHÁU SỐT NÊN RẸO RỌC SUỐT ĐÊM
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R081.wav|VÀ TÔI THẤY HOA VẠN THỌ VÀNG ƯƠM
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R086.wav|TAY KIA XÁCH MỘT TAY GIÓNG MANG CHIẾC VỊM LỚN
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R089.wav|NGỦ TRÊN NỆM KHÔNG PHÙ HỢP
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R008.wav|NHỮNG NGÀY ĐẦU VẮNG BÓNG BA VIỆT CỨ THỪ NGƯỜI NGHĨ NGỢI
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R092.wav|BỊ CÁC CÔ GÁI BAO VÂY RÁO RIẾT
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R095.wav|TRƠ TRỌI GIỮA ĐỒNG CÁI NHÌN KHẮC KHOẢI
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_R097.wav|NGOÀI VIỆC PHÁT HIỆN KẺ THÙ
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_T015.wav|MỘT LÀ GẶP LẠI TẤT CẢ CÁC EM PHÒ
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_T018.wav|NHỮNG SAI LẦM KHI ĐI CHỌN KHÁCH SẠN
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_T029.wav|ANH ĐI CÔNG TÁC CẦN THƠ TUẦN SAU MỚI VỀ
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_T002.wav|CÓ TRẢ TIỀN CHO BỐ KHÔNG THÌ BẢO
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_T032.wav|CAM SÀNH LỘT VỎ CÒN CHUA
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_T035.wav|ANH KHEN EM ĐẸP EM CHÊ ANH GIÀ
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_T003.wav|NHẬN ĐƯỢC TIN NÀY GỌI LẠI CHO TÔI GẤP
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_T044.wav|BA NÀY CHỈ GIỎI BỐC PHÉT
+dataset/vivos/test/waves/VIVOSDEV04/VIVOSDEV04_T009.wav|CHO TÔI NHẮN ĐẠI TIN NÀO CŨNG ĐƯỢC
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_004.wav|HÃY TƯỞNG TƯỢNG RẰNG BẠN LÀ LÀ GIÁM ĐỐC DỰ ÁN TRONG MỘT CÔNG TY LỚN
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_030.wav|CỦA NHỮNG THẾ LỰC HÙNG MẠNH
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_037.wav|ÔNG NHẶT NÓ LÊN
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_043.wav|NGUYÊN THỨ TRƯỞNG MAI VĂN DÂU ĐÃ BỊ BẮT
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_055.wav|NHƯNG MỨC ÁN TỬ HÌNH ĐỐI VỚI CÁC BỊ CÁO LÀ TƯƠNG XỨNG
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_065.wav|NHỮNG NGƯỜI SỐNG THÌ THA THẨN TRONG NHÀ NGOÀI NGÕ
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_087.wav|CẢ KHÔNG GIAN NHUỐM MÀU TRO BẾP
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_091.wav|TRÁN GIÔ
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_097.wav|THU CHẠM NGÕ RẤT HIỀN
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_107.wav|TRÔNG MỘT CÔ NÀNG ĐỔ NGƯỜI LÊN LƯNG ANH NGƯỜI YÊU GẦY CÒM
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_109.wav|DOANH NGHIỆP TUYỂN DỤNG LAO ĐỘNG NƯỚC NGOÀI
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_115.wav|THỜI HẠN SỬ DỤNG VÀ LOẠI SẢN PHẨM BỘT
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_119.wav|MÀ CÒN BỊ NHỮNG BỘ MẶT LẠNH TE KIA HOẠNH HỌE
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_120.wav|NHƯNG MÙI HÔI VẪN XỘC VÀO TẬN ÓC
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_125.wav|ĐANG LÀM VIỆC KHÔNG NGỪNG NGHỈ
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_129.wav|THU HÚT RẤT LÀ NHIỀU LOÀI CHIM
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_135.wav|KHI CÔ THỂ HIỆN KHÔNG MẤY THÀNH CÔNG Ở LỄ KHAI MẠC
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_136.wav|RA HIỆU CHO TÔI IM LẶNG
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_143.wav|NHỎ ĐƯA TAY RA CÀO HẾT BÙN KHÔ TRÊN CỔ TỚ
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_150.wav|NGỒI CHỒM CHỒM CÁCH CHỈ MẤY MÉT
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_155.wav|NỬA VÒNG TRÁI ĐẤT HƠN BẢY NĂM
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_170.wav|CHẬM NẮM BẮT XU HƯỚNG PHÁT TRIỂN CÔNG NGHỆ MỚI
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_185.wav|MÀ MƯỜNG TƯỢNG RA HÌNH BÓNG MẸ
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_189.wav|MỖI NGƯỜI MỘT SỐ PHẬN EM À
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_199.wav|LẦN LỮA MÃI MỚI GẶP ĐƯỢC TUYÊN
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_200.wav|LÀM ĐƯỜNG DÂY ĐỂ NỐI CÁC MẢNH ĐỜI
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_202.wav|CHỊ HAI CHỦ QUÁN NGHE BÀN TÁN RÔM RẢ CŨNG RA GÓP CHUYỆN
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_206.wav|TỨC KHẮC ẬP VỀ KÉO MỌI NGƯỜI THỨ TRỞ LẠI THỜI HOANG SƠ
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_209.wav|TÊN GỌI TẠI ĐỊA PHƯƠNG LÀ TRẮC THỐI
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_212.wav|BỐN CHIẾC TRỐNG ĐẠI PHÈNG LA
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_226.wav|MỘT CÚ NGOẶT KHÔNG CHÍNH XÁC
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_231.wav|MỚI ĐÂY NHẤT LÀ CÁC TIỂU VƯƠNG QUỐC Ả RẬP THỐNG NHẤT
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_238.wav|CỘNG ĐỒNG NGƯỜI MÊ TOÁN HỌC TRÊN TOÀN THẾ GIỚI
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_249.wav|TÔI NGHĨ THỦ TƯỚNG SẼ KHÔNG NÉ TRÁNH BẤT CỨ CÂU HỎI NÀO
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_251.wav|BỌN BUÔN LẬU MA TÚY VÀ VŨ KHÍ
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_261.wav|LẠI QUAY RA TẬP VIẾT BÁO RỒI GỬI VU VƠ
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_263.wav|NGHE TIẾNG XÌNH XỊCH XA XA THÌ ĐOÁN TRÚNG PHÓC LÀ HÚT HẦM CẦU
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_270.wav|CHƯA RỤC RỊCH GÌ
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_286.wav|THẾ NHƯNG KHI GIÁ PHÔI THÉP THẾ GIỚI CAO DẦN
+dataset/vivos/test/waves/VIVOSDEV05/VIVOSDEV05_295.wav|LÀM HỎNG CÁC THIẾT BỊ CỦA TÊN LỬA
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_001.wav|ĐƠN GIẢN LÀ TÁN GẪU VỚI NHAU
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_006.wav|MÀ DO LỐI SỐNG CHUI NHỦI CỦA CHÚNG
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_016.wav|RÂU RIA ĐÃ BA NGÀY KHÔNG CẠO
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_021.wav|MỘT ĐƯỜNG HƯỚNG CHUYÊN NGHIỆP
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_022.wav|LÍNH CỨU HỎA KHÓ TIẾP CẬN HIỆN TRƯỜNG
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_034.wav|NHỮNG NGƯỜI TRÊN GHE CỦA CÔNG AN ĐÃ NHẮM THẲNG VÀO GHE ANH CHỦ
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_037.wav|ĐỪNG BUỒN VÌ TỰ GIẰN VẶT MÌNH NỮA
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_040.wav|VÀ HÍT VÀO MŨI LÀM CHẤT NÀY LOÃNG RA
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_042.wav|ĐANG HẤP DẪN CÁC TẬP ĐOÀN PHÂN PHỐI ĐA QUỐC GIA
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_054.wav|DÙ LÀ ĐẬU SỨC MẠNH HOẶC CẢI BÔNG KHỦNG LONG
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_061.wav|VÌ NÓ KHÔNG NHẮC ĐẾN NHỮNG CUỘC TẤN CÔNG NHẮM VÀO NGƯỜI DO THÁI
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_070.wav|RỒI KHỀ KHÀ ĐÔI CÂU VỌNG CỔ VỚI CHÂN CHUỘT
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_078.wav|Ở LỚP NẤU ĂN GIA ĐÌNH
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_079.wav|MÀ BẠN CÓ THỂ THAM KHẢO ĐỂ LÀM ĐẸP GIAN BẾP
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_098.wav|CÁI VỊ CHÁT CHÁT VÀ ĐẮNG NGẮT CỦA CÀ PHÊ NGUYÊN CHẤT
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_103.wav|CÁC EM NHỎ SẼ KHÔNG CÒN PHẢI ĐI TRÊN NHỮNG CHUYẾN ĐÒ NGUY HIỂM
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_108.wav|LÀM CÔ NÀNG RỌ RẠY THỨC TRẮNG CẢ ĐÊM
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_117.wav|GIẢI QUYẾT KHỐI UNG NHỌT NÀY PHẢI CẦN ĐẾN MỘT CUỘC ĐẠI PHẪU NGHIÊM TÚC
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_126.wav|THẬM CHÍ CÀNG GIỐNG ÁO QUÍ NÀNG CÀNG MỐT
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_139.wav|CÒN BỘ KHANG HI TỪ ĐIỂN
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_143.wav|ĐÔI MÔI MẸ PHAI SON MẤP MÁY MỘT LỜI CA HOANG HOẢI
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_157.wav|SỐ KHÁC SUY ĐOÁN RẰNG ANH TA HÀNH ĐỘNG ÁC TÂM VẬY
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_168.wav|LÀM KHUNG
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_184.wav|HOẶC BẠN SẼ ĐẾN ĐẤY VỚI MỘT TÂM TRẠNG CHÁN NGÁN VÔ CÙNG
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_195.wav|PHẢI ĐƯỢC THỰC HIỆN TRÊN CƠ SỞ
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_210.wav|HAI MƯƠI SÁU HAI MƯƠI BẢY
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_212.wav|BA MƯƠI BA MƯƠI MỐT
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_222.wav|NĂM MƯƠI NĂM MƯƠI MỐT
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_240.wav|TÁM MƯƠI SÁU TÁM MƯƠI BẢY
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_241.wav|TÁM MƯƠI TÁM TÁM MƯƠI CHÍN
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_247.wav|MỘT TRĂM MỘT HAI BA
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_248.wav|MỘT BA NĂM BẢY CHÍN
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_252.wav|NÓI TRƯỚC BƯỚC KHÔNG QUA
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_253.wav|CHẲNG LÀ MẤY HÔM NAY TÔI ĐAU BỤNG QUÁ
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_261.wav|SAO KẾT QUẢ RA TỆ VẬY
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_272.wav|TÔI CHỈ MUỐN XEM NHỮNG ĐOẠN HAY MÀ THÔI
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_285.wav|CÔNG TY TRÁCH NHIỆM HỮU HẠN ĂN UỐNG
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_286.wav|PHÍ CHUYỂN GIAO CÔNG NGHỆ LÀ BA CHỤC NGÀN ĐỒNG
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_287.wav|LƯƠNG BA CỌC BA ĐỒNG THÌ NUÔI ĐƯỢC AI
+dataset/vivos/test/waves/VIVOSDEV06/VIVOSDEV06_296.wav|CÔ ẤY ĐÃ QUÁ CHÉN
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_002.wav|HẰNG NĂM CHÚNG TA THẢI RA HÀNG TỈ THIẾT BỊ ĐIỆN TỬ
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_025.wav|CHO NHỮNG CHUYẾN DÃ NGOẠI CỦA DU KHÁCH
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_030.wav|NHỮNG NHƯỢC ĐIỂM CỦA MÌNH
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_036.wav|VÌ ĐÓ MỚI CHÍNH LÀ THỨ BẠN CẦN
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_039.wav|GIÓ TRỜI KHÔNG THỂ THÔNG THỐC THỔI VÀO KHAI TRUNG
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_044.wav|BỞI CƠ QUAN CHUYÊN MÔN HOẶC THUÊ TỔ CHỨC KIỂM TOÁN ĐỘC LẬP
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_045.wav|HOẶC CHO VÀO VẠI MUỐI ĐỂ LỢN ĂN DẦN
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_064.wav|CỨ CHỤM CÁC ĐẦU NGÓN TAY LẠI MỘT CHỖ
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_066.wav|ĐÃ CÓ DỰ ÁN ĐỂ XÂY DỰNG MỘT CÁI CẦU TỪ ĐẤT LIỀN
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_067.wav|CHẠM VÀO PHẦN THÓP MỀM TRÊN ĐẦU BÉ
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_084.wav|THÌ BỖNG NGHE THẤY TIẾNG OÁC OÁC TỪ VẠT RỪNG PHI LAO
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_093.wav|PHỤC VỤ CHO MÙA THI ĐẠI HỌC ĐANG ĐẾN SÁT SẠT
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_098.wav|TRẬN CHIẾN XÍCH BÍCH
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_107.wav|NGUYÊN THỨ TRƯỞNG BỘ ĐẠI HỌC VÀ GIÁO DỤC CHUYÊN NGHIỆP CŨ
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_115.wav|VÀO CƠ QUAN LÀ ANH HÓT GIỐNG HỆT NHỒNG MỚI LỘT LƯỠI VẬY
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_125.wav|ÁNG CHỪNG ĐÃ NGOẠI BẢY MƯƠI
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_127.wav|CÓ HAI TÁC DỤNG TÍCH CỰC
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_134.wav|THAM GIA GIẢNG DẠY LÀ LỰC LƯỢNG ĐOÀN VIÊN
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_138.wav|ĐÓ HẲN LÀ MỘT MÓN QUÀ
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_141.wav|VÀ KHI THẤY TÔI VẪN KIÊN ĐỊNH TRẢ LỜI TRỚT QUỚT
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_151.wav|RÔ BÓT THÔNG MINH
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_156.wav|ĐẦU TIÊN LÀ BÀ CON MÌNH VẬT VÃ LÀM ĂN
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_168.wav|MÀ CHO ĐẾN LÚC ĐÓ ĐƯỢC XEM LÀ CỦA TƯ NHÂN
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_170.wav|NHƯ LẦN NÀY ĐƯỢC NẾM MÓN GIÒ THỦ HOÀN TOÀN LÀM TỪ TAI HEO
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_182.wav|NHỮNG NGƯỜI HOÀI NGHI NÓI RẰNG GIỮ ĐƯỢC VẬT TREO LỦNG LẲNG TRÊN NGƯỜI
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_185.wav|CHÍU CHÍT GỢI TÌNH MẸ CON SUM HỌP
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_190.wav|NƠI CÓ MẤY TÊN TRÔNG RẤT GẤU
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_192.wav|NHIỀU NGƯỜI CHO BIẾT
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_194.wav|NHIỀU TRỤ ĐÁ DI TÍCH NẰM NGHIÊNG NGẢ VÀ VỠ NÁT
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_195.wav|HỌ CŨNG LUÔN TRÁNH XA NHỮNG TÌNH HUỐNG CÓ THỂ GÂY HẠI CHO HỌ
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_197.wav|TRONG CUỘC SỐNG CỦA TÔI CHÚNG KHÔNG DÙNG ĐỂ KIẾM RA LỢI NHUẬN
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_209.wav|HAI MƯƠI BỐN HAI MƯƠI LĂM
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_211.wav|HAI MƯƠI TÁM HAI MƯƠI CHÍN
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_223.wav|NĂM MƯƠI HAI NĂM MƯƠI BA
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_231.wav|SÁU MƯƠI TÁM SÁU MƯƠI CHÍN
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_236.wav|BẢY MƯƠI TÁM BẢY MƯƠI CHÍN
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_246.wav|CHÍN MƯƠI TÁM CHÍN MƯƠI CHÍN
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_264.wav|BUỔI SÁNG THÀNH PHỐ Ô NHIỄM HƠN BUỔI TRƯA
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_266.wav|NÓNG GIẬN TÔI ĐÃ LĂNG MẠ ANH
+dataset/vivos/test/waves/VIVOSDEV07/VIVOSDEV07_295.wav|CHỦ TÀU CHO BIẾT SẼ TIẾP TỤC THƯƠNG THUYẾT VỀ SỐ CHI PHÍ NÀY
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_002.wav|ĐỪNG ĐỂ CON SÂU ĂN
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_005.wav|CÂY CỔ THỤ ẤY BẤT CHỢT BỊ BỆNH TẬT QUẬT NGÃ
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_014.wav|VÀ NẾU BẠN TRÓT LÀM LỘN XỘN MÀN HÌNH NỀN
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_025.wav|ĐẠO DIỄN TRẺ NÀY CÓ NHIỀU ĐIỀU NGẪM NGỢI VỀ NGHỀ
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_032.wav|SẼ KHÔNG KHIẾN BẠN TRÔNG GẦY NHƯ NHỮNG TRANG PHỤC MỘT MÀU
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_053.wav|BỞI CƠ QUAN CHUYÊN MÔN HOẶC THUÊ TỔ CHỨC KIỂM TOÁN ĐỘC LẬP
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_057.wav|NÓ LẬT ĐẬT ĐẠP CHIẾC XE CÀ TÀNG BĂNG NGAY RA ĐẦU ĐƯỜNG
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_062.wav|HOẶC CHỈ BIỂU HIỆN BẰNG CÁC RỐI LOẠN CO BÓP
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_071.wav|KHI TÔI LÀ CON BÉ LỚP BỐN THÌ CÂY VẢ ĐÃ CAO QUÁ NÓC NHÀ
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_077.wav|BUỔI ĐẦU THẬT KHÓ KHĂN THEO ĐUỔI CHƯƠNG TRÌNH HỌC
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_085.wav|VIỆC ĐƯA TÍN HIỆU TRUYỀN HÌNH TRỰC TIẾP BẰNG HỆ THỐNG CÁP QUANG
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_090.wav|VÌ KHÔNG CÓ TIỀN ĐÓNG HỌC PHÍ
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_093.wav|THÌ BỖNG NGHE MẤY TIẾNG OÁC OÁC TỪ VẠT RỪNG PHI LAO
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_100.wav|HAY ĐẢM BẢO RẰNG NGÀY NÀO CHÚNG CŨNG ĐƯỢC ĐI NHỮNG ĐÔI TẤT SẠCH
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_127.wav|VỀ VIỆC MANG ĐẾN CHO CÁC EM NIỀM VUI HỌC
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_128.wav|CÓ LẼ PHẢI MẤT NHIỀU THỜI GIAN
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_129.wav|NƯỚC GỖ TRÊN CHIẾC ĐỒNG HỒ ĐÃ BẮT LÊN MÀU GỤ BÓNG LOÁNG
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_141.wav|KHI SỨC ÉP BIẾN MẤT CHÚNG TRỞ LẠI TÌNH TRẠNG MỀM DẺO BÌNH THƯỜNG
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_143.wav|THAM GIA GIẢNG DẠY LÀ LỰC LƯỢNG ĐOÀN VIÊN
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_145.wav|VÀ VẢI HOẶC CÓI NHIỀU MÀU
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_159.wav|VỚI NGƯỜI MẸ Ở XÓM CHÀI LONG BIÊN
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_163.wav|CHƯƠNG TRÌNH ĐÃ TẠO ĐƯỢC HIỆU ỨNG TỐT TỪ PHÍA KHÁN GIẢ NHÍ
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_166.wav|DỊCH VỤ KIỂM TRA SỨC KHỎE ĐỊNH KỲ LÀ MỘT Ý KIẾN HAY
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_180.wav|CHÍNH SỰ LÊN SÀN Ồ ẠT ĐÓ
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_182.wav|KẾT QUẢ CHỈ CÓ VỎN VẸN BA NGƯỜI CÒN BIẾT DỆT
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_193.wav|LÀ TƯƠNG ĐỐI CÓ HIỆU QUẢ
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_196.wav|PHẦN LỚN HỌC SINH GIÀU CÓ NGƯỜI NƯỚC NGOÀI
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_201.wav|KHÔNG MỘT HAI BA BỐN
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_208.wav|HAI MƯƠI HAI HAI MƯƠI BA
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_210.wav|HAI MƯƠI SÁU HAI MƯƠI BẢY
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_214.wav|BA MƯƠI BỐN BA MƯƠI LĂM
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_222.wav|NĂM MƯƠI NĂM MƯƠI MỐT
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_224.wav|NĂM MƯƠI BỐN NĂM MƯƠI LĂM
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_233.wav|BẢY MƯƠI HAI BẢY MƯƠI BA
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_270.wav|NÓI THẬT ĐẤY À
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_271.wav|QUÁ TỐT RỒI
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_274.wav|TÔI CHẾT CÙNG VỚI ÁNH TRĂNG
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_277.wav|ĐÀN ÔNG CÓ HAI THỨ ĐỂ BUỒN
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_295.wav|GIÀU ĐỔI BẠN SANG ĐỔI VỢ
+dataset/vivos/test/waves/VIVOSDEV08/VIVOSDEV08_300.wav|ÁN MẠNG TRÊN TOA TÀU TỐC HÀNH
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_015.wav|LÀM RỜM RỢP BIỂN MÂY LAU LÁCH PHẤT PHƠ
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_022.wav|TRỨNG MỰC QUYẾN RŨ CÁC NGƯ DÂN
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_029.wav|BẠN CÓ THỂ KHIỂN TRÁCH NGƯỜI LÁI XE
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_035.wav|LOÁNG THOÁNG TRĂN TRỞ LOÁNG THOÁNG BUỒN VUI
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_038.wav|PHÒNG TRÀ KHIÊU VŨ CÁNH QUẠT CỐI XAY ĐỎ
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_039.wav|THỊT NGỌT LỪ ẤY LẠI MANG THEO TRÙNG SÁN GÂY BỆNH
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_041.wav|HIỆN TRONG NHIỀU LOẠI TỎI CÓ MẶT TRÊN THỊ TRƯỜNG
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_047.wav|NGÀY CĂN BẬC HAI CHỈ DIỄN RA CHÍN LẦN TRONG MỘT THẾ KỶ
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_055.wav|RỒI RƠM RẠ KHÔ THEO THÂN HÌNH GẦY NGẲNG
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_077.wav|ĐỂ CÓ THỂ VẬN HÀNH CHÚNG ĐƯỢC HIỆU QUẢ HƠN
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_081.wav|ĐƯỢC MỸ RÁO RIẾT TUNG RA
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_083.wav|VÌ LƯỢNG CA KHÚC MỚI QUÁ NHIỀU
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_091.wav|NƯỚC CHẢY QUÁ MẠNH
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_098.wav|KHIẾN CẢ HAI PHẢI GIẬN HỜN VÔ LÝ
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_106.wav|RỒI CHÌM LỈM MỘT THỜI GIAN
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_110.wav|KHI MIỆNG VẪN NGẬM BẦU VÚ QUẮT QUEO
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_134.wav|CÂU TRẢ LỜI CỦA ÔNG TA RẤT KHIẾM NHÃ
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_139.wav|NẾU CHỦ ĐẦU TƯ KHÔNG TỰ PHÁ DỠ THÌ BỊ CƯỠNG CHẾ
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_142.wav|VỀ CHUYỆN ĐANG THEO DÕI BỌN GIÁN ĐIỆP NƯỚC NGOÀI
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_144.wav|ĐƯỢC CẮT TỪ VỎ CHĂN BỘ ĐỘI CŨ CỦA CÁC ÔNG BỐ RA
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_158.wav|SỢ NHẤT LÀ MÙA MƯA SẤM SÉT ĐÙNG ĐOÀNG TRÊN NÚI
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_159.wav|TỨC LẤY SỤN LÀNH TỪ NƠI KHÔNG PHẢI CHỊU LỰC GHÉP VÀO NƠI HƯ
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_163.wav|ĐIỀU VÔ CÙNG QUAN TRỌNG TRONG THỜI ĐẠI CÓ QUÁ NHIỀU HOẠT ĐỘNG
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_166.wav|THÍ SINH TỰ DO CẦN QUAN TÂM ĐẾN ĐỘ VÊNH KIẾN THỨC CÁC MÔN
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_168.wav|MỖI NGƯỜI CHÚNG TA SẼ CÓ NHỮNG THỨ KHÁC NHAU
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_178.wav|VÀ THẬM CHÍ BẠN CŨNG KHÔNG NÊN CỐ GẮNG
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_194.wav|TRÊN BẦU TRỜI ÁNH TRĂNG SÁNG VẰNG VẶC
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_198.wav|LÀ TỔ TIÊN CỦA ÔNG ĐẶNG LÊN ĐẢM TRÁCH VIỆC DẪN ĐƯỜNG
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_203.wav|TÁM CHÍN MƯỜI MƯỜI MỘT
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_204.wav|MƯỜI MỘT MƯỜI HAI MƯỜI BA
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_222.wav|NĂM MƯƠI NĂM MƯƠI MỐT
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_246.wav|CHÍN MƯƠI TÁM CHÍN MƯƠI CHÍN
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_267.wav|CĂN NHÀ ĐẰNG KIA NGHE NÓI CÓ MA
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_268.wav|THÚ THẬT TUI CHƯA TỪNG CHƠI GÁI
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_280.wav|XUÂN NÀY EM KHÔNG VỀ
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_286.wav|CÓ CÒN HƠN KHÔNG
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_288.wav|CHẮC SẮP TỚI THU XẾP ĐI DU LỊCH THÔI
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_289.wav|PHƯƠNG CHÂM SỐNG CỦA TÔI LÀ NGƯỜI KHÔNG VÌ MÌNH TRỜI TRU ĐẤT DIỆT
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_293.wav|NÓ TRỐN MẤT TIÊU RỒI CÒN ĐÂU
+dataset/vivos/test/waves/VIVOSDEV09/VIVOSDEV09_297.wav|THẾ NÀO LÀ HOÀN HẢO
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_010.wav|KHI BỊ CÔNG AN THỘP CỔ KHẨN CẤP
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_014.wav|SAU KHI ĐỌC NHỮNG THÔNG TIN TRÊN BÁO
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_017.wav|NGA KHI ẤY CÀNG THÌN NẾT NA
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_020.wav|VIỆC ÁP DỤNG CẢ BÀN VÁ LỖI VÀ CÔNG CỤ QUÉT
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_024.wav|NGOÀI TRỜI MƯA CỨ LAY PHAY RẮC HẠT
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_030.wav|NUÔI MÔ HÌNH TINH HOÀN RỒI TẠO RA TINH HOÀN VỚI ĐẦY ĐỦ HÌNH HÀI
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_035.wav|CÓ THỂ GIÚP TA QUÊN ĐI NHỮNG NỖI ƯU PHIỀN
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_043.wav|MÀ DUNG DĂNG NHÉ CẦM TAY ĐẤT TRỜI
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_045.wav|TÔI LỚN LÊN TRONG SỰ GHẺ LẠNH CỦA NGƯỜI MẸ KẾ
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_051.wav|KHUNG RĂNG HÀM TRÊN KHUM
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_067.wav|THẾ NHƯNG TÔI KHÔNG ÂN HẬN KHI TRỞ THÀNH ĐẢ NỮ
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_068.wav|VỚI MỘT TỐC ĐỘ MÀ CHÚNG TA KHÔNG THỂ ĐI ĐẾN TẬN CÙNG CỦA NÓ
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_072.wav|TÔI THẤY ĐỒNG LƯƠNG CỦA MÌNH NĂM NĂM RỒI VẪN ĐỨNG NGUYÊN
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_073.wav|ĐỂ CHẤM DỨT NẠN BẠO HÀNH TRONG GIA ĐÌNH
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_076.wav|LÀM ĐƯỜNG SÁ NGẬP XẮP XẮP QUANH NĂM SUỐT THÁNG
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_090.wav|VỪA ĐƯỢC TRAO TẶNG GIẢI THƯỞNG NHÀ NƯỚC
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_117.wav|CÁI KHÓ LÀ
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_129.wav|ĐIỀU NÀY ĐÚNG VỚI MỌI CẤP ĐỘ VÀ TRONG MỌI LĨNH VỰC CỦA ĐỜI SỐNG
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_130.wav|CAO NGỒNG NGỒNG
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_140.wav|CHÀNG TRAI LỒM CỒM BÒ DẬY MẶT MÀY XANH LÉT NHƯ TÀU LÁ CHUỐI
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_156.wav|CHÍNH PHỦ ĐỒNG THỜI CŨNG LẬP THÊM CỤC XÚC TIẾN TIÊU THỤ DẦU CỌ
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_162.wav|CŨNG LÀ TIN VUI CHO TẤT CẢ NHỮNG AI
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_172.wav|HƯỢM ĐÃ CÒN PHẢI ĐIỀU CHỈNH
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_176.wav|TRONG TÌNH THẾ ẤY CHỈ ĐÁM TRẺ VEN SÔNG
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_189.wav|NẾU ĐI TIẾP NHA TRANG
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_194.wav|TỨC CHANH CÓ THỂ TRỊ ĐƯỢC BỆNH
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_196.wav|CHỈ MUỐN LÀM MỘT HƠI CHO ĐÃ CÁI MIỆNG
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_211.wav|HAI MƯƠI TÁM HAI MƯƠI CHÍN
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_212.wav|BA MƯƠI BA MƯƠI MỐT
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_227.wav|SÁU MƯƠI SÁU MƯƠI MỐT
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_234.wav|BẢY MƯƠI BỐN BẢY MƯƠI LĂM
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_239.wav|TÁM MƯƠI BỐN TÁM MƯƠI LĂM
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_245.wav|CHÍN MƯƠI SÁU CHÍN MƯƠI BẢY
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_247.wav|MỘT TRĂM MỘT HAI BA
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_249.wav|KHÔNG HAI BỐN SÁU TÁM
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_257.wav|TIỀN ĐIỆN THÁNG NÀY BAO NHIÊU
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_262.wav|THUA XA TIỆM TẠP HOÁ NHÀ TAO
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_266.wav|TỪ TRÊN NÓC NHÀ NHÌN XUỐNG CÓ KHÁC
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_278.wav|TỘI NGHIỆP ĐỨA NHỎ KHÔNG AI CHĂM SÓC
+dataset/vivos/test/waves/VIVOSDEV10/VIVOSDEV10_294.wav|EM SỢ CÓ MỘT NGÀY ANH GẶP NGƯỜI CON GÁI KHÁC TỐT HƠN EM RỒI ANH BỎ EM
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_015.wav|NỮ DIỄN VIÊN XINH ĐẸP PHẠM BĂNG BĂNG
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_022.wav|SẼ LÀM GIẢM TÌNH TRẠNG ÓI ỌC CỦA TRẺ
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_033.wav|MÀ PHẢI CHE CHÁI Ở TẠM BÊN HÔNG NHÀ CHA RUỘT
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_036.wav|TÔI CÓ THỂ CĂM GIẬN ĐỦ THỨ
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_038.wav|MÀ PHẢI CHUYỂN QUA HÌNH THỨC GIAO DỊCH
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_046.wav|ĐỪNG BAO GIỜ ĐỂ CHO BẤT KỲ AI NÓI VỚI BẠN RẰNG
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_048.wav|VÀNG ÓNG ĐÔI GHỆT CAO CỔ CỦA NGỰ LÂM QUÂN
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_057.wav|NẾU VÌ CHÚNG TÔI
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_063.wav|NẾU BẠN VẪN CẢM THẤY TỘI LỖI
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_075.wav|DÃI DẦU NẮNG GIÓ TRƯỜNG SƠN
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_076.wav|VỚI TRÊN LÀ NÚI VÀ DƯỚI LÀ SÔNG
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_077.wav|VỚI SỰ XUẤT HIỆN CỦA QUÁI THÚ VÀ RỒNG
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_079.wav|NÉT MẶT HỌ KHÔNG NGỜI LÊN HẠNH PHÚC CỦA NGƯỜI MẸ
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_081.wav|MỘT SỐ NGƯỜI CHO RẰNG
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_083.wav|MỘT SINH VIÊN ĐƯỢC VAY VỐN TÍN DỤNG HỌC TẬP
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_095.wav|MỌI THỨ ĐỀU ĐƯỢC MỔ XẺ LẠI
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_122.wav|KHÔNG PHẢI NẮP KHUM
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_123.wav|CÁC CÔNG TY DU LỊCH PHẢI XÁC ĐỊNH
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_129.wav|ĐI BỘ LEO NÚI ĐẾN NHỪ CHÂN
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_131.wav|THÌ CHỦ ĐẦU TƯ PHẢI TỰ PHÁ DỠ PHẦN NỘI DUNG SAI PHÉP ĐÓ
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_136.wav|KHI NHÂN VIÊN CỨU HỘ CỐ GẮNG ĐƯA NÓ LÊN SÀ LAN
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_137.wav|NHỮNG NGƯỜI NÀY ĐỀU ĐƯỢC ĐÀO TẠO VỀ HỘI HỌA
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_147.wav|GẮN LÔNG CHIM HỘT ĐÁ LÓNG LÁNH HAY BÈO DÚN TÙA LUA ĐẦY CỔ
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_160.wav|NGỤ ẤP HÒN NGANG
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_164.wav|ÍT NHẤT Ở HƠN BA MƯƠI TRƯỜNG THUỘC CÁC ĐỊA PHƯƠNG NÓI TRÊN
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_182.wav|ĐẶC ĐIỂM CỦA PHẨY TRÙNG TẢ
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_193.wav|VÌ BAN ĐÊM CHỊ NGỦ KHÔNG NGON
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_198.wav|LƠ LỬNG TRÊN ĐẦU LÀ NHỮNG CHIẾC BẪY ĐÁ HÀNG TRĂM KHỐI
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_200.wav|NĂM ĐẦU TIÊN
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_234.wav|BẢY MƯƠI BỐN BẢY MƯƠI LĂM
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_242.wav|CHÍN MƯƠI CHÍN MƯƠI MỐT
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_246.wav|CHÍN MƯƠI TÁM CHÍN MƯƠI CHÍN
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_252.wav|BÂY GIỜ CƯỚP NHIỀU QUÁ ĐI ĐƯỜNG CŨNG THẤY SỢ
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_262.wav|TÌM HUNG THỦ HIẾP DÂM BẰNG NƯỚC BỌT NẠN NHÂN
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_269.wav|CHÚNG TÔI YÊU NHAU ĐƯỢC HAI NĂM THÌ GIA ĐÌNH TÔI XẢY RA CHUYỆN
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_273.wav|TRỌNG TÀI PHẠT THẺ ĐỎ
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_274.wav|KIỂU NÀY CHẮC PHẢI CẮT GIẢM BIÊN CHẾ
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_282.wav|THÔI THÌ CỨ SẮP XẾP NHƯ VẬY
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_289.wav|THEO PHÓ CHỦ TỊCH ỦY BAN AN TOÀN GIAO THÔNG QUỐC GIA
+dataset/vivos/test/waves/VIVOSDEV11/VIVOSDEV11_298.wav|CHUẨN BỊ CHO NGÀY KHAI TRƯƠNG CỬA HÀNG ĐẦU TIÊN
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_006.wav|TỪ SỰ DƯ THỪA QUÁ MỨC CỦA LUỒNG TIỀN NÀY
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_011.wav|ĐÓ CHỨNG TỎ RẰNG CHÚNG TA ĐÃ GIÀ
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_015.wav|TRẢ LẠI ĐẤT CHO RỪNG
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_032.wav|CÁC LOẠI CÂY TRỒNG Ở RỪNG NÀY TOÀN CÂY KÉM GIÁ TRỊ
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_054.wav|THIẾU SỰ QUAN TÂM ĐÚNG MỨC TỪ CÁC CƠ QUAN CHỨC NĂNG
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_056.wav|TẠI CHỢ CÁ
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_057.wav|KHÔNG PHẢI VÌ TÔI KHÔNG COI TRỌNG CHẤT LƯỢNG
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_065.wav|THÌ ĐỌC ĐƯỢC HỒI KÝ KHÔNG THỂ CHUỘC LỖI TRÊN BÁO TUỔI TRẺ
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_066.wav|THIẾU TƯỚNG PHẠM QUÝ NGỌ CHO BIẾT
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_068.wav|KHÔNG MỘT CHÚT TRẦY TRỤA MÀ ĐỀN CÁI GÌ
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_071.wav|NÓ ĐƯỢC ĐẶT TRONG MỘT HỘP ĐỰNG TRANG SỨC BỌC DA ĐỎ
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_075.wav|NHÓM THANH LONG TRẺ DIỄN TIỂU PHẨM HÀI HẮC BẠCH TRANH HÙNG
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_076.wav|TỚ ĐI KIẾM NHÀ TRỌ RỒI NHƯNG KHÓ QUÁ
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_079.wav|XANH CỎ MƯỢT MÀ VEN ĐƯỜNG
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_080.wav|CHÍNH THỨC ĐÃ LÂY LAN RA BÊN NGOÀI
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_100.wav|PHỤ HUYNH VÀ HỌC SINH ĐANG PHẢI È CỔ VÌ SÁCH GIÁ CAO
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_101.wav|KHI CHÍNH PHỦ LÚC ĐẦU ĐỀ NGHỊ ÂN XÁ CHO NHỮNG NGƯỜI NỔI DẬY
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_116.wav|DƯỚI ÁNH ĐÈN MỜ MỜ ẢO ẢO
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_128.wav|TRONG CUỘC BỎ PHIẾU TẠI HỘI ĐỒNG BẢO AN HAI NGÀY TRƯỚC ĐÓ
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_132.wav|HẦU HẾT NHỮNG VẤN ĐỀ XẢY RA TRÊN THẾ GIỚI
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_135.wav|ÔNG ĐƯỢC NHIỀU NGƯỜI BIẾT ĐẾN
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_144.wav|TRẢ LỜI TÔI BIẾT
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_166.wav|ỊCH GÃ TO BÉO ỤC ỊCH
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_169.wav|ÁO RÁCH LƯƠM BƯƠM
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_173.wav|ĐỐI VỚI NHỮNG PHẢN ỨNG KHÁC BIỆT ĐÓ
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_182.wav|VÀ ĐÃ HIẾN MÁU BA LẦN
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_186.wav|TIẾNG HÉT ĐỒNG THANH CỦA MẤY CHỤC CON NGƯỜI
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_192.wav|TRANG THỨ HAI CỦA TỜ BÁO
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_197.wav|SAU ĐÓ BÀ HÀNG XÓM TÍNH TÌNH XỞI LỞI CHẠY QUA KỂ VỚI TÔI
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_213.wav|BA MƯƠI HAI BA MƯƠI BA
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_223.wav|NĂM MƯƠI HAI NĂM MƯƠI BA
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_224.wav|NĂM MƯƠI BỐN NĂM MƯƠI LĂM
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_227.wav|SÁU MƯƠI SÁU MƯƠI MỐT
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_232.wav|BẢY MƯƠI BẢY MƯƠI MỐT
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_244.wav|CHÍN MƯƠI BỐN CHÍN MƯƠI LĂM
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_248.wav|MỘT BA NĂM BẢY CHÍN
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_271.wav|BÀ CON RANG TRÍ CÀNH ĐÀO ĐỂ CHUẨN BỊ ĐÓN TẾT
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_275.wav|TÔI KHÔNG THẤY GÌ LÀ ĐÚNG KHI TĂNG GIÁ XE VÀO CÁC DỊP TẾT
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_280.wav|DU LỊCH SẼ TRỞ THÀNH NGÀNH KINH TẾ MŨI NHỌN
+dataset/vivos/test/waves/VIVOSDEV12/VIVOSDEV12_290.wav|TỪ KHI CHỒNG QUA ĐỜI VÌ BỆNH TẬT
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_019.wav|ĐƠN VỊ MÌNH KHÔNG NGHE AI NÓI GÌ CHƯA HẲN ĐÃ TỐT
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_026.wav|KHÔNG AI ĐƯỢC NGƯỢC ĐÃI CÁC EM VÌ CÁC EM HỌC CHẬM
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_054.wav|GIÀ LÀNG NGUYỄN MẠNH TƯỜNG TRẢ LỜI PHỎNG VẤN BÁO GIỚI ẢNH TRUNG DÂN
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_058.wav|ĐÓ LÀ GIAI ĐOẠN THỜI TIẾT ÍT BIẾN ĐỘNG VÀ NHIỆT ĐỘ KHÔNG QUÁ THẤP
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_061.wav|NHƯNG SAU NGHE CON NÓI RA NÓI VÀO LẠI ÁC CẢM VỚI EM
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_069.wav|NHỮNG ĐIẾU THUỐC VÔ Ý ĐỐT CHÁY VÀI CHỖ TRÊN CHIẾC SÔ PHA BỌC VẢI
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_075.wav|BẠN CÓ THỂ TẮT CHƯƠNG TRÌNH ĐÓ ĐI VÀ THỰC HIỆN THAO TÁC CUỐI CÙNG
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_078.wav|KHẮP NƠI QUANH CHÚNG TÔI VƯƠNG VÃI XÁC CHẾT CỦA NGƯỜI DÂN VÔ TỘI
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_088.wav|NHỮNG CHIẾC LỒNG ĐÈN ĐỒ CHƠI VIỆT VẪN LẶNG LẼ MANG HỒN VIỆT XUỐNG PHỐ
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_089.wav|NHÀ VĂN NGUYÊN NGỌC SINH VIÊN CÓ QUYỀN HOÀI NGHI VÀ TRANH CÃI
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_097.wav|CUỘC THI CÒN CÓ HAI GIẢI NHÌ BA GIẢI BA VÀ BỐN GIẢI KHUYẾN KHÍCH
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_098.wav|HẦU NHƯ CÁC PHẢN ỨNG PHỤ NẶNG NỀ LÀ RẤT HIẾM GẶP
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_104.wav|SỐ TIỀN QUÁ LỚN KHIẾN GIA ĐÌNH HƯƠNG PHẠM VÀ LÊ CHOÁNG VÁNG
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_105.wav|NHÓC ĐỎ MẶT TÍA TAI NHÓC THUA CHỊ MỘT TUỔI THÔI ĐẤY
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_106.wav|CẢM GIÁC ĐƯỢC CHIA SẺ VỚI BẠN ĐỜI CÙNG SỞ THÍCH THÚ VỊ LẮM
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_136.wav|TÔI VÀO QUẦY GIẢI KHÁT ĐẦU TIÊN VÀ GỌI MỘT CỐC NƯỚC CAM
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_137.wav|MẸ LẦN TAY TRONG VÍ VÀ LẤY RA CHIẾC PHONG BÌ
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_139.wav|TIÊU NHƯ PHONG CHẠY TRỐN KHỎI KINH THÀNH ĐỂ TÌM HUNG THỦ THẬT SỰ
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_146.wav|CÓ NGÀY CÁC BÁC SĨ ĐIỀU DƯỠNG MỔ MẮT CHO HÀNG TRĂM NGƯỜI MÙ NGHÈO
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_147.wav|KHÔNG AI MUỐN CÓ TIÊU CỰC CẢ VÀ CŨNG ĐỪNG TUYỆT ĐỐI HÓA VẤN ĐỀ
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_150.wav|VỢ HẮN THỊ NGẦN MANG LƯỚI RA VÁ ĐỂ CHIỀU THẢ
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_164.wav|HIỆN CƠ QUAN CHỨC NĂNG ĐANG TIẾP TỤC ĐIỀU TRA VỤ VIỆC
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_167.wav|KHI BỊ PHÁT HIỆN HỌ ĐÃ TRẢ LỜI NHƯ THẾ NÀO
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_210.wav|RÀ SOÁT CHẤT LƯỢNG CÔNG TRÌNH XÂY DỰNG TRÊN CẢ NƯỚC
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_211.wav|KHÔNG NẢN NGHĨA TIN RẰNG SẼ CÓ MỘT GIẢI PHÁP NÀO ĐÓ
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_222.wav|MẸ CŨNG ĐÃ TỪNG THỐNG KHỔ TUYỆT VỌNG VÀ CÔ ĐƠN NHƯ VẬY
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_225.wav|HAI LOẠI VĂN NÀY NÊN ĐƯỢC COI TRỌNG NHƯ NHAU TRONG CÁC KỲ THI
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_226.wav|VẬY MỚI CÓ MỤC TIÊU ĐỂ MÀ PHẤN ĐẤU NÊN NGƯỜI CÓ Ý THỨC
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_227.wav|TẠI ĐÂY CÓ MỘT ÔNG TRƯỞNG PHÒNG NHÂN SỰ CÔNG TY
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_230.wav|CHỈ MỘT ĐIỀU ĐƠN GIẢN VẬY MÀ ANH ẤY KHÔNG BAO GIỜ THỰC HIỆN ĐƯỢC
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_239.wav|CHẲNG CẦN NHÌN VỀ PHƯƠNG TÂY QUÊ HƯƠNG CỦA HÀNG HIỆU
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_241.wav|MÙA ĐÔNG CẢ CÁNH ĐỒNG CHUYỂN SANG MỘT MÀU VÀNG RỰC
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_252.wav|TÔI HỌC CÙNG VỚI CÁC ANH CHỊ LÀM VIỆC CHUYÊN VỀ SẢN XUẤT PHẦN MỀM
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_255.wav|CÓ LẼ ĐÂY LÀ LỜI QUẢNG CÁO KHÔNG CÔNG HAY NHẤT CHO DU LỊCH LÀO
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_257.wav|TỪ ĐÓ ĐẾN NAY GIA ĐÌNH CHỊ VẪN SỐNG TRONG CĂN NHÀ LỤP XỤP
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_258.wav|BẠN CẦN TRUNG THỰC VỚI NHÂN VIÊN CỦA MÌNH TRONG MỌI HOÀN CẢNH
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_263.wav|MỘT SỐ ĐIỂM NƯỚC PHUN ĐẾN ĐÂU BAY HƠI HẾT ĐẾN ĐÓ
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_267.wav|DO VẬY VẤN ĐỀ KHU TRÚ KHỐNG CHẾ BỆNH TẢ HIỆN NAY RẤT KHÓ
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_276.wav|ĐÓ LÀ CÂU HỎI MÀ ĐẾN NAY VẪN CHƯA CÓ CÂU TRẢ LỜI
+dataset/vivos/test/waves/VIVOSDEV13/VIVOSDEV13_277.wav|HÀ NỘI MỞ RỘNG KHU VỰC HỒ TÂY SÔNG HỒNG NÊN LÀ KHU VỰC TĨNH
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_018.wav|BIÊN CHẾ NÀY NHÀ THANH GỌI LÀ AN NAM QUỐC NHẠC
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_022.wav|HƠN LÀ DẪN DẮT CÁC EM THEO CHỦ Ý CỦA GIÁO VIÊN
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_027.wav|BẠN CÓ THỂ THAM KHẢO MỘT SƠ YẾU LÝ LỊCH ĐIỆN TỬ SAU ĐÂY
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_035.wav|NHẠC SĨ LA HỐI VỚI CA KHÚC XUÂN VÀ TUỔI TRẺ
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_079.wav|VẬY AI SẼ CHỊU TRÁCH NHIỆM VỀ NHỮNG TRƯỜNG HỢP NÀY
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_080.wav|TUY PHÍA TRƯỚC CÒN VÔ VÀ KHÓ KHĂN ĐỐI VỚI CON
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_085.wav|BỐN NĂM TRỜI BỊ CÂM MỘT MÌNH VỚI BÓNG MÌNH NHIỀU PHEN ÒA KHÓC
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_086.wav|EM SỢ MẤT ANH ẤY NHƯNG LẠI CẢM THẤY MÌNH BỊ XÚC PHẠM
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_093.wav|TRÒ ĐÙA ĐỐI VỚI THẦY NHƯNG LẠI LÀ CHÂN THẬT CHÂN THẬT VỚI MỘT NGƯỜI
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_104.wav|ĐÓ LÀ NHẬN XÉT CHUNG CỦA NHIỀU TỔNG GIÁM ĐỐC ĐIỀU HÀNH NGÀY NAY
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_108.wav|NGƯỜI PHÁP ĐÃ ĐỒNG Ý VỚI CÁCH QUẢN LÝ LĨNH VỰC DÀNH RIÊNG
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_113.wav|HẮN THAY ĐỔI LẦM LÌ SAU KHI THEO GIA ĐÌNH ĐẾN XỨ NGƯỜI
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_114.wav|YẾU TỐ HẤP DẪN MỚI THU HÚT ĐẦU TƯ NƯỚC NGOÀI VÀO VIỆT NAM
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_115.wav|VẬY MÀ GIỜ ĐÂY NÓ KHÔNG ĐỢI ĐƯỢC ĐẾN LÚC HUY VỀ
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_116.wav|MỘT GÓC CÂU CÁ TRÊN CẦU SÀI GÒN ẢNH MAI VINH
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_123.wav|MỘT VÀI NGƯỜI TRONG BỌN HỌ ĐƯA MẮT NHÌN MẢNH GIẤY
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_134.wav|NHƯNG TRƯỚC ĐÂY NHÌN TỪ BÊN NGOÀI NƠI NÀY KHÔNG KHÁC MỘT CĂN NHÀ HOANG
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_140.wav|CÓ NHƯNG PHẢI LÀ THUỐC ĐẶC TRỊ CỦA PHÁP HIẾM VÀ CỰC KỲ ĐẮT
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_145.wav|MỘT SỐ BẠN TRẺ CŨNG CÓ Ý NGHĨ NHƯ CAO CƯỜNG
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_151.wav|TÔI ĐÃ CÓ THỜI GIAN TUYỆT VỜI KHI CHƠI CHO ĐỘI TUYỂN
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_156.wav|THỈNH THOẢNG CON ĐI QUA DỪNG LẠI DỰNG XE NGỒI HÚT THUỐC
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_163.wav|CHÚ BỘ ĐỘI QUA NHỮNG CÂU CHUYỆN CỦA ÔNG MỚI GẦN GŨI LÀM SAO
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_180.wav|ĂN CÁ NGỪ CÁ THU VÀ CÁ MÒI VỚI RAU TRỘN
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_186.wav|CÓ BẰNG THẠC SĨ NHỮNG NGÀNH TRÊN LÀ MỘT LỢI THẾ
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_191.wav|MINH NHẬT HỒNG QUÂN VŨ CÔNG THÀNH SƯU TẦM TỪ BÁO NƯỚC NGOÀI
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_194.wav|MUỐN CÓ BẰNG LÁI PHẢI QUA MỘT ĐỢT THI RẤT KHẮT KHE
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_195.wav|YÊU NHAU KHOẢNG VÀI THÁNG THÌ CHÚNG TÔI ĐÃ CÓ QUAN HỆ TÌNH DỤC
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_199.wav|KHÓ SAO DUYÊN DÁM CHO ANH UỐNG RƯỢU TRONG ĐÁM CƯỚI
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_225.wav|ÔNG DƯƠNG ĐỨC LÂN PHÓ TỔNG CỤC TRƯỞNG TỔNG CỤC DẠY NGHỀ
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_227.wav|ĐỐI XỬ VỚI BẠN NHƯ NGƯỜI YÊU CŨ CỦA BẠN ĐÃ TỪNG LÀM
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_235.wav|THAM GIA THIẾT KẾ LĂNG CHỦ TỊCH HỒ CHÍ MINH THÌ CÓ NHIỀU NGƯỜI
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_236.wav|VÌ VẬY CÔNG TY B PHẢI CÓ TRÁCH NHIỆM BỒI THƯỜNG
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_256.wav|NÔNG DÂN TRỒNG MÍA THAN CỨ MỘT VỤ ĐƯỢC LẠI BA VỤ THẤT
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_280.wav|THÌ NGƯỜI XEM CŨNG ĐƯỢC NÂNG CAO KIẾN THỨC VỀ ĐỊA LÝ
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_283.wav|NGÀY XƯA CÁC CỤ LÀM BÌA SÁCH LÀ MINH HOẠ CHO CUỐN SÁCH ĐÓ
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_285.wav|TÔI ĐÃ NHIỀU LẦN PHẢN ĐỐI QUYẾT LIỆT VIỆC NƯỚC THẢI TUỒN RA NGOÀI
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_286.wav|NHIỀU GIA ĐÌNH HIỆN NAY THÍCH TỰ GIỚI THIỆU CHƯƠNG TRÌNH
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_289.wav|TÔI LÀ MỘT NGƯỜI MIỀN TÂY ĐANG LÀ NGHIÊN CỨU SINH Ở MỸ
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_291.wav|CÀNG ĐI SÂU VÀO BÊN TRONG CẢNH TRÍ THIÊN NHIÊN CÀNG HÙNG VĨ
+dataset/vivos/test/waves/VIVOSDEV14/VIVOSDEV14_294.wav|MONG BẠN BÌNH TÂM SUY NGHĨ VÀ CHỌN ĐƯỢC CÁCH GIẢI QUYẾT TỐT NHẤT
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_003.wav|ĐIỀU NÀY KHÓ HƠN KHI BẠN VÀO BÀN TIỆC TOÀN NGƯỜI XA LẠ
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_013.wav|CŨNG ĐỀU TRONG TƯ THẾ NGÕ NHỎ PHỐ NHỎ PHỞ TÔI Ở ĐÓ
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_014.wav|THÀNH MỘT CHIẾC LỒNG ĐÈN KHỔNG LỒ TẠI CÔNG VIÊN Ở THỦ ĐÔ BẮC KINH
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_020.wav|CÂU CHUYỆN CỦA QUÁ KHỨ ÔNG KỂ KHÔNG BIẾT BAO NHIÊU LẦN
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_021.wav|MÀU SON TRÔNG THẬT TUYỆT TRÊN BẤT KÌ MÀU DA NÀO
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_026.wav|ÔNG ĂN CHAY MÀ NGHĨ MẶN THÌ ĂN CHAY LÀM CHI
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_037.wav|TRÊN CƠ SỞ ĐÓ NHỮNG HÀNH VI VI PHẠM SẼ ĐƯỢC XỬ LÝ NGHIÊM
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_038.wav|MỘT CƠ QUAN CHÍNH THỨC ĐỂ KHÁCH HÀNG KHIẾU NẠI THAM KHẢO VÀ TIN TƯỞNG
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_047.wav|MỘT TÌNH HUỐNG ỨNG XỬ SƯ PHẠM TÔI LÀM BỘ TỈNH RỤI ĐƯỢC CÔ DUYỆT
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_050.wav|CHẲNG LẼ ĂN CƠM NHÀ NGƯỜI MÀ LẠI KHÔNG CHĂM CHÚ LẮNG NGHE NGƯỜI NÓI
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_062.wav|NGHĨA LÀ NẾU BẠN ĐANG LÀM VIỆC DƯỚI QUYỀN MỘT GIÁM SÁT VIÊN
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_066.wav|KẼM CÓ NHIỀU TRONG GAN SÒ THỊT ĐỎ CÁ ÓC TRỨNG
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_092.wav|UNG THƯ TỪ MỘT CƠ QUAN KHÁC DI CĂN VÀO HỆ THỐNG HẠCH BẠCH HUYẾT
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_109.wav|CUỘC THI TỰ HÀO SỬ VIỆT ĐÃ HẾT GIAI ĐOẠN I
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_111.wav|CUỘC BIỂU TÌNH CỦA ÁO ĐỎ CÓ THỂ SẼ BIẾN THÀNH BẠO LỰC
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_117.wav|TRÊN THỰC TẾ MỘT CUỘC ĐIỀU TRA ĐÃ ĐƯỢC TIẾN HÀNH
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_121.wav|TRẢI DÀI HÀNG CHỤC CÂY SỐ ĐỀU THU GỌN VÀO TẦM MẮT
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_137.wav|THẢN NHIÊN GIÁ ĐÓ THÌ CHỈ CÓ THỂ LÀM VẬY THÔI
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_147.wav|BẮT ĐẦU CUỘC CHẠY ĐUA MÙA KINH DOANH TẾT GIỮA BÁNH NỘI VÀ BÁNH NGOẠI
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_154.wav|CÁI NHÀ HÁT BỊ ĐẬP TAN TÀNH ÔNG KHOÁI LẮM À
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_168.wav|MÂM CƠM VẪN THANH ĐẠM TỦ ÁO CỦA VỢ CŨNG CHỈ VÀI BỘ ĐƠN SƠ
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_173.wav|HÌNH THỨC KỶ LUẬT NÀO CŨNG CHỈ CÓ TÍNH ĐỊNH HƯỚNG RĂN ĐE
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_180.wav|HIỆN NAY BÀ ĐANG BỊ NHIỀU BỆNH VÀ SỐNG DƯỚI MỨC NGHÈO KHỔ
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_194.wav|NẰM TRÊN GIƯỜNG GẦN CẢ THÁNG BẤT GIÁC TÔI CẢM THẤY MÌNH THẬT CÔ ĐỘC
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_198.wav|NHẢM NHÍ KHI GIỜ HỌC CHÁN PHÈO BUỒN NGỦ QUÁ Ờ BUỒN NGỦ
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_200.wav|NÓI CHUYỆN MỘT HỒI ÔNG LÀM BỘ ĐỂ TAY LÊN TAY EM TRÊN CẦN SỐ
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_203.wav|CÒN ANH TRAI TÔI TRONG NHẬT KÝ CỦA MÌNH CŨNG LINH CẢM ĐIỀU ĐÓ
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_204.wav|SÁNG CHÚNG TÔI TẠM BIỆT THUNG NAI VÀ NHỮNG CHỦ NHÂN MẾN KHÁCH MỘC MẠC
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_208.wav|MẤY NGÀY ĐẦU THÚY HÀ PHẢI NHỜ KIM DẪN ĐI GIỚI THIỆU TRƯỜNG
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_209.wav|HỌ THÍCH NGHI VỚI VĂN HÓA CÔNG TY NHƯ THẾ NÀO
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_213.wav|MÔ HÌNH CẤU TRÚC CHỨC NĂNG VÀ KHOA HỌC XÃ HỘI MANG TÍNH GIÁO DỤC
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_216.wav|VÀ BẠN CẦN CÓ VIỆC LÀM ỔN ĐỊNH VỚI THU NHẬP CAO
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_220.wav|ĐÂY LÀ THÁNG CÓ SỐ ĐĂNG KÝ THẤP NHẤT TỪ ĐẦU NĂM ĐẾN NAY
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_239.wav|THẬT RA THÌ CŨNG KHÔNG THỂ LÀM CẦU KÌ NHƯ Ở NHÀ ĐƯỢC
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_253.wav|VẢ LẠI THEO QUY CHẾ ĐÂY LÀ TRÁCH NHIỆM CỦA MỖI THÍ SINH
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_255.wav|CÔNG NHÂN ĐANG THI CÔNG HAI NHÁNH CẦU RẠCH CHIẾC ẢNH THUẬN THẮNG
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_265.wav|HỌ KHÔNG BIẾT CHƠI PHÒNG NGỰ LÀ GÌ TRỪ KHI BỊ ĐỐI THỦ VÂY ÉP
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_267.wav|CUỐI CÙNG HỌ DẪN NHAU VỀ NHÀ VỚI THÚNG LÀN KHÔNG
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_271.wav|PHIM MỚI CỦA TRƯƠNG NGHỆ MƯU SỰ TRỞ LẠI DÒNG PHIM NGHỆ THUẬT
+dataset/vivos/test/waves/VIVOSDEV15/VIVOSDEV15_299.wav|CÒN HÀNG TRĂM CHIẾC KHÁC ĐÃ BÁN THÌ ÔNG KHÔNG NHỚ HẾT
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_026.wav|CÙNG VỢ ĂN VỘI CHÉN CƠM THÀNH LẠI LO ÔN BÀI LÀM BÀI TẬP
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_033.wav|ĐỘI NÀO THÀNH TÍCH CÀNG CAO THÌ QUẢN LÝ CÀNG KHÓ
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_048.wav|PHẢI CHĂNG XÂY DỰNG NIỀM TIN VÀO TÌNH YÊU KHÓ THẾ
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_049.wav|CÒN BA CẦU THỦ VĂN TRƯƠNG BẬT HIẾU VÀ HẢI LÂM THÌ SAO THƯA ÔNG
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_050.wav|THÁNG BẢY NHIỀU NGƯỜI CON KHÓC NÊN TRỜI BUỒN VÀ KHÓC THEO
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_051.wav|CA KHÚC ĐƯỢC KHÁN GIẢ YÊU THÍCH NHẤT BÀ TÔI NGUYỄN VĨNH TIẾN
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_058.wav|ĐẦU TƯ TIÊU DÙNG VÀ XUẤT KHẨU ĐỀU SẼ TĂNG MẠNH
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_059.wav|ĐỒ CỔ KHÔNG CÔNG KHAI NGUỒN GỐC PHẢI BỊ COI LÀ HÀNG GIẢ
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_064.wav|TỪNG LÀ CHỦ TẾ HÀNG TRĂM LỄ AN TÁNG MỘ GIÓ
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_067.wav|HÌNH NHƯ KHÔNG CÓ CẢ MỘT TRONG HAI TÀI VÀ ĐỨC
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_068.wav|BÊN CẠNH ĐÓ CHÚNG TÔI CÒN LÀM HÀNG LOẠT VIỆC KHÁC NHƯ
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_074.wav|CHÚNG NÓ YÊU NHAU RẤT TỰ NHIÊN GHÉT NHAU CŨNG RẤT TỰ NHIÊN
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_079.wav|TẤT CẢ ĐỂ CHO NGƯỜI BỆNH VÀ THÂN NHÂN HÀI LÒNG KHI ĐẾN BỆNH VIỆN
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_101.wav|TÔI KHẼ CHỚP MẮT VÀ THẦM CẦU NGUYỆN XIN CHÚA GIÚP CON
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_112.wav|LÚC HƯNG PHẤN NÓI CHUYỆN PHÓNG LAO CHẲNG CÓ CHI PHỨC TẠP
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_120.wav|SẼ LÀM CHÚNG TA NGỦ KHÔNG ĐỦ KHÔNG ĐÚNG QUY LUẬT
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_149.wav|CÓ BAO GIỜ ÔNG GẶP TÌNH HUỐNG KHÔNG TRẢ LỜI ĐƯỢC CÂU HỎI CỦA DÂN
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_153.wav|CẢ ĐỜI CHƯA BAO GIỜ TÔI CÓ CẢM GIÁC SUNG SƯỚNG NHƯ VẬY
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_154.wav|ÍT CÓ CƠ HỘI SỐNG SÓT CHO CÁC HÀNH KHÁCH TRÊN MÁY BAY
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_161.wav|TRUNG QUỐC ĐƯA RA HÌNH PHẠT CỤ THỂ ĐỐI VỚI TỘI THAM NHŨNG
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_168.wav|HAI CHÁU NGẠC NHIÊN ĐÓN KHÁCH LẠ SUNG SƯỚNG ÔM CẶP MỚI
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_173.wav|NHƯNG CÔ QUYẾT CHỨNG MINH NGƯỜI MÙ KHÔNG PHẢI VÔ DỤNG
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_175.wav|HỌ ĐÃ TRAO NHAU LỜI HẸN ƯỚC NÊN DUYÊN CHỒNG VỢ
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_177.wav|NẾU THỈNH THOẢNG CÓ VÀI NGÀY NGHỈ NGƯỜI THỤY ĐIỂN THƯỜNG RA ĐẢO CHƠI
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_182.wav|NHỮNG NGƯỜI CÔ LẬP MÌNH CÓ THỂ GẶP PHẢI CHỨNG TRẦM CẢM HOẶC LO LẮNG
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_193.wav|THỰC TẾ VAI TRÒ CỦA BẠN VÀ NGƯỜI PHỎNG VẤN ĐỐI CHIẾU NHAU
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_196.wav|SỰ GIÚP ĐỠ CỦA BÀ LÀ VÔ CÙNG QUÍ BÁU CHO CHÚNG TÔI
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_197.wav|NHÀ TRƯỜNG ĐỘT NGỘT HỦY ĐỀ TÀI KHIẾN TÔI MẤT PHƯƠNG HƯỚNG
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_198.wav|CÁC PHẬT TỬ HƯỞNG ỨNG LỜI KÊU GỌI CỦA THẦY NHƯ THẾ NÀO
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_203.wav|VẬY NHỮNG ĐỐI TƯỢNG NÀY SẼ ĐƯỢC GIẢI QUYẾT NHƯ THẾ NÀO
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_228.wav|XEN KẼ GIỮA NHỮNG MÀN BIỂU DIỄN LÀ NHỮNG PHÚT VUI CHƠI TẬP THỂ
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_233.wav|SÁNG RA THẤY DÂN TÌNH XÚM QUANH CON TÊ GIÁC KHỔNG LỒ ĐÃ CHẾT
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_239.wav|VÀ MỘT ĐIỀU SÂU XA LÀ MÌNH ĐÃ THẬT SỰ YÊU BẠN
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_247.wav|NHIỀU HÔM MƯA GIÓ BÁN Ế GÁNH CHÈ NẶNG TRĨU TRÊN VAI MẸ
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_266.wav|PHÍA DƯỚI VÀ XUNG QUANH KỆ LÀ NƯỚC BẨN LÊNH LÁNG CHẢY QUA
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_267.wav|TÔI ĐỨNG TRƯỚC HAI LỐI RẼ VÀ TÔI CHỌN CON ĐƯỜNG ÍT NGƯỜI ĐI HƠN
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_273.wav|CHÚNG TÔI ĐÃ ĐIỀU TRA NHỮNG TRƯỜNG HỢP CÓ NGHI VẤN GIAN DỐI
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_279.wav|VẬY CHỪNG NÀO MỚI TỚI XIN LỖI NHÂN DÂN TẬP CUỐI
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_298.wav|HÔM NÀO TAN CA SỚM HẠNH ĐƯỢC GIAO NHIỆM VỤ ĐI CHỢ CHO BỮA TỐI
+dataset/vivos/test/waves/VIVOSDEV16/VIVOSDEV16_299.wav|VÀO ĐƯỢC NHÀ ANH ĐẤY SỬA CỬA ĐI NGUY HIỂM ĐẤY
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_011.wav|RỒI MẶC DÙ BIẾT LÀ NGỚ NGẨN TÔI CỨ NÓI RA
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_024.wav|RIÊNG ÔNG NGUYỄN VĂN BA BỊ GỖ ĐÈ DẬP SỌ NÃO CHẾT NGAY TẠI CHỖ
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_032.wav|MỖI NGƯỜI NỞ MỘT NỤ CƯỜI VỚI NHỮNG Ý NGHĨA KHÁC NHAU
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_043.wav|DO VẬY SẼ ẢNH HƯỞNG TỚI VIỆC THU SÓNG VÔ TUYẾN
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_048.wav|PHIM CHIẾU NGUYÊN BẢN TIẾNG PHÁP CÓ PHỤ ĐỀ TIẾNG VIỆT
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_060.wav|BÓNG MÀU XANH LÀ VÙNG TÂM BÃO CÓ THỂ ĐI QUA
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_062.wav|SAU MỘT NGÀY LAO ĐỘNG CĂNG MỆT BẠN ƯU TIÊN CHỌN
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_070.wav|HÀ CŨNG CHẲNG NHỚ MÌNH CÓ NÓI HAY KHÔNG ĐỂ CÃI LẠI ÔNG ẤY
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_071.wav|BẢN THÂN TÔI CŨNG THAM GIA MỘT VAI RẤT NHỎ NỮA
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_077.wav|HÔM SAU MỞ MÁY THẤY CÁI TRUYỆN ĐÃ TỰ HOÀN CHỈNH RỒI
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_090.wav|BÂY GIỜ THÌ ĐÁNG ĐƯỢC KHEN LÀ THÔNG MINH CHỨ HẢ
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_099.wav|CHỊ TÌM NHÀ CHO EM Ở TRỌ NGAY CỔNG TRƯỜNG CHỊ HỌC
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_100.wav|ĐẾN ĐÀ LẠT BẠN PHẢI CHUẨN BỊ ĐÔI CHÂN ĐỂ ĐI BỘ
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_107.wav|HỌ ĐƯỢC BỌN ĐẦU NẬU NHỮNG TAY TRÙM THUÊ VỚI GIÁ RẺ MẠT
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_109.wav|MỘT BÀ SANG TRỌNG ĐẾN GẶP BÁC SĨ TRẺ KHÁM BỆNH BÁC SĨ HỎI
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_114.wav|NHÂN LỰC NGÀNH THIẾT KẾ ĐỒ HỌA ĐẮT GIÁ VÀ KHAN HIẾM
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_120.wav|SAU ĐÓ BẢN THÂN HỌC SINH PHẢI LÀM ĐƠN XIN HỌC BỔNG
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_133.wav|CHỈ CÓ THỰC PHẨM MỚI GIÚP BẠN LÀM ĐƯỢC VIỆC NÀY
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_147.wav|VỚI CÁC DÁT MÀU CÀ PHÊ SỮA KHÔNG CẦN ĐIỀU TRỊ
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_169.wav|HỌ BẢO TÔI GIỐNG NGƯỜI HÀN THÌ TÔI LẠI THẤY HỌ GIỐNG NGƯỜI VIỆT
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_170.wav|VÀ ĐỘI TUYỂN PHÁP ĐANG LÀ ĐỘI CHIẾM ƯU THẾ HƠN SO VỚI THỤY SĨ
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_173.wav|TRÌNH ĐỘ CHUYÊN MÔN CỦA CÔ KHIẾN CÔ QUÁ THỪA TƯ CÁCH
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_181.wav|NHỮNG CÂU HỎI TRÊN SẼ GIÚP BẠN LÀM ĐƯỢC ĐIỀU NÀY
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_189.wav|VẪN CÒN NHƯNG BẠN KHÔNG DÁM CHẮC HỌ CÓ HẠNH PHÚC HAY KHÔNG
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_192.wav|ĐÓ CŨNG LÀ SỰ TIẾP XÚC GẦN GŨI NHẤT CỦA BỌN EM
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_204.wav|EM HÃY TỈNH TÁO MÀ TÌM NHỮNG ĐỊNH HƯỚNG TỐT HƠN CHO TƯƠNG LAI
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_208.wav|NHƯNG CHẲNG CÓ ĐIỂM SẢN XUẤT NÀO DÙNG BẠT PHỦ CHE CHẮN
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_212.wav|CÓ MẤY NGƯỜI ĐỤNG PHẢI NÓ SUÝT NGÃ CHÚI XUỐNG ĐƯỜNG
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_213.wav|ĐOÀN ĐI THUYỀN ĐẾN MỘT KHU LÀNG DÂN TỘC THIỂU SỐ
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_217.wav|THÌ HỢP ĐỒNG THẾ CHẤP NÀY CŨNG KHÔNG CÓ GIÁ TRỊ PHÁP LÝ
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_239.wav|BA TÔI HÃNH DIỆN NÓI CHUYỆN VỚI SỐ HỌC SINH CÙNG LÊN XE ĐÒ
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_241.wav|MỘT ANH TRAI TUẤN ĐANG NGỒI TÙ VÌ TỘI GIẾT NGƯỜI
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_245.wav|ĐƯỢC BÀY TRÊN NHỮNG BỆ THỜ BÊN CẠNH NHỮNG BÓ SEN HUỆ THƠM NỨC
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_254.wav|CÁC BƯỚC SAU ĐÂY SẼ GIÚP BẠN TÌM RA ỨNG CỬ VIÊN THÍCH HỢP
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_268.wav|VÌ CHÚNG CÓ THỂ LÀM RĂNG CỦA BẠN DỄ BỊ Ố VÀNG
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_271.wav|GIẢI NHẤT HUY CHƯƠNG VÀNG THUỘC VỀ NHÀ NHIẾP ẢNH CỦA CỘNG HÒA SÉC
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_285.wav|ĐỂ XIN THỊ THỰC CÔNG TÁC VỀ CƠ BẢN BẠN PHẢI CÓ
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_288.wav|TÔI NẮM BÀN TAY XƯA BA TÔI TỪNG THƯƠNG YÊU ĐAU XÓT CẦM GIỮ
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_297.wav|TRONG DÒNG THÁC NGƯỜI CHỈ NHÌN ĐƯỢC MẮT KÍNH VÀ KHẨU TRANG
+dataset/vivos/test/waves/VIVOSDEV17/VIVOSDEV17_299.wav|KHAI MẠC TRIỂN LÃM QUY MÔ LỚN VỀ TRANH SƠN MÀI VIỆT NAM
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_006.wav|KHÔNG NÊN CHỈ DỰA VÀO BÀI VIẾT CỦA BẠN ĐỂ THUYẾT MINH THÊM
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_012.wav|VÀ GIÁO DỤC CON NGƯỜI TRỞ THÀNH VIỆC LUYỆN TRÍ NHỚ
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_017.wav|TUY NHIÊN HỢP ĐỒNG NÀY CHỈ CÓ GIÁ TRỊ TRONG NHỮNG NGÀY BÌNH THƯỜNG
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_021.wav|VẤN ĐỀ ĐẶT RA Ở ĐÂY LÀ LÀM THẾ NÀO ĐỂ
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_051.wav|NHƯNG NHIỀU DU KHÁCH THẤY THẤT VỌNG KHI LÊN ĐẾN NƠI
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_056.wav|TRÊN MẶT AI CŨNG CÓ KHĂN TAY KHẨU TRANG CHE MIỆNG
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_060.wav|CÀNG NGÀY MÌNH CÀNG NGHĨ NHIỀU VỀ CÔNG VIỆC GIẢNG DẠY
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_064.wav|TẤT NHIÊN HÓA ĐƠN TIỀN NƯỚC CŨNG KÈM LUÔN KHOẢN TIỀN
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_065.wav|CHÚC BẠN ĐỌC CÓ THẬT NHIỀU THỜI GIAN THƯ GIÃN THOẢI MÁI
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_082.wav|HÀNG CHÂN MÀY ĐEN VÀ XẾCH KHÔNG LẪN VÀO ĐÂU ĐƯỢC
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_102.wav|CẢ NGÀY TRỜI KHÔNG NẮNG GIÓ LẠNH NÊN THƯA VẮNG DU KHÁCH
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_114.wav|LÀM ĐƯỢC HẾT KHỐI CÔNG VIỆC ẤY LÀ MỘT NỖ LỰC RẤT LỚN
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_118.wav|NGƯỜI ĂN XIN THƯA BÀ NGÀY THƯỜNG THÌ BÀ CHO GÌ CŨNG ĐƯỢC
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_120.wav|BẠN KHÔNG BAO GIỜ RA NGOÀI MÀ KHÔNG DÙNG KEM LÓT
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_126.wav|VÀI LẦN TRIỂN LÃM TRANH TƯỢNG KHÔNG LỜI NHƯ THẾ HẮN SẼ NHẬN RA
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_155.wav|NGƯỜI ĐÀN ÔNG TRÊN GIƯỜNG THÌNH LÌNH RÊN LÊN MỘT TIẾNG RỒI MỞ MẮT
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_171.wav|TỐI QUA NGƯỜI TA ĐẾN BẮT TÔI GIỮA ĐÊM HÔM KHUYA KHOẮT
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_183.wav|BẢO THẰNG QUYẾT NÓ BẮT CON GÀ SỐNG NÂU MÀ THỊT
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_191.wav|VỊ BÁC SĨ HIỀN LÀNH ẤY CÓ NHỮNG LÝ THUYẾT TRỒNG CÂY THẬT THÚ VỊ
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_192.wav|NHỮNG KIỂU VẾT THƯƠNG MÀ TRẺ THƯỜNG MANG THEO CÓ THỂ LÀ GÌ
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_194.wav|XIN VỚI MẸ CHO ĐI CAI TẬP TRUNG SAU MỘT NĂM BẠN TRỞ VỀ NHÀ
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_195.wav|ĐẦU TIÊN LÀ MỘT TẤM ÂM BẢN SAU ĐÓ MỚI ĐẾN DƯƠNG BẢN
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_198.wav|MẤY NGÀY NAY CHÚNG TÔI ĐÃ TỊCH THU ĐƯỢC KHÁ NHIỀU GÀ CHẾT
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_199.wav|HIỂN NHIÊN KHÔNG AI MUỐN XUẤT HIỆN BÊN CẠNH MỘT NGƯỜI NHƯ VẬY
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_211.wav|HÌNH ẢNH QUẢNG CÁO ĐIẾU THUỐC ĐIỆN TỬ ĐƯỢC CÔNG TY T
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_214.wav|KIỂU HÀI DUNG TỤC VẪN CỨ LỀNH KHÊNH Ở MỘT SỐ TỤ ĐIỂM
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_240.wav|MỜI THAM DỰ CUỘC THI VIẾT NGẮN MỘT GIỜ KHÔNG ĐIỆN
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_250.wav|LẦN ĐẦU TIÊN MỘT NHÂN VIÊN NGƯỜI VIỆT THÁCH THỨC VIỆC TÁC NGHIỆP CỦA TÔI
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_252.wav|LÚC ĐÓ CHỊ TƯỞNG LÀM NHƯ VẬY CŨNG LÀM MÁ VUI
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_257.wav|NGỒI NGHE TIẾNG BIỂN VÀ THƯ THẢ ĐẾM TỪNG GIỌT ĐEN RƠI
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_259.wav|MUỐN CÔNG NHẬN NGAY PHA BÓNG ẤY THÌ PHẢI SỬA LUẬT
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_263.wav|QUẢN LÝ NHÀ NƯỚC VỀ GIAO THÔNG VẬN TẢI ĐÔ THỊ
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_265.wav|SAU ĐÓ HỌ LÂN LA SANG CHƠI RỒI ĐÁNH CẮP ĐỨA BÉ
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_272.wav|ANH NHƠN BẢO TÔI VỀ TRƯỚC CÒN ANH ĐI THEO CÔ GÁI
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_273.wav|TRƯỚC HẾT BẠN CẦN TÌM HIỂU THÔNG TIN QUY HOẠCH KHU ĐẤT
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_279.wav|NHỮNG SẢN PHẨM GIÚP NỞ NGỰC VÀ TAN MỠ CẤP TỐC ẢNH YẾN TRINH
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_280.wav|PHÓNG SỰ ẢNH NHỮNG MÀN BIỂU DIỄN NGOẠN MỤC TRÊN BẦU TRỜI
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_282.wav|NHƯNG CUỐI CÙNG CHẲNG AI CHỊU NỔI CÁI TÍNH HAM VUI CỦA TÔI
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_293.wav|KIỂM TRA TRUNG TÂM NÀY CÔNG AN ĐÃ BẮT GIỮ TỚI
+dataset/vivos/test/waves/VIVOSDEV18/VIVOSDEV18_297.wav|HOA PHƯỢNG VẪN NỞ ĐỎ TRỜI TRONG TIẾNG VE XAO XÁC KHÔN NGUÔI
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_008.wav|TỪ ĐÓ LẠI SA ĐÀ VÀO NHIỀU NGHỊCH CẢNH ĐÁNG TIẾC
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_011.wav|MONG ANH HÃY HIỂU CHO EM EM THƯƠNG NHỚ VÀ YÊU ANH NHIỀU
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_020.wav|LÊN CÁC CUỘC HẸN PHỎNG VẤN VÀ THỰC HIỆN PHỎNG VẤN
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_022.wav|XÉT Ở KHÍA CẠNH NÀY THÌ ĐÚNG LÀ MẤT BÒ MỚI LO LÀM CHUỒNG
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_024.wav|TUY NHIÊN TÔI NGHĨ CẬU TA XỨNG ĐÁNG VỚI CHỨC VÔ ĐỊCH
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_027.wav|NHỮNG BIẾN DẠNG NÀY THƯỜNG THẤY RÕ KHI DƯƠNG VẬT CƯƠNG
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_029.wav|GIỎI GÌ BÁC MÌNH ĐẺ RA KHÔNG NUÔI THÌ AI NUÔI
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_030.wav|PHÙ SA BỒI ĐẮP RUỘNG VƯỜN CHO XÓM LÀNG TRÙ PHÚ
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_045.wav|ÔNG NÓI CHÚNG TÔI HI VỌNG SẼ CÓ NHỮNG TIN TỨC TỐT LÀNH
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_056.wav|VỀ NGUYÊN TẮC VÀO HỌC LÀ SINH VIÊN PHẢI ĐÓNG HỌC PHÍ
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_061.wav|ĐỂ NHỮNG KHÓ KHĂN VÀ MÂU THUẪN DẦN DẦN SẼ BỊ ĐẨY LUI
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_064.wav|CHÓNG MẶT CÒN CÓ THỂ DO TÌNH TRẠNG RỐI LOẠN NHỊP TIM NẶNG GÂY RA
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_071.wav|TRONG NGẮN HẠN THỊ TRƯỜNG VẬN HÀNH NHƯ MỘT CỖ MÁY BẦU CỬ
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_072.wav|CHƯƠNG TRÌNH HỌC BỔNG THANH NIÊN CHÂU Á CỦA NHẬT BẢN
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_083.wav|NHƯNG RỒI CÁI TÌNH VỚI BÀ CON CỨ NẮM NÍU KHÔNG DỨT RA ĐƯỢC
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_091.wav|SỐ ĐƠN VỊ THAM GIA HỘI CHỢ VIỆC LÀM TĂNG ĐÁNG KỂ QUA CÁC NĂM
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_094.wav|TRANG VIẾT CỦA HỌ HƠN HẲN THỜI TUỔI TRẺ CỦA TÔI
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_111.wav|KHUYẾT ĐIỂM LỚN CỦA CHÚNG TA LÀ CHƯA CÓ DÂN CHỦ THẬT SỰ
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_133.wav|EM CÓ SUY NGHĨ THÊM VỀ VIỆC THAM DỰ HỘI CHỢ KHOA HỌC KHÔNG
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_142.wav|HỌ CHỈ THÍCH NHỮNG MÔN GÌ MẠNH BẠO BẠO LỰC VÀ KIẾM RA TIỀN THÔI
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_158.wav|NHỮNG NGƯỜI TRẺ ẤY THẬT ĐÁNG PHÊ PHÁN ĐÁNG LÊN ÁN
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_161.wav|THÔNG THƯỜNG ÁN KỶ LUẬT NẾU CÓ THƯỜNG BAN HÀNH VÀO CUỐI TUẦN
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_163.wav|ĐIỀU LẠ LÀ TÔI VẪN KHÔNG TỪ BỎ Ý ĐỊNH TRỞ THÀNH TU SĨ
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_167.wav|CÁC QUI ĐỊNH CỦA PHÁP LUẬT KHÔNG THỂ ĐƯỢC BAN HÀNH THEO KIỂU ĐÁNH LÉN
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_169.wav|NHANH QUÁ ĐÃ LÀ LẦN THỨ BA XA NHÀ RỒI ĐẤY
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_179.wav|ĐỖ ĐỨC THUẦN NGUYÊN KẾ TOÁN TRƯỞNG CÔNG TY TIẾP THỊ ĐẦU TƯ
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_196.wav|NGƯỜI ANH SAU ĐÓ ĐƯỢC PHÉP THẦU XÂY KÊNH NÀY NHƯNG KHÔNG TIẾN HÀNH
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_218.wav|NÓI CÁCH KHÁC CÁI ĐƯỢC CỦA CHÂU Á LÀ CÁI MẤT CỦA CHÂU PHI
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_222.wav|MẮT TỰ NHIÊN HOA LÊN TRÍ CHỤP MỘT CÁI LY QUẬT MẠNH XUỐNG SÀN
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_227.wav|TỪ ĐẤY ÔNG CÀNG THÔNG CẢM SÂU SẮC TÂM TRẠNG CỦA NGUYỄN THIẾP
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_244.wav|EM HÃY TÌM CÁCH TIẾP CẬN ĐỂ BÀY TỎ VỚI MẸ
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_245.wav|LÚC ĐÓ NẠN KẸT XE CHẮC SẼ KINH KHỦNG GẤP NHIỀU LẦN HÔM NAY
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_246.wav|VỢ LỠ CÓ TẬT THẾ ANH NÊN THAY ĐỔI CÁCH TIẾP CẬN
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_249.wav|ĐÂY ĐƯỢC XEM LÀ VAI DIỄN THÀNH CÔNG NHẤT CỦA VƯƠNG TỪ TRƯỚC ĐẾN NAY
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_257.wav|NHƯNG NẾU CHỈ NÓI CÁI GIỎI KHÔNG THÔI THÌ THẬT CHƯA ĐỦ VỀ CHÚ TƯ
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_259.wav|TÍCH CỰC HƠN VỚI VẤN ĐỀ LIÊN QUAN ĐẾN KIỀU BÀO
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_262.wav|ĐỂ RỒI CHÚNG TA KHAO KHÁT MÃI TRONG VÒNG LUÂN HỒI NHÂN GIAN
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_266.wav|VẤN ĐỀ NẢY SINH TỪ CÁI CÂU HỎI DINH CU ẤY
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_274.wav|CHỊ NÊN ĐI KHÁM BÁC SĨ VÀ CHỌN PHƯƠNG PHÁP NGỪA THAI HIỆU QUẢ
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_279.wav|NỢ MỘT CUỘC CHIẾN CHỐNG THAM NHŨNG VẪN CHƯA VÀO ĐÂU

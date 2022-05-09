@@ -2,6 +2,7 @@
 dataset/
 wav2vec2-pretrained-demo/
 saved/
+huggingface-hub/
 *.gz
 *.tar
 *.out
