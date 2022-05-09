@@ -39,7 +39,7 @@ path = "base.base_dataset.BaseDataset"
     path = "/data1/speech/khanhld/ASR-Wa2vec-Finetune/dataset/metadata/train.txt"
     preload_data = false
     delimiter = "|"
-    # Only train audio files that have min_duration <= duration <= max_duration
+    # Only train audio files that have duration in range [min_duration, max_duration]
     # min_duration = 0.5 # default is -np.inf
     # max_duration = 20 # default is np.inf
     nb_workers = 16
