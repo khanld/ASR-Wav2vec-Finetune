@@ -1,5 +1,5 @@
 # Vietnamese Speech Recognition
-### Cách mà mình đã train bộ Tiếng Việt (Optional vì lần đầu làm nên còn nhiều pha xử lý không được chuẩn)
+### Cách mà mình đã train bộ Tiếng Việt (Optional - Vì lần đầu làm nên còn nhiều xử lý không được chuẩn)
 - chars_to_ignore: ```'[^\ a-z0-9A-Z_àáãạảăắằẳẵặâấầẩẫậèéẹẻẽêềếểễệđìíĩỉịòóõọỏôốồổỗộơớờởỡợùúũụủưứừửữựỳỵỷỹýÀÁÃẠẢĂẮẰẲẴẶÂẤẦẨẪẬÈÉẸẺẼÊỀẾỂỄỆĐÌÍĨỈỊÒÓÕỌỎÔỐỒỔỖỘƠỚỜỞỠỢÙÚŨỤỦƯỨỪỬỮỰỲỴỶỸÝ]'```
 - Bộ FOSD và VLSP mình xử lý như sau:
 	- FOSD: Còn chứa các ký tự số, cần được chuyển về dạng chữ. Mình có sử dụng bộ converter [vietnam_number](https://pypi.org/project/vietnam-number/) nhưng sẽ có một vài hạn chế như: ̣94 có thể sẽ bị chuyển thành chín tư dù nngười đọc là chín bốn. Ngoài ra quan sát dữ liệu thì mình thấy có 1 vài độ đo bị viết tắt dạng như 4m, 5l,... các ký tự này mình xóa khi train (các bạn có thể giữ nguyên hoặc thay bằng ```<unk>```). 
