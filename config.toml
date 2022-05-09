@@ -44,13 +44,14 @@ path = "base.base_dataset.BaseDataset"
     nb_workers = 16
     
     [train_dataset.dataloader]
-        batch_size = 8
-        num_workers = 16
-        pin_memory = true 
-        drop_last = true
+    batch_size = 8
+    num_workers = 16
+    pin_memory = true 
+    drop_last = true
+    
     [train_dataset.sampler]
-        shuffle = true 
-        drop_last = true
+    shuffle = true 
+    drop_last = true
 
     
 [val_dataset]
@@ -62,12 +63,12 @@ path = "base.base_dataset.BaseDataset"
     nb_workers = 16
 
     [val_dataset.dataloader]
-        batch_size =  1 # Set validation batch_size > 1 may yield an incorrect score due to padding (but faster :D) - https://github.com/pytorch/fairseq/issues/3227 
-        num_workers = 4
+    batch_size =  1 # Set validation batch_size > 1 may yield an incorrect score due to padding (but faster :D) - https://github.com/pytorch/fairseq/issues/3227 
+    num_workers = 4
 
     [val_dataset.sampler]
-        shuffle = false 
-        drop_last = false
+    shuffle = false 
+    drop_last = false
 
  
 [optimizer]
