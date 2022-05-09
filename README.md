@@ -1,18 +1,12 @@
 # FINETUNE WAV2VEC 2.0 FOR SPEECH RECOGNITION
 ### Table of contents
-1. [Available Features](#feature)
-2. [Documentation](#documentation)
+1. [Documentation](#documentation)
+2. [Available Features](#feature)
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Logs and Visualization](#logs)
 6. [Vietnamese](#vietnamese)
 
-<a name = "feature" ></a>
-### Available Features
-- [x] Multi-GPU training
-- [x] Automatic Mix Precision
-- [ ] Push to Huggingface Hub
-- [ ] Continue to run at specific time step 
 
 <a name = "documentation" ></a>
 ### Documentation
@@ -23,6 +17,12 @@ All documents related to this repo can be found here:
 - [Tutorial](https://huggingface.co/blog/fine-tune-wav2vec2-english)
 - [Code reference](https://github.com/huggingface/transformers/blob/main/examples/pytorch/speech-recognition/run_speech_recognition_ctc.py)
 
+<a name = "feature" ></a>
+### Available Features
+- [x] Multi-GPU training
+- [x] Automatic Mix Precision
+- [ ] Push to Huggingface Hub
+- [ ] Continue to run at specific time step 
 
 <a name = "installation" ></a>
 ### Installation
