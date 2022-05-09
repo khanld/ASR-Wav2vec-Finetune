@@ -14,8 +14,6 @@ from utils.feature import load_wav
 from tqdm import tqdm
 from torch.utils.data import Dataset
 from dataloader.dataset import Dataset as InstanceDataset
-from vietnam_number import n2w
-
 
 
 class BaseDataset(Dataset):
@@ -24,7 +22,7 @@ class BaseDataset(Dataset):
         self.dist = dist
         self.sr = sr
         # Special characters to remove in your data 
-        self.chars_to_ignore ='[^\ a-z0-9A-Z_àáãạảăắằẳẵặâấầẩẫậèéẹẻẽêềếểễệđìíĩỉịòóõọỏôốồổỗộơớờởỡợùúũụủưứừửữựỳỵỷỹýÀÁÃẠẢĂẮẰẲẴẶÂẤẦẨẪẬÈÉẸẺẼÊỀẾỂỄỆĐÌÍĨỈỊÒÓÕỌỎÔỐỒỔỖỘƠỚỜỞỠỢÙÚŨỤỦƯỨỪỬỮỰỲỴỶỸÝ]'
+        self.chars_to_ignore = r'[,?.!\-;:"“%\'�]'
         self.transform = transform
         self.preload_data = preload_data
         self.min_duration = min_duration
@@ -51,13 +49,8 @@ class BaseDataset(Dataset):
                 print(f"\n*****Preloading {len(self.df)} data*****")
             self.df['wav'] = self.df['path'].parallel_apply(lambda filepath: load_wav(filepath, sr = self.sr))
         
-    def has_numbers(self, text) -> bool:
-        return any(char.isdigit() for char in text)
-        
     def remove_special_characters(self, transcript) -> str:
         transcript = re.sub(self.chars_to_ignore, '', transcript).lower()
-        transcript = transcript.split(' ')
-        transcript = ' '.join(n2w(text.strip()) if text.strip().isnumeric() else '' if self.has_numbers(text.strip()) else text.strip() for text in transcript)
         return transcript
 
     def get_vocab_dict(self) -> Dict[int, str]:
