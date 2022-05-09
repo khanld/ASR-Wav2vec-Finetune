@@ -34,7 +34,7 @@ pip install -r requirements.txt
 1. Prepare your dataset
     - Your dataset can be in <b>.txt</b> or <b>.csv</b> format.
     - <b>path</b> and <b>transcript</b> columns are compulsory. The <b>path</b> column contains the paths to your stored audio files, depending on your dataset location, it can be either absolute paths or relative paths. The <b>transcript</b> column contains the corresponding transcripts to the audio paths. 
-    - Check out our [example files](dataset) for more information.
+    - Check out our [example files](data_examples/) for more information.
     * <b>Important:</b> Ignoring these following notes is still OK but can hurt the performance.
         - <strong>Make sure that your transcript contains words only</strong>. Numbers should be converted into words and special characters such as ```r'[,?.!\-;:"“%\'�]'``` are removed by default,  but you can change them in the [base_dataset.py](base/base_dataset.py) if your transcript is not clean enough. 
         - If your transcript contains special tokens like ```bos_token, eos_token, unk_token (eg: <unk>, [unk],...) or pad_token (eg: <pad>, [pad],...))```. Please specify it in the [config.toml](config.toml) otherwise the Tokenizer can't recognize them.
