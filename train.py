@@ -65,18 +65,18 @@ def main(rank, world_size, config, resume, preload):
     config["train_dataset"]["args"]["dist"] = dist
     config["val_dataset"]["args"]["dist"] = dist
 
-    config["train_dataset"]["args"]["special_token"] = config["special_token"]
-    config["val_dataset"]["args"]["special_token"] = config["special_token"]
+    config["train_dataset"]["args"]["special_tokens"] = config["special_tokens"]
+    config["val_dataset"]["args"]["special_tokens"] = config["special_tokens"]
 
     train_base_ds = initialize_module(config["train_dataset"]["path"], args=config["train_dataset"]["args"])
-
+    vocab_dict = train_base_ds.get_vocab_dict()
+    with open('vocab.json', 'w+') as f:
+        json.dump(vocab_dict, f)
+        f.close()
+    dist.barrier()
     # Create processor
     tokenizer = Wav2Vec2CTCTokenizer("vocab.json", 
-                                    # bos_token = config["meta"]["bos_token"],
-                                    # eos_token = config["meta"]["eos_token"],
-                                    # unk_token=config["meta"]["unk_token"], 
-                                    # pad_token=config["meta"]["pad_token"], 
-                                    **config["special_token"],
+                                    **config["special_tokens"],
                                     word_delimiter_token="|")
     feature_extractor = Wav2Vec2FeatureExtractor.from_pretrained("facebook/wav2vec2-base")
     processor = Wav2Vec2Processor(feature_extractor=feature_extractor, tokenizer=tokenizer)

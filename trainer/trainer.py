@@ -1,3 +1,4 @@
+
 from ctypes import Union
 from typing import Any
 import torch
@@ -123,7 +124,6 @@ class Trainer(BaseTrainer):
                 else:
                     self.scheduler.step()
                 
-
                 # Logging
                 # average over devices in ddp
                 if self.n_gpus > 1:

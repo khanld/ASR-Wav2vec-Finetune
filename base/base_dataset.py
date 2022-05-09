@@ -17,7 +17,7 @@ from dataloader.dataset import Dataset as InstanceDataset
 
 
 class BaseDataset(Dataset):
-    def __init__(self, rank, dist, path, sr, delimiter, special_token, min_duration = -np.inf, max_duration = np.inf, preload_data = False, transform = None, nb_workers = 4):
+    def __init__(self, rank, dist, path, sr, delimiter, special_tokens, min_duration = -np.inf, max_duration = np.inf, preload_data = False, transform = None, nb_workers = 4):
         self.rank = rank
         self.dist = dist
         self.sr = sr
@@ -28,7 +28,7 @@ class BaseDataset(Dataset):
         self.min_duration = min_duration
         self.max_duration = max_duration
         self.df = self.load_data(path, delimiter)
-        self.special_token = special_token
+        self.special_tokens = special_tokens
         pandarallel.initialize(progress_bar=True, nb_workers = nb_workers)
 
         if min_duration != -np.inf or max_duration != np.inf:
@@ -56,14 +56,18 @@ class BaseDataset(Dataset):
     def get_vocab_dict(self) -> Dict[int, str]:
         # Read https://huggingface.co/blog/fine-tune-wav2vec2-english for more information
         all_text = " ".join(list(self.df["transcript"]))
+        #  remove special tokens in all_text, otherwise it will tokenize the special tokens' characters. Eg: <unk> -> '<', 'u', 'n', 'k', '>'
+        for v in self.special_tokens.values():
+            all_text = all_text.replace(v, '')
         vocab_list = list(set(all_text))
         vocab_list.sort()
         vocab_dict = {v: k for k, v in enumerate(vocab_list)}
 
         vocab_dict["|"] = vocab_dict[" "]
         del vocab_dict[" "]
-        for v in self.special_token.values():
+        for v in self.special_tokens.values():
             vocab_dict[v] = len(vocab_dict)
+        print(vocab_dict)
         return vocab_dict
 
     def preload_dataset(self, paths, sr) -> List:

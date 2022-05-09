@@ -80,8 +80,6 @@ class BaseTrainer:
             self.writer = TensorboardWriter(self.log_dir)
             self._print_networks([self.model])
             self._count_parameters()
-        
-        exit(0)
 
     def _count_parameters(self) -> None:
         print("Number of trainable params: ", sum(p.numel() for p in self.model.parameters() if p.requires_grad)/1e6)
@@ -128,9 +126,9 @@ class BaseTrainer:
         map_location = {'cuda:%d' % 0: 'cuda:%d' % self.rank}
         checkpoint = torch.load(model_path, map_location=map_location)
         if isinstance(self.model, torch.nn.parallel.DistributedDataParallel):
-            self.model.module.load_state_dict(checkpoint["model"], strict = True)
+            self.model.module.load_state_dict(checkpoint["model"], strict = False)
         else:
-            self.model.load_state_dict(checkpoint["model"], strict = True)
+            self.model.load_state_dict(checkpoint["model"], strict = False)
 
         if self.rank == 0:
             print(f"Model preloaded successfully from {model_path}.")

@@ -1,7 +1,7 @@
 [meta]
-name = "test" 
+name = "asr_vi_450h" 
 seed = 42
-epochs = 20
+epochs = 8
 save_dir = "saved/" 
 gradient_accumulation_steps = 2
 use_amp = false # Whether to use Automatic Mixed Precision for speeding up - https://pytorch.org/docs/stable/amp.html
@@ -9,7 +9,7 @@ device_ids = "4,5" # set the gpu devices on which you want to train your model
 sr = 16000
 max_clip_grad_norm = 1.0 # torch.nn.utils.clip_grad_norm_
 
-[special_token]
+[special_tokens]
 bos_token = "<bos>"
 eos_token = "<eos>"
 unk_token = "<unk>"
@@ -36,12 +36,12 @@ blocking = false # whether to wait until the model is uploaded (this will be ver
 [train_dataset]
 path = "base.base_dataset.BaseDataset"
     [train_dataset.args]
-    path = "/data1/speech/khanhld/ASR-Wa2vec-Finetune/dataset/metadata/train.txt"
+    path = "//data1/speech/khanhld/ASR-Wa2vec-Finetune/dataset/vi_450h/train/train_unk.txt"
     preload_data = false
     delimiter = "|"
     # Only train audio files that have duration in range [min_duration, max_duration]
-    # min_duration = 0.5 # default is -np.inf
-    # max_duration = 20 # default is np.inf
+    min_duration = 0.5 # default is -np.inf
+    max_duration = 20 # default is np.inf
     nb_workers = 16
     
     [train_dataset.dataloader]
@@ -58,7 +58,7 @@ path = "base.base_dataset.BaseDataset"
 [val_dataset]
 path = "base.base_dataset.BaseDataset"
     [val_dataset.args]
-    path = "/data1/speech/khanhld/ASR-Wa2vec-Finetune/dataset/metadata/common_voice_test.txt"
+    path = "/data1/speech/khanhld/ASR-Wa2vec-Finetune/dataset/vi_450h/test/test.txt"
     preload_data = false
     delimiter = "|"
     nb_workers = 16
@@ -73,11 +73,11 @@ path = "base.base_dataset.BaseDataset"
 
  
 [optimizer]
-lr = 5e-6
+lr = 8e-6
 
 
 [scheduler] 
-max_lr = 5e-5
+max_lr = 1e-5
     
 
 [trainer]
