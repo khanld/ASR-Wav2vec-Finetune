@@ -180,10 +180,10 @@ class Trainer(BaseTrainer):
                     outputs = self.model(**batch)
 
             val_logs["loss"] += outputs.loss / len(self.val_dl)
-            val_logs["wer"] += torch.tensor(self.compute_metric(outputs.logits, batch['labels']))
+            val_logs["wer"] += torch.tensor(self.compute_metric(outputs.logits, batch['labels'])) / len(self.val_dl)
 
         # average over devices in ddp
         if self.n_gpus > 1:
-            val_logs = {k: self.gather(v).sum() for k, v in val_logs.items()}
+            val_logs = {k: self.gather(v).mean() for k, v in val_logs.items()}
         val_logs = {k: v.item() if hasattr(v, 'item') else v for k, v in val_logs.items()}
         return val_logs
