@@ -15,7 +15,6 @@ Suppose you need a simple way to fine-tune the Wav2vec 2.0 model for the task of
 All documents related to this repo can be found here:
 - [Wav2vec2ForCTC](https://huggingface.co/docs/transformers/model_doc/wav2vec2#transformers.Wav2Vec2ForCTC)
 - [Tutorial](https://huggingface.co/blog/fine-tune-wav2vec2-english)
-- [Code reference](https://github.com/huggingface/transformers/blob/main/examples/pytorch/speech-recognition/run_speech_recognition_ctc.py)
 
 <a name = "feature" ></a>
 ### Available Features
