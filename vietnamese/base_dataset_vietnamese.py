@@ -23,7 +23,7 @@ class BaseDataset(Dataset):
         self.rank = rank
         self.dist = dist
         self.sr = sr
-        self.chars_to_ignore = chars_to_ignore
+        self.chars_to_ignore = '[^\ a-zA-Z_àáãạảăắằẳẵặâấầẩẫậèéẹẻẽêềếểễệđìíĩỉịòóõọỏôốồổỗộơớờởỡợùúũụủưứừửữựỳỵỷỹýÀÁÃẠẢĂẮẰẲẴẶÂẤẦẨẪẬÈÉẸẺẼÊỀẾỂỄỆĐÌÍĨỈỊÒÓÕỌỎÔỐỒỔỖỘƠỚỜỞỠỢÙÚŨỤỦƯỨỪỬỮỰỲỴỶỸÝ]'
         self.transform = transform
         self.preload_data = preload_data
         self.min_duration = min_duration
