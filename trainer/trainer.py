@@ -132,7 +132,7 @@ class Trainer(BaseTrainer):
 
                 train_logs = {
                     "loss": loss * self.gradient_accumulation_steps,
-                    "lr": self.scheduler.get_last_lr()[0],
+                    "lr": self.optimizer.param_groups[0]['lr'],
                     "grad_norm": grad_norm,
                     "wer": wer
                 }

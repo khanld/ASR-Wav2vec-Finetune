@@ -214,7 +214,6 @@ class BaseTrainer:
             else:
                 self.model.save_pretrained(self.config["huggingface"]["args"]["local_dir"])
             
-            torch.save(self.model, os.path.join(self.config["huggingface"]["args"]["local_dir"], 'model.pt'))
             if self.config["huggingface"]["push_to_hub"] and self.config["huggingface"]["push_every_validation_step"]:
                 self._push_to_hub("update_best_model", True)
 

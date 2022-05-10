@@ -129,7 +129,6 @@ def main(rank, world_size, config, resume, preload):
 
     # Set up metric, scheduler, optmizer
     compute_metric = Metric(processor)
-
     optimizer = torch.optim.AdamW(
         params = model.parameters(),
         lr = config["optimizer"]["lr"]
