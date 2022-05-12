@@ -76,7 +76,7 @@ tensorboard --logdir ~/saved/<name> --port 8080
   author = {Duy Khanh Le},
   doi = {10.5281/zenodo.6540979},
   month = {May},
-  title = {Vietnamese Automatic Speech Recognition Using Wav2vec 2.0},
+  title = {Finetune Wav2vec 2.0 For Speech Recognition On Vietnamese Dataset},
   url = {https://github.com/khanld/ASR-Wa2vec-Finetune},
   year = {2022}
 }
