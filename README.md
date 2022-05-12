@@ -46,7 +46,7 @@ pip install -r requirements.txt
         ```
         python train.py -c config.toml
         ```
-    - Continue to train from resume:
+    - Resume:
         ```
         python train.py -c config.toml -r
         ```
@@ -68,5 +68,5 @@ tensorboard --logdir ~/saved/<name> --port 8080
 ![tensorboard](examples/images/tensorboard.jpeg)
 
 ### Vietnamese
-Please take a look [here](examples/vietnamese) for Vietnamese people who want to train on public datasets like  [VIOS](https://huggingface.co/datasets/vivos), [COMMON VOICE](https://huggingface.co/datasets/mozilla-foundation/common_voice_8_0), [FOSD](https://data.mendeley.com/datasets/k9sxg2twv4/4), and [VLSP](https://vlsp.org.vn/vlsp2020/eval/asr).
+Please take a look [here](examples/vietnamese-tutorial) for Vietnamese people who want to train on public datasets like  [VIOS](https://huggingface.co/datasets/vivos), [COMMON VOICE](https://huggingface.co/datasets/mozilla-foundation/common_voice_8_0), [FOSD](https://data.mendeley.com/datasets/k9sxg2twv4/4), and [VLSP](https://vlsp.org.vn/vlsp2020/eval/asr).
 
