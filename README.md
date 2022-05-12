@@ -72,7 +72,7 @@ tensorboard --logdir ~/saved/<name> --port 8080
 ### Citation 
 [![DOI](https://zenodo.org/badge/485623832.svg)](https://github.com/khanld/ASR-Wa2vec-Finetune)
 ```text
-@misc{Duy_Khanh_Le_Vietnamese_Wav2vec2_2022,
+@misc{khanhld_wav2vec_asr,
   author = {Duy Khanh Le},
   doi = {10.5281/zenodo.6540979},
   month = {May},
