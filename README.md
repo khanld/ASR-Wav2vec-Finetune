@@ -7,7 +7,8 @@
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Logs and Visualization](#logs)
-6. [Vietnamese](#vietnamese)
+6. [Citation](#citation)
+7. [Vietnamese](#vietnamese)
 
 
 <a name = "documentation" ></a>
@@ -67,6 +68,21 @@ tensorboard --logdir ~/saved/<name> --port 8080
 ```
 ![tensorboard](examples/images/tensorboard.jpeg)
 
+<a name = "citation" ></a>
+### Citation 
+[![DOI](https://zenodo.org/badge/485623832.svg)](https://zenodo.org/badge/latestdoi/485623832)
+```text
+@software{khanhld_2022_6540979,
+  author       = {khanhld},
+  title        = {khanld/ASR-Wa2vec-Finetune: v.0.1.0-alpha},
+  month        = may,
+  year         = 2022,
+  publisher    = {Zenodo},
+  version      = {v.0.1.0-alpha},
+  doi          = {10.5281/zenodo.6540979},
+  url          = {https://doi.org/10.5281/zenodo.6540979}
+}
+```
+<a name = "vietnamese" ></a>
 ### Vietnamese
 Please take a look [here](examples/vietnamese-tutorial) for Vietnamese people who want to train on public datasets like  [VIOS](https://huggingface.co/datasets/vivos), [COMMON VOICE](https://huggingface.co/datasets/mozilla-foundation/common_voice_8_0), [FOSD](https://data.mendeley.com/datasets/k9sxg2twv4/4), and [VLSP](https://vlsp.org.vn/vlsp2020/eval/asr).
-
