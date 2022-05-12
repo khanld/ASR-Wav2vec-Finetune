@@ -72,15 +72,13 @@ tensorboard --logdir ~/saved/<name> --port 8080
 ### Citation 
 [![DOI](https://zenodo.org/badge/485623832.svg)](https://zenodo.org/badge/latestdoi/485623832)
 ```text
-@software{khanhld_2022_6540979,
-  author       = {khanhld},
-  title        = {khanld/ASR-Wa2vec-Finetune: v.0.1.0-alpha},
-  month        = may,
-  year         = 2022,
-  publisher    = {Zenodo},
-  version      = {v.0.1.0-alpha},
-  doi          = {10.5281/zenodo.6540979},
-  url          = {https://doi.org/10.5281/zenodo.6540979}
+@misc{Duy_Khanh_Le_Vietnamese_Wav2vec2_2022,
+  author = {Duy Khanh Le},
+  doi = {10.5281/zenodo.6540979},
+  month = {May},
+  title = {{Vietnamese Automatic Speech Recognition Using Wav2vec 2.0}},
+  url = {https://github.com/khanld/ASR-Wa2vec-Finetune},
+  year = {2022}
 }
 ```
 <a name = "vietnamese" ></a>
