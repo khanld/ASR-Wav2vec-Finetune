@@ -2,15 +2,15 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 cff-version: 1.2.0
 title: >-
-  Finetune Wav2vec 2.0 For Vietnamese Speech
+  Finetune Wav2vec 2.0 For Speech
   Recognition
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
 authors:
-  - given-names: Khanh
-    family-names: Le
+  - given-names: Le
+    family-names: Khanh
     name-particle: Duy
     email: khanhld218@uef.edu.vn
 identifiers:
