@@ -122,8 +122,9 @@ def main(rank, world_size, config, resume, preload):
         vocab_size=len(processor.tokenizer),
         gradient_checkpointing=False
     )
-   
-    # model.freeze_feature_encoder()
+    
+    # freeze the wav2vec feature encoder, if you have small dataset, this helps a lot
+    model.freeze_feature_encoder()
     # DDP for multi-processing
     model = DDP(model.to(rank), device_ids=[rank], find_unused_parameters=True)
 
