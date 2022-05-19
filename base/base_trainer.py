@@ -78,26 +78,17 @@ class BaseTrainer:
 
         if self.rank == 0:
             self.writer = TensorboardWriter(self.log_dir)
-            self._print_networks([self.model])
             self._count_parameters()
+            self._count_trainable_parameters()
 
-    def _count_parameters(self) -> None:
+    def _count_trainable_parameters(self) -> None:
         print("Number of trainable params: ", sum(p.numel() for p in self.model.parameters() if p.requires_grad)/1e6)
 
-    @staticmethod
-    def _print_networks(models: list) -> None:
-        print(f"This project contains {len(models)} models, the number of the parameters is: ")
-
-        params_of_all_networks = 0
-        for idx, model in enumerate(models, start=1):
-            params_of_network = 0
-            for param in model.parameters():
-                params_of_network += param.numel()
-
-            print(f"\tNetwork {idx}: {params_of_network / 1e6} million.")
-            params_of_all_networks += params_of_network
-
-        print(f"The amount of parameters in the project is {params_of_all_networks / 1e6} million.")
+    def _count_parameters(self) -> None:
+        params_of_network = 0
+        for param in self.model.parameters():
+            params_of_network += param.numel()
+        print(f"The amount of parameters in the project is {params_of_network / 1e6} million.")
 
     def _push_to_hub(self, commit_message : str = "End of training") -> None:
         """
