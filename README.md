@@ -68,7 +68,7 @@ optional arguments:
   -f TEST_FILEPATH, --test_filepath TEST_FILEPATH
                         It can be either the path to your audio file (.wav, .mp3) or a text file (.txt) contains list of audio filepaths.
   -s HUGGINGFACE_FOLDER, --huggingface_folder HUGGINGFACE_FOLDER
-                        The folder where you stored the huggingface files. Check the [huggingface.args] in config.toml. Default value: "huggingface-
+                        The folder where you stored the huggingface files. Check the <local_dir> argument of [huggingface.args] in config.toml. Default value: "huggingface-
                         hub".
   -m MODEL_PATH, --model_path MODEL_PATH
                         Path to the model (.tar file) in saved/<project_name>/checkpoints. If not provided, default uses the pytorch_model.bin in the

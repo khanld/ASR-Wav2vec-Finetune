@@ -58,9 +58,9 @@ class Inferencer:
 if __name__ == '__main__':
     args = argparse.ArgumentParser(description='ASR INFERENCE ARGS')
     args.add_argument('-f', '--test_filepath', type=str, required = True,
-                      help='It can be either the path to your audio file (.wav, .mp3) or a text file (.txt) contains list of audio filepaths.')
+                      help='It can be either the path to your audio file (.wav, .mp3) or a text file (.txt) containing a list of audio file paths.')
     args.add_argument('-s', '--huggingface_folder', type=str, default = 'huggingface-hub',
-                      help='The folder where you stored the huggingface files. Check the [huggingface.args] in config.toml. Default value: "huggingface-hub".')
+                      help='The folder where you stored the huggingface files. Check the <local_dir> argument of [huggingface.args] in config.toml. Default value: "huggingface-hub".')
     args.add_argument('-m', '--model_path', type=str, default = None,
                       help='Path to the model (.tar file) in saved/<project_name>/checkpoints. If not provided, default uses the pytorch_model.bin in the <HUGGINGFACE_FOLDER>')
     args.add_argument('-d', '--device_id', type=int, default = 0,
