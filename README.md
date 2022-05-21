@@ -87,7 +87,7 @@ python inference.py \
 >>> transcript: Hello World 
 ```
 
-Transcribe a list of audio files. Check the input file [test.txt](examples/inference_data_examples/test.txt) and the output file [transcript_test.txt](examples/inference_data_examples/transcript_test.txt) (stored in the same folder as the input file):
+Transcribe a list of audio files. Check the input file [test.txt](examples/inference_data_examples/test.txt) and the output file [transcript_test.txt](examples/inference_data_examples/transcript_test.txt) (which will be stored in the same folder as the input file):
 ```cmd
 python inference.py \
     -f path/to/your/audio/test.txt \
