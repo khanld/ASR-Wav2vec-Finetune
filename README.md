@@ -82,7 +82,7 @@ optional arguments:
 Transcribe an audio file:
 ```cmd
 python inference.py \
-    -f path/to/your/audio/file.wav (.mp3)
+    -f path/to/your/audio/file.wav(.mp3) \
     -s huggingface-hub
 
 # output example:
