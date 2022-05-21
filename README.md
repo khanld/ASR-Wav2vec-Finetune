@@ -99,11 +99,11 @@ python inference.py \
 ### Logs and Visualization
 The logs during the training will be stored, and you can visualize it using TensorBoard by running this command:
 ```
-# specify the <name> in config.json
-tensorboard --logdir ~/saved/<name>
+# specify the <project_name> in config.json
+tensorboard --logdir ~/saved/<project_name>
 
 # specify a port 8080
-tensorboard --logdir ~/saved/<name> --port 8080
+tensorboard --logdir ~/saved/<project_name> --port 8080
 ```
 ![tensorboard](examples/images/tensorboard.jpeg)
 
