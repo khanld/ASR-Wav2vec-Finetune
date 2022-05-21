@@ -86,9 +86,17 @@ class Trainer(BaseTrainer):
             print("Epoch {}: ".format(epoch+1))
             pbar = PBar(self.steps_per_epoch, 10, stateful_metrics = self.stateful_metrics)
 
+        if self.resume_step >= 0 and self.rank == 0:
+            print("*****Load previous time steps******")
+            resume_pbar = tqdm(total=self.resume_step+1)
+
         for dl_step, batch in enumerate(self.train_dl):
             if self.resume_step >= 0:
                 self.resume_step -= 1
+                if self.rank == 0:
+                    resume_pbar.update()
+                    if self.resume_step < 0:
+                        resume_pbar.close()
                 continue
             with autocast(enabled = self.use_amp):
                 # forward

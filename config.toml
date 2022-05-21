@@ -5,7 +5,7 @@ epochs = 8
 save_dir = "saved/" 
 gradient_accumulation_steps = 2
 use_amp = false # Whether to use Automatic Mixed Precision for speeding up - https://pytorch.org/docs/stable/amp.html
-device_ids = "4,5" # set the gpu devices on which you want to train your model
+device_ids = "6,7" # set the gpu devices on which you want to train your model
 sr = 16000
 max_clip_grad_norm = 1.0 # torch.nn.utils.clip_grad_norm_
 
