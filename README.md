@@ -61,15 +61,17 @@ pip install -r requirements.txt
 ### Inference
 We provide an inference script that can transcribe a given audio file or even a list of audio files. Please take a look at the arguments below, especially the ```-f TEST_FILEPATH``` and the ```-s HUGGINGFACE_FOLDER``` arguments:
 ```cmd
+usage: inference.py [-h] -f TEST_FILEPATH [-s HUGGINGFACE_FOLDER] [-m MODEL_PATH] [-d DEVICE_ID]
+
 ASR INFERENCE ARGS
 
 optional arguments:
   -h, --help            show this help message and exit
   -f TEST_FILEPATH, --test_filepath TEST_FILEPATH
-                        It can be either the path to your audio file (.wav, .mp3) or a text file (.txt) contains list of audio filepaths.
+                        It can be either the path to your audio file (.wav, .mp3) or a text file (.txt) containing a list of audio file paths.
   -s HUGGINGFACE_FOLDER, --huggingface_folder HUGGINGFACE_FOLDER
-                        The folder where you stored the huggingface files. Check the <local_dir> argument of [huggingface.args] in config.toml. Default value: "huggingface-
-                        hub".
+                        The folder where you stored the huggingface files. Check the <local_dir> argument of [huggingface.args] in config.toml. Default
+                        value: "huggingface-hub".
   -m MODEL_PATH, --model_path MODEL_PATH
                         Path to the model (.tar file) in saved/<project_name>/checkpoints. If not provided, default uses the pytorch_model.bin in the
                         <HUGGINGFACE_FOLDER>
