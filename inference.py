@@ -66,8 +66,8 @@ if __name__ == '__main__':
     args.add_argument('-d', '--device_id', type=int, default = 0,
                       help='The device you want to test your model on if CUDA is available. Otherwise, CPU is used. Default value: 0')
     args = args.parse_args()
-    # device = f"cuda:{args.device_id}" if torch.cuda.is_available() else "cpu"
-    device = "cpu"
+    
+    device = f"cuda:{args.device_id}" if torch.cuda.is_available() else "cpu"
 
     inferencer = Inferencer(
         device = device, 
