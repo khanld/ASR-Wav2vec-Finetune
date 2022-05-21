@@ -177,7 +177,7 @@ def main(rank, world_size, config, resume, preload):
     cleanup()
 
 if __name__ == '__main__':
-    args = argparse.ArgumentParser(description='ASR')
+    args = argparse.ArgumentParser(description='ASR TRAIN ARGS')
     args.add_argument('-c', '--config', required=True, type=str,
                       help='config file path (default: None)')
     args.add_argument('-r', '--resume', action="store_true",

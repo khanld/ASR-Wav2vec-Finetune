@@ -111,7 +111,6 @@ class BaseTrainer:
         Args:
             model_path: The file path of the *.tar file
         """
-        model_path = model_path
         assert os.path.exists(model_path), f"The file {model_path} is not exist. please check path."
 
         map_location = {'cuda:%d' % 0: 'cuda:%d' % self.rank}

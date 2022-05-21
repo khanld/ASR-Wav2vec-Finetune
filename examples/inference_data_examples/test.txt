@@ -1,0 +1,4 @@
+dataset/common_voice/vi/clips/common_voice_vi_28846908.mp3
+dataset/common_voice/vi/clips/common_voice_vi_26942577.mp3
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_274.wav
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_279.wav

@@ -1,0 +1,4 @@
+dataset/common_voice/vi/clips/common_voice_vi_28846908.mp3 Hương thu còn thoảng đâu đây bên thềm
+dataset/common_voice/vi/clips/common_voice_vi_26942577.mp3 Gió đông lạnh heo may về khắp lối
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_274.wav chị nên đi khám bác sĩ và chọn phương pháp ngừa thai hiệu quả
+dataset/vivos/test/waves/VIVOSDEV19/VIVOSDEV19_279.wav nợ một cuộc chiến chống tham nhũng vẫn chưa vào đâu

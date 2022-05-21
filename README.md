@@ -5,10 +5,11 @@
 1. [Documentation](#documentation)
 2. [Available Features](#feature)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Logs and Visualization](#logs)
-6. [Citation](#citation)
-7. [Vietnamese](#vietnamese)
+4. [Train](#train)
+5. [Inference](#inference)
+6. [Logs and Visualization](#logs)
+7. [Citation](#citation)
+8. [Vietnamese](#vietnamese)
 
 
 <a name = "documentation" ></a>
@@ -32,8 +33,8 @@ All documents related to this repo can be found here:
 pip install -r requirements.txt
 ```
 
-<a name = "usage" ></a>
-### Usage
+<a name = "train" ></a>
+### Train
 1. Prepare your dataset
     - Your dataset can be in <b>.txt</b> or <b>.csv</b> format.
     - <b>path</b> and <b>transcript</b> columns are compulsory. The <b>path</b> column contains the paths to your stored audio files, depending on your dataset location, it can be either absolute paths or relative paths. The <b>transcript</b> column contains the corresponding transcripts to the audio paths. 
@@ -55,6 +56,44 @@ pip install -r requirements.txt
         ```
         python train.py -c config.toml -p path/to/your/model.tar
         ```
+
+<a name = "inference" ></a>
+### Inference
+We provide an inference script that can transcribe a given audio file or even a list of audio files. Please take a look at the arguments below, especially the ```-f TEST_FILEPATH``` and the ```-s HUGGINGFACE_FOLDER``` arguments:
+```cmd
+ASR INFERENCE ARGS
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -f TEST_FILEPATH, --test_filepath TEST_FILEPATH
+                        It can be either the path to your audio file (.wav, .mp3) or a text file (.txt) contains list of audio filepaths.
+  -s HUGGINGFACE_FOLDER, --huggingface_folder HUGGINGFACE_FOLDER
+                        The folder where you stored the huggingface files. Check the [huggingface.args] in config.toml. Default value: "huggingface-
+                        hub".
+  -m MODEL_PATH, --model_path MODEL_PATH
+                        Path to the model (.tar file) in saved/<project_name>/checkpoints. If not provided, default uses the pytorch_model.bin in the
+                        <HUGGINGFACE_FOLDER>
+  -d DEVICE_ID, --device_id DEVICE_ID
+                        The device you want to test your model on if CUDA is available. Otherwise, CPU is used. Default value: 0
+```
+
+Transcribe an audio file:
+```cmd
+python inference.py \
+    -f path/to/your/audio/file.wav (.mp3)
+    -s huggingface-hub
+
+# output example:
+>>> transcript: Hello World 
+```
+
+Transcribe a list of audio files. Check the input file [test.txt](examples/inference_data_examples/test.txt) and the output file [transcript_test.txt](examples/inference_data_examples/transcript_test.txt) (stored in the same folder as the input file):
+```cmd
+python inference.py \
+    -f path/to/your/audio/test.txt \
+    -s huggingface-hub
+```
+
 
 <a name = "logs" ></a>
 ### Logs and Visualization
