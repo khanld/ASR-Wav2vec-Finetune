@@ -143,6 +143,7 @@ class BaseTrainer:
         self.best_score = checkpoint["best_score"]
         self.optimizer.load_state_dict(checkpoint["optimizer"])
         self.scheduler.load_state_dict(checkpoint["scheduler"])
+        self.scaler.load_state_dict(checkpoint["scaler"])
         if isinstance(self.model, torch.nn.parallel.DistributedDataParallel):
             self.model.module.load_state_dict(checkpoint["model"], strict = True)
         else:
