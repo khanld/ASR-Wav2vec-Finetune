@@ -25,7 +25,6 @@ All documents related to this repo can be found here:
 - [x] Multi-GPU training
 - [x] Automatic Mix Precision
 - [ ] Push to Huggingface Hub
-- [ ] Continue to run at specific time step 
 
 <a name = "installation" ></a>
 ### Installation
