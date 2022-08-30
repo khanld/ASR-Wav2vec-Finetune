@@ -110,7 +110,7 @@ tensorboard --logdir ~/saved/<project_name> --port 8080
 
 <a name = "citation" ></a>
 ### Citation 
-[![DOI](https://zenodo.org/badge/485623832.svg)](https://github.com/khanld/ASR-Wa2vec-Finetune)
+[![DOI](https://zenodo.org/badge/485623832.svg)](https://github.com/khanld/ASR-Wa2vec-Finetune)]
 ```text
 @software{Duy_Khanh_Finetune_Wav2vec_2_0_2022,
     author = {Duy Khanh, Le},
