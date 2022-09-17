@@ -5,7 +5,7 @@ numpy==1.21.5
 pandarallel==1.6.1
 pandas==1.4.2
 scikit_learn==1.0.2
-tensorflow==2.8.0
+tensorflow==2.8.1
 toml==0.10.2
 torch==1.7.1
 tqdm==4.64.0
