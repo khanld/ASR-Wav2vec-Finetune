@@ -1,5 +1,5 @@
 [meta]
-project_name = "ASR" 
+name = "ASR" 
 seed = 42
 epochs = 20
 save_dir = "saved/" 
