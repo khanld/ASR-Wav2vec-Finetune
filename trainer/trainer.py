@@ -105,9 +105,6 @@ class Trainer(BaseTrainer):
 
                 # divide loss by gradient accumulation steps since gradients
                 # are accumulated for multiple backward passes in PyTorch
-                # Note that even though we use AMP here, the ctc_loss does not suppot float16 
-                # Hence, Gradscaler should be disabled. 
-                # Check https://github.com/huggingface/transformers/blob/v4.18.0/src/transformers/models/wav2vec2/modeling_wav2vec2.py#L1647
                 loss = outputs.loss / self.gradient_accumulation_steps
             self.scaler.scale(loss).backward()
             wer = torch.tensor(self.compute_metric(outputs.logits.detach(), batch['labels']))
