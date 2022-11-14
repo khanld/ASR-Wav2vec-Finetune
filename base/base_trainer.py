@@ -53,8 +53,7 @@ class BaseTrainer:
         self.use_distill = False
         self.use_amp = use_amp
         self.gradient_accumulation_steps = gradient_accumulation_steps
-        # Disabled Gradscaler
-        self.scaler = torch.cuda.amp.GradScaler(enabled=False)
+        self.scaler = torch.cuda.amp.GradScaler(enabled=use_amp)
         self.completed_steps = 0
         self.resume_step = -1
         
