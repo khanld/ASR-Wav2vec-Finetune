@@ -98,7 +98,7 @@ class Trainer(BaseTrainer):
                     if self.resume_step < 0:
                         resume_pbar.close()
                 continue
-            with autocast(enabled = self.use_amp):
+            with autocast(enabled=self.use_amp):
                 # forward
                 self.model.train()
                 outputs = self.model(**batch)
