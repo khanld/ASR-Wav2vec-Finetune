@@ -125,6 +125,7 @@ class Trainer(BaseTrainer):
                 scale_before = self.scaler.get_scale()
                 self.scaler.step(self.optimizer)
                 self.scaler.update()
+                self.optimizer.zero_grad()
                 scale_after = self.scaler.get_scale()
                 is_overflown = scale_after < scale_before
                 if is_overflown:
