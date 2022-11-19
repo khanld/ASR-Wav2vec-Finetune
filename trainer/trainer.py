@@ -166,6 +166,7 @@ class Trainer(BaseTrainer):
                             self._save_checkpoint(epoch, dl_step, is_best_epoch=True)
                         else:
                             self._save_checkpoint(epoch, dl_step, is_best_epoch=False)
+                    self.dist.barrier()  # see https://stackoverflow.com/questions/59760328/how-does-torch-distributed-barrier-work
                 self.pbar_step += 1
                 self.completed_steps += 1
 
