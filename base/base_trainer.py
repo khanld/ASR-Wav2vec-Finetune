@@ -130,8 +130,6 @@ class BaseTrainer:
         print("Loading model from ", latest_model_path)
         assert os.path.exists(latest_model_path), f"{latest_model_path} does not exist, can not load latest checkpoint."
 
-        self.dist.barrier()  # see https://stackoverflow.com/questions/59760328/how-does-torch-distributed-barrier-work
-
         map_location = {'cuda:%d' % 0: 'cuda:%d' % self.rank}
         checkpoint = torch.load(latest_model_path, map_location=map_location)
         
