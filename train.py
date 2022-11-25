@@ -78,7 +78,7 @@ def main(rank, world_size, config, resume, preload):
     tokenizer = Wav2Vec2CTCTokenizer("vocab.json", 
                                     **config["special_tokens"],
                                     word_delimiter_token="|")
-    feature_extractor = Wav2Vec2FeatureExtractor.from_pretrained("facebook/wav2vec2-base")
+    feature_extractor = Wav2Vec2FeatureExtractor.from_pretrained(pretrained_path)
     processor = Wav2Vec2Processor(feature_extractor=feature_extractor, tokenizer=tokenizer)
     default_collate = DefaultCollate(processor, config['meta']['sr'])
 
@@ -116,7 +116,7 @@ def main(rank, world_size, config, resume, preload):
 
     # Load pretrained model
     model = Wav2Vec2ForCTC.from_pretrained(
-        "facebook/wav2vec2-base", 
+        pretrained_path, 
         ctc_loss_reduction="mean", 
         pad_token_id=processor.tokenizer.pad_token_id,
         vocab_size=len(processor.tokenizer),
