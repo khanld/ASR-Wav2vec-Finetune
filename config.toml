@@ -1,5 +1,6 @@
 [meta]
 name = "ASR" 
+pretrained_path = "facebook/wav2vec2-base"
 seed = 42
 epochs = 20
 save_dir = "saved/" 
