@@ -75,11 +75,11 @@ path = "base.base_dataset.BaseDataset"
 
  
 [optimizer]
-lr = 8e-6
+lr = 1e-6
 
 
 [scheduler] 
-max_lr = 1e-5
+max_lr = 5e-4
     
 
 [trainer]
