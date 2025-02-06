@@ -55,9 +55,7 @@ class BaseTrainer:
         self.gradient_accumulation_steps = gradient_accumulation_steps
         self.scaler = torch.cuda.amp.GradScaler(enabled=use_amp)
         self.completed_steps = 0
-        self.resume_step = -1
         
-        self.validation_interval = config["trainer"]["args"]["validation_interval"]
         self.save_max_metric_score = config["trainer"]["args"]["save_max_metric_score"]
         self.best_score = -np.inf if self.save_max_metric_score else np.inf
 
@@ -114,10 +112,17 @@ class BaseTrainer:
 
         map_location = {'cuda:%d' % 0: 'cuda:%d' % self.rank}
         checkpoint = torch.load(model_path, map_location=map_location)
+
+
+        self.start_epoch = checkpoint["epoch"] + 1
+        self.completed_steps = checkpoint["completed_steps"] + 1
+        self.best_score = checkpoint["best_score"]
+        self.scheduler.load_state_dict(checkpoint["scheduler"])
+
         if isinstance(self.model, torch.nn.parallel.DistributedDataParallel):
-            self.model.module.load_state_dict(checkpoint["model"], strict = False)
+            self.model.module.load_state_dict(checkpoint["model"], strict=True)
         else:
-            self.model.load_state_dict(checkpoint["model"], strict = False)
+            self.model.load_state_dict(checkpoint["model"], strict=True)
 
         if self.rank == 0:
             print(f"Model preloaded successfully from {model_path}.")
@@ -133,44 +138,34 @@ class BaseTrainer:
         map_location = {'cuda:%d' % 0: 'cuda:%d' % self.rank}
         checkpoint = torch.load(latest_model_path, map_location=map_location)
         
-        self.start_epoch = checkpoint["epoch"]
-        self.resume_step = checkpoint["dl_step"] 
+        self.start_epoch = checkpoint["epoch"] + 1
         self.completed_steps = checkpoint["completed_steps"] + 1
-        self.pbar_step = checkpoint["pbar_step"] + 1
         self.best_score = checkpoint["best_score"]
         self.optimizer.load_state_dict(checkpoint["optimizer"])
         self.scheduler.load_state_dict(checkpoint["scheduler"])
         self.scaler.load_state_dict(checkpoint["scaler"])
         if isinstance(self.model, torch.nn.parallel.DistributedDataParallel):
-            self.model.module.load_state_dict(checkpoint["model"], strict = True)
+            self.model.module.load_state_dict(checkpoint["model"], strict=True)
         else:
-            self.model.load_state_dict(checkpoint["model"], strict = True)
+            self.model.load_state_dict(checkpoint["model"], strict=True)
         self.scaler.load_state_dict(checkpoint["scaler"])
-
-        if self.resume_step == len(self.train_dl) - 1:
-            self.resume_step = -1
-            self.start_epoch += 1
-            self.pbar_step = 0
 
         if self.rank == 0:
             print("*****Note that any changes in your config file or your training dataset may cause the resume to run incorrectly*****")
-            print(f"Start training at step {self.pbar_step+1} in epoch {self.start_epoch+1} (= {self.completed_steps+1} iterations) based on your configuration and training dataset")
+            print(f"Start training at epoch {self.start_epoch}")
 
 
-    def _save_checkpoint(self, epoch: int, dl_step: int, is_best_epoch: bool = False) -> None:
+    def _save_checkpoint(self, epoch: int,  is_best_epoch: bool = False) -> None:
         """
         Save checkpoint to "<save_dir>" directory, which consists of:
         Args:
-        - dl_step: step in current epoch
-            is_best_epoch (bool): In the current epoch, if the model get a best metric score (is_best_epoch=True),
+        - is_best_epoch (bool): In the current epoch, if the model get a best metric score (is_best_epoch=True),
                                 the checkpoint of model will be saved as "<save_dir>/best_model.tar".
         """
         print(f"\n Saving model checkpoint...")
 
         state_dict = {
             "epoch": epoch,
-            "dl_step": dl_step,
-            "pbar_step": self.pbar_step,
             "best_score": self.best_score,
             "optimizer": self.optimizer.state_dict(),
             "scaler": self.scaler.state_dict(),
@@ -190,7 +185,7 @@ class BaseTrainer:
 
         # "model_{epoch_number}.tar"
         # Contains all checkpoint information, like "latest_model.tar". However, the newer information will no overwrite the older one.
-        torch.save(state_dict, os.path.join(self.save_dir, f"model_{str(self.completed_steps+1)}.tar"))
+        torch.save(state_dict, os.path.join(self.save_dir, f"model_{str(epoch)}.tar"))
 
         # If the model get a best metric score (is_best_epoch=True) in the current epoch,
         # the model checkpoint will be saved as "best_model.tar."

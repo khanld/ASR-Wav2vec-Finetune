@@ -42,7 +42,7 @@ class BaseDataset(Dataset):
                 print("\n*****Filter out invalid audio*****")
             mask = (self.df['duration'] <= self.max_duration) & (self.df['duration'] >= self.min_duration)
             self.df = self.df[mask]
-        self.df['transcript'] = self.df['transcript'].parallel_apply(self.remove_special_characters)
+        # self.df['transcript'] = self.df['transcript'].parallel_apply(self.remove_special_characters)
     
         if self.preload_data:
             if self.rank == 0:

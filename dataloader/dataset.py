@@ -12,13 +12,12 @@ class DefaultCollate:
     def __call__(self, inputs) -> Dict[str, torch.tensor]:
         features, transcripts = zip(*inputs)
         features, transcripts = list(features), list(transcripts)
-        batch = self.processor(features, sampling_rate=16000, padding="longest", return_tensors="pt")
+        batch = self.processor(features, sampling_rate=16000, padding="longest", return_tensors="pt", return_attention_mask=True)
 
         with self.processor.as_target_processor():
             labels_batch = self.processor(transcripts, padding="longest", return_tensors="pt")
 
         batch["labels"] = labels_batch["input_ids"].masked_fill(labels_batch.attention_mask.ne(1), -100)
-
         return batch
 
 class Dataset:

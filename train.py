@@ -16,6 +16,7 @@ from utils.utils import *
 from utils.metric import Metric
 from dataloader.dataset import DefaultCollate
 from transformers import Wav2Vec2ForCTC, Wav2Vec2FeatureExtractor, Wav2Vec2CTCTokenizer, Wav2Vec2Processor
+from trainer.scheduler import WarmupLR
 
 def setup(rank, world_size):
     os.environ['MASTER_ADDR'] = 'localhost'
@@ -33,6 +34,7 @@ def main(rank, world_size, config, resume, preload):
     os.environ['TORCH_DISTRIBUTED_DEBUG'] = 'INFO'
     setup(rank, world_size)
 
+    pretrained_path = config["meta"]["pretrained_path"]
     epochs = config["meta"]["epochs"]
     gradient_accumulation_steps = config["meta"]["gradient_accumulation_steps"]
     use_amp = config["meta"]["use_amp"]
@@ -94,7 +96,8 @@ def main(rank, world_size, config, resume, preload):
         dataset=train_ds,
         **config["train_dataset"]["dataloader"],
         sampler = train_sampler,
-        collate_fn=default_collate
+        collate_fn=default_collate,
+        prefetch_factor=8,
     )
 
     # Create val dataloader
@@ -117,7 +120,7 @@ def main(rank, world_size, config, resume, preload):
     # Load pretrained model
     model = Wav2Vec2ForCTC.from_pretrained(
         pretrained_path, 
-        ctc_loss_reduction="mean", 
+        ctc_loss_reduction="sum", 
         pad_token_id=processor.tokenizer.pad_token_id,
         vocab_size=len(processor.tokenizer),
         gradient_checkpointing=False
@@ -135,11 +138,11 @@ def main(rank, world_size, config, resume, preload):
         lr = config["optimizer"]["lr"]
     )
     steps_per_epoch = (len(train_dl)//gradient_accumulation_steps) + (len(train_dl)%gradient_accumulation_steps != 0)
-    scheduler = torch.optim.lr_scheduler.OneCycleLR(
-        optimizer, 
-        max_lr=config["scheduler"]["max_lr"], 
-        epochs=epochs, 
-        steps_per_epoch = steps_per_epoch)
+    scheduler = WarmupLR(
+        optimizer=optimizer,
+        warmup_steps=config["scheduler"]["warmup_steps"]
+    )
+
 
 
     if rank == 0:
